@@ -1,0 +1,207 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Partners /> Renders the Partners unchanged 1`] = `
+.emotion-4 {
+  max-width: 1255px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.emotion-0 {
+  opacity: 0.5;
+  font-size: 22px;
+  font-weight: 400;
+  -webkit-letter-spacing: -0.15px;
+  -moz-letter-spacing: -0.15px;
+  -ms-letter-spacing: -0.15px;
+  letter-spacing: -0.15px;
+  text-align: center;
+  margin: 61px 0 46px;
+  color: #000000;
+}
+
+@media (max-width:48em) {
+  .emotion-0 {
+    margin: 40px 0 17px;
+  }
+}
+
+.emotion-2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  margin-bottom: 69px;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  overflow: auto;
+}
+
+.emotion-2 img {
+  margin-left: 50px;
+  min-width: -webkit-max-content;
+  min-width: -moz-max-content;
+  min-width: max-content;
+}
+
+.emotion-2 img:first-of-type {
+  margin-left: 0;
+}
+
+@media (max-width:48em) {
+  .emotion-2 {
+    margin-bottom: 53px;
+  }
+}
+
+<div>
+  <section
+    class="emotion-4 emotion-5"
+  >
+    <header>
+      <header
+        class="emotion-0 emotion-1"
+      >
+        Partners
+      </header>
+    </header>
+    <article
+      class="emotion-2 emotion-3"
+    >
+      <img
+        src="mocked-file"
+      />
+      <img
+        src="mocked-file"
+      />
+      <img
+        src="mocked-file"
+      />
+      <img
+        src="mocked-file"
+      />
+      <img
+        src="mocked-file"
+      />
+      <img
+        src="mocked-file"
+      />
+      <img
+        src="mocked-file"
+      />
+    </article>
+  </section>
+</div>
+`;
+
+exports[`<Partners /> Renders the Partners without a ticket section 1`] = `
+.emotion-4 {
+  max-width: 1255px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.emotion-0 {
+  opacity: 0.5;
+  font-size: 22px;
+  font-weight: 400;
+  -webkit-letter-spacing: -0.15px;
+  -moz-letter-spacing: -0.15px;
+  -ms-letter-spacing: -0.15px;
+  letter-spacing: -0.15px;
+  text-align: center;
+  margin: 61px 0 46px;
+  color: #000000;
+}
+
+@media (max-width:48em) {
+  .emotion-0 {
+    margin: 40px 0 17px;
+  }
+}
+
+.emotion-2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  margin-bottom: 69px;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  overflow: auto;
+}
+
+.emotion-2 img {
+  margin-left: 50px;
+  min-width: -webkit-max-content;
+  min-width: -moz-max-content;
+  min-width: max-content;
+}
+
+.emotion-2 img:first-of-type {
+  margin-left: 0;
+}
+
+@media (max-width:48em) {
+  .emotion-2 {
+    margin-bottom: 53px;
+  }
+}
+
+<div>
+  <section
+    class="emotion-4 emotion-5"
+  >
+    <header>
+      <header
+        class="emotion-0 emotion-1"
+      >
+        Partners
+      </header>
+    </header>
+    <article
+      class="emotion-2 emotion-3"
+    >
+      <img
+        src="mocked-file"
+      />
+      <img
+        src="mocked-file"
+      />
+      <img
+        src="mocked-file"
+      />
+      <img
+        src="mocked-file"
+      />
+      <img
+        src="mocked-file"
+      />
+      <img
+        src="mocked-file"
+      />
+      <img
+        src="mocked-file"
+      />
+    </article>
+  </section>
+</div>
+`;

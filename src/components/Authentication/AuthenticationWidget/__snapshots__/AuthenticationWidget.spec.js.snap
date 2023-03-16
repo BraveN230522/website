@@ -1,0 +1,566 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<AuthenticationWidget /> Renders the Authentication unchanged 1`] = `
+<DocumentFragment>
+  .emotion-41 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+}
+
+@media (max-width:48em) {
+  .emotion-41 {
+    min-height: calc(100% - 93px);
+  }
+}
+
+.emotion-4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  height: 60px;
+}
+
+.emotion-4 button:nth-of-type(1) {
+  border-top-left-radius: 16px;
+}
+
+.emotion-4 button:nth-of-type(2) {
+  border-top-right-radius: 16px;
+}
+
+@media (max-width:48em) {
+  .emotion-4 button:nth-of-type(1) {
+    border-top-left-radius: 0;
+  }
+
+  .emotion-4 button:nth-of-type(2) {
+    border-top-right-radius: 0;
+  }
+}
+
+.emotion-2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  height: 100%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  font-family: DINAlternateRegular,sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  border: none;
+  background-color: #eeeeee;
+  color: #9c9c9c;
+}
+
+.emotion-2:hover {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.emotion-2:focus {
+  outline: none;
+  box-sizing: border-box;
+  border: 3px solid;
+}
+
+.emotion-2::-moz-focus-inner {
+  border: 0;
+}
+
+.emotion-39 {
+  overflow-y: auto;
+  width: 100%;
+  height: inherit;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  padding: 32px 40px;
+}
+
+@media (max-width:48em) {
+  .emotion-39 {
+    padding: 48px 12px;
+  }
+}
+
+.emotion-16 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  padding: 32px 0;
+}
+
+@media (max-width:48em) {
+  .emotion-16 {
+    padding: 48px 0;
+  }
+}
+
+.emotion-6 {
+  font-family: Inter,sans-serif font-style:normal;
+  font-weight: 500;
+  font-size: 16px;
+  text-align: center;
+  height: 16px;
+  padding: 0;
+  margin: 0;
+  margin-bottom: 12px;
+  box-sizing: border-box;
+  color: #000000;
+}
+
+.emotion-14 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+@media (max-width:48em) {
+  .emotion-14 {
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+
+  .emotion-14 button:last-of-type {
+    margin-bottom: 0;
+  }
+}
+
+.emotion-8 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 50px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  width: 100%;
+  font-family: Inter,sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  margin-bottom: 10px;
+  background: transparent;
+  border-width: 0;
+  border-color: #9c9c9c;
+  border-style: solid;
+  box-sizing: border-box;
+  border-radius: 25px;
+}
+
+.emotion-8 > img {
+  width: 24px;
+  height: 24px;
+  margin-right: 10px;
+}
+
+@media (max-width:48em) {
+  .emotion-8 {
+    border-width: 1px;
+  }
+}
+
+.emotion-8:hover {
+  cursor: pointer;
+}
+
+.emotion-37 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.emotion-35 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  width: 100%;
+}
+
+.emotion-28 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.emotion-28 div {
+  width: 100%;
+}
+
+@media (max-width:48em) {
+  .emotion-28 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-flex-wrap: nowrap;
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+  }
+
+  .emotion-28 div {
+    width: 100%;
+  }
+}
+
+.emotion-22 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.emotion-20 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 50px;
+  width: 100%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  font-family: Inter,sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  padding: 12px 24px;
+  margin: 0;
+  margin-bottom: 10px;
+  border: 2px solid #9c9c9c;
+  box-sizing: border-box;
+  border-radius: 30px;
+}
+
+@media (max-width:48em) {
+  .emotion-20 {
+    border-width: 1px;
+    box-sizing: border-box;
+    border-radius: 25px;
+  }
+}
+
+.emotion-33 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding-top: 24px;
+}
+
+@media (max-width:48em) {
+  .emotion-33 {
+    padding-top: 20%;
+  }
+}
+
+.emotion-31 {
+  border: solid 2px #2891ff;
+  color: #ffffff;
+  background: #2891ff;
+  height: 45px;
+  font-weight: 600;
+  font-size: 16px;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-transition: all 0.3s ease-in;
+  transition: all 0.3s ease-in;
+  cursor: pointer;
+  font-family: Inter,sans-serif;
+  border-radius: 25px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  outline: none;
+  vertical-align: middle;
+  text-align: center;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  width: 103px;
+  width: 33.33%;
+}
+
+.emotion-31:hover {
+  border-color: #2891ff;
+  background: #ffffff;
+  color: #2891ff;
+}
+
+.emotion-31 svg {
+  margin-right: 6px;
+}
+
+.emotion-31:hover path {
+  stroke: #000000;
+}
+
+@media (max-width:48em) {
+  .emotion-31 {
+    width: 100%;
+  }
+}
+
+.emotion-0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  height: 100%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  font-family: DINAlternateRegular,sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  border: none;
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.emotion-0:hover {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.emotion-0:focus {
+  outline: none;
+}
+
+.emotion-0::-moz-focus-inner {
+  border: 0;
+}
+
+<div
+    class="emotion-41 emotion-42"
+    data-testid="authentication-widget-component"
+  >
+    <div
+      class="emotion-4 emotion-5"
+      data-testid="tab-switcher-component"
+    >
+      <button
+        class="emotion-0 emotion-1"
+      >
+        Login
+      </button>
+      <button
+        class="emotion-2 emotion-1"
+      >
+        Register
+      </button>
+    </div>
+    <div
+      class="emotion-39 emotion-40"
+    >
+      <section
+        class="emotion-16 emotion-17"
+        data-testid="social-authentication-component"
+      >
+        <span
+          class="emotion-6 emotion-7"
+        >
+          Continue with:
+        </span>
+        <div
+          class="emotion-14 emotion-15"
+        >
+          <button
+            class="emotion-8 emotion-9"
+          >
+            <img
+              alt="continue with Facebook"
+              src="mocked-file"
+            />
+            Facebook
+          </button>
+          <button
+            class="emotion-8 emotion-9"
+          >
+            <img
+              alt="continue with Google"
+              src="mocked-file"
+            />
+            Google
+          </button>
+          <button
+            class="emotion-8 emotion-9"
+          >
+            <img
+              alt="continue with LinkedIn"
+              src="mocked-file"
+            />
+            LinkedIn
+          </button>
+        </div>
+      </section>
+      <section
+        class="emotion-37 emotion-38"
+        data-testid="form-authentication-component"
+      >
+        <span
+          class="emotion-6 emotion-19"
+        >
+          Or Login with Email Address:
+        </span>
+        <form
+          class="emotion-35 emotion-36"
+        >
+          <div
+            class="emotion-28 emotion-29"
+          >
+            <div
+              class="emotion-22 emotion-23"
+            >
+              <input
+                aria-label="email-address-input"
+                class="emotion-20 emotion-21"
+                name="email"
+                placeholder="Email Address"
+                type="text"
+              />
+            </div>
+            <div
+              class="emotion-22 emotion-23"
+            >
+              <input
+                aria-label="password-input"
+                class="emotion-20 emotion-21"
+                name="password"
+                placeholder="Password"
+                type="password"
+              />
+            </div>
+          </div>
+          <div
+            class="emotion-33 emotion-34"
+          >
+            <button
+              class="emotion-30 emotion-31 emotion-32"
+            >
+              Login
+            </button>
+          </div>
+        </form>
+      </section>
+    </div>
+  </div>
+</DocumentFragment>
+`;

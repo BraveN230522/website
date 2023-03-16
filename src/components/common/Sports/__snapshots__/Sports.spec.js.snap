@@ -1,0 +1,788 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Sports /> Renders sports unchanged 1`] = `
+.emotion-66 {
+  background: #000000;
+  padding: 56px 0 30px 0;
+}
+
+@media (max-width:60em) {
+  .emotion-66 {
+    padding: 24px 0 22px;
+  }
+}
+
+.emotion-64 {
+  max-width: 1255px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.emotion-2 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+}
+
+@media (max-width:76.25em) {
+  .emotion-2 {
+    margin: 0 10px;
+  }
+}
+
+.emotion-0 {
+  color: #ffffff;
+  font-family: Inter,sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  -webkit-letter-spacing: -0.1px;
+  -moz-letter-spacing: -0.1px;
+  -ms-letter-spacing: -0.1px;
+  letter-spacing: -0.1px;
+  line-height: 29px;
+  margin-bottom: 37px;
+}
+
+.emotion-58 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin: 30px 0 15px;
+}
+
+.emotion-8 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  min-height: 150px;
+  width: 12.5%;
+}
+
+.emotion-8:hover svg > g,
+.emotion-8:hover svg + span {
+  opacity: 1;
+  -webkit-transition: all ease-in 0.3s;
+  transition: all ease-in 0.3s;
+}
+
+@media (max-width:60em) {
+  .emotion-8 {
+    width: 33%;
+    min-height: 121px;
+    margin-bottom: 41px;
+  }
+}
+
+.emotion-4 {
+  max-width: 61px;
+  width: 100%;
+  margin-bottom: 22px;
+}
+
+.emotion-6 {
+  color: #ffffff;
+  font-family: Inter,sans-serif;
+  display: block;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 17px;
+  opacity: 0.7;
+  text-align: center;
+}
+
+.emotion-62 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.emotion-60 {
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 500;
+  -webkit-letter-spacing: -0.1px;
+  -moz-letter-spacing: -0.1px;
+  -ms-letter-spacing: -0.1px;
+  letter-spacing: -0.1px;
+  margin: 0;
+  position: relative;
+  cursor: pointer;
+}
+
+.emotion-60:before {
+  display: block;
+  content: '';
+  position: absolute;
+  width: 0;
+  height: 0;
+  border: solid 6px transparent;
+  border-top-color: #ffffff;
+  right: -22px;
+  top: 6px;
+  border-top-width: 8px;
+}
+
+<div>
+  <section
+    class="emotion-66 emotion-67"
+  >
+    <div
+      class="emotion-64 emotion-65"
+    >
+      <header
+        class="emotion-2 emotion-3"
+      >
+        <span
+          class="emotion-0 emotion-1"
+        >
+          Browse tickets by Sport
+        </span>
+      </header>
+      <article
+        class="emotion-58 emotion-59"
+      >
+        <a
+          aria-label="sport ticket"
+          class="emotion-8 emotion-9"
+          href="/"
+        >
+          <img
+            class="emotion-4 emotion-5"
+            src="Sport club"
+          />
+          <span
+            class="emotion-6 emotion-7"
+          >
+            Sport 0
+          </span>
+        </a>
+        <a
+          aria-label="sport ticket"
+          class="emotion-8 emotion-9"
+          href="/"
+        >
+          <img
+            class="emotion-4 emotion-5"
+            src="Sport club"
+          />
+          <span
+            class="emotion-6 emotion-7"
+          >
+            Sport 1
+          </span>
+        </a>
+        <a
+          aria-label="sport ticket"
+          class="emotion-8 emotion-9"
+          href="/"
+        >
+          <img
+            class="emotion-4 emotion-5"
+            src="Sport club"
+          />
+          <span
+            class="emotion-6 emotion-7"
+          >
+            Sport 2
+          </span>
+        </a>
+        <a
+          aria-label="sport ticket"
+          class="emotion-8 emotion-9"
+          href="/"
+        >
+          <img
+            class="emotion-4 emotion-5"
+            src="Sport club"
+          />
+          <span
+            class="emotion-6 emotion-7"
+          >
+            Sport 3
+          </span>
+        </a>
+        <a
+          aria-label="sport ticket"
+          class="emotion-8 emotion-9"
+          href="/"
+        >
+          <img
+            class="emotion-4 emotion-5"
+            src="Sport club"
+          />
+          <span
+            class="emotion-6 emotion-7"
+          >
+            Sport 4
+          </span>
+        </a>
+        <a
+          aria-label="sport ticket"
+          class="emotion-8 emotion-9"
+          href="/"
+        >
+          <img
+            class="emotion-4 emotion-5"
+            src="Sport club"
+          />
+          <span
+            class="emotion-6 emotion-7"
+          >
+            Sport 5
+          </span>
+        </a>
+        <a
+          aria-label="sport ticket"
+          class="emotion-8 emotion-9"
+          href="/"
+        >
+          <img
+            class="emotion-4 emotion-5"
+            src="Sport club"
+          />
+          <span
+            class="emotion-6 emotion-7"
+          >
+            Sport 6
+          </span>
+        </a>
+        <a
+          aria-label="sport ticket"
+          class="emotion-8 emotion-9"
+          href="/"
+        >
+          <img
+            class="emotion-4 emotion-5"
+            src="Sport club"
+          />
+          <span
+            class="emotion-6 emotion-7"
+          >
+            Sport 7
+          </span>
+        </a>
+        <a
+          aria-label="sport ticket"
+          class="emotion-8 emotion-9"
+          href="/"
+        >
+          <img
+            class="emotion-4 emotion-5"
+            src="Sport club"
+          />
+          <span
+            class="emotion-6 emotion-7"
+          >
+            Sport 8
+          </span>
+        </a>
+      </article>
+      <div
+        aria-label="more sports"
+        class="emotion-62 emotion-63"
+      >
+        <p
+          class="emotion-60 emotion-61"
+        >
+          More
+        </p>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`<Sports /> Shows more tickets items when more option is clickedRenders sports unchanged 1`] = `
+.emotion-120 {
+  background: #000000;
+  padding: 56px 0 30px 0;
+}
+
+@media (max-width:60em) {
+  .emotion-120 {
+    padding: 24px 0 22px;
+  }
+}
+
+.emotion-118 {
+  max-width: 1255px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.emotion-2 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+}
+
+@media (max-width:76.25em) {
+  .emotion-2 {
+    margin: 0 10px;
+  }
+}
+
+.emotion-0 {
+  color: #ffffff;
+  font-family: Inter,sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  -webkit-letter-spacing: -0.1px;
+  -moz-letter-spacing: -0.1px;
+  -ms-letter-spacing: -0.1px;
+  letter-spacing: -0.1px;
+  line-height: 29px;
+  margin-bottom: 37px;
+}
+
+.emotion-112 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin: 30px 0 15px;
+}
+
+.emotion-8 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  min-height: 150px;
+  width: 12.5%;
+}
+
+.emotion-8:hover svg > g,
+.emotion-8:hover svg + span {
+  opacity: 1;
+  -webkit-transition: all ease-in 0.3s;
+  transition: all ease-in 0.3s;
+}
+
+@media (max-width:60em) {
+  .emotion-8 {
+    width: 33%;
+    min-height: 121px;
+    margin-bottom: 41px;
+  }
+}
+
+.emotion-4 {
+  max-width: 61px;
+  width: 100%;
+  margin-bottom: 22px;
+}
+
+.emotion-6 {
+  color: #ffffff;
+  font-family: Inter,sans-serif;
+  display: block;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 17px;
+  opacity: 0.7;
+  text-align: center;
+}
+
+.emotion-116 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.emotion-114 {
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 500;
+  -webkit-letter-spacing: -0.1px;
+  -moz-letter-spacing: -0.1px;
+  -ms-letter-spacing: -0.1px;
+  letter-spacing: -0.1px;
+  margin: 0;
+  position: relative;
+  cursor: pointer;
+}
+
+.emotion-114:before {
+  display: block;
+  content: '';
+  position: absolute;
+  width: 0;
+  height: 0;
+  border: solid 6px transparent;
+  border-top-color: #ffffff;
+  right: -22px;
+  top: 6px;
+  border-top-width: 8px;
+}
+
+<div>
+  <section
+    class="emotion-120 emotion-121"
+  >
+    <div
+      class="emotion-118 emotion-119"
+    >
+      <header
+        class="emotion-2 emotion-3"
+      >
+        <span
+          class="emotion-0 emotion-1"
+        >
+          Browse tickets by Sport
+        </span>
+      </header>
+      <article
+        class="emotion-112 emotion-113"
+      >
+        <a
+          aria-label="sport ticket"
+          class="emotion-8 emotion-9"
+          href="/"
+        >
+          <img
+            class="emotion-4 emotion-5"
+            src="Sport club"
+          />
+          <span
+            class="emotion-6 emotion-7"
+          >
+            Sport 0
+          </span>
+        </a>
+        <a
+          aria-label="sport ticket"
+          class="emotion-8 emotion-9"
+          href="/"
+        >
+          <img
+            class="emotion-4 emotion-5"
+            src="Sport club"
+          />
+          <span
+            class="emotion-6 emotion-7"
+          >
+            Sport 1
+          </span>
+        </a>
+        <a
+          aria-label="sport ticket"
+          class="emotion-8 emotion-9"
+          href="/"
+        >
+          <img
+            class="emotion-4 emotion-5"
+            src="Sport club"
+          />
+          <span
+            class="emotion-6 emotion-7"
+          >
+            Sport 2
+          </span>
+        </a>
+        <a
+          aria-label="sport ticket"
+          class="emotion-8 emotion-9"
+          href="/"
+        >
+          <img
+            class="emotion-4 emotion-5"
+            src="Sport club"
+          />
+          <span
+            class="emotion-6 emotion-7"
+          >
+            Sport 3
+          </span>
+        </a>
+        <a
+          aria-label="sport ticket"
+          class="emotion-8 emotion-9"
+          href="/"
+        >
+          <img
+            class="emotion-4 emotion-5"
+            src="Sport club"
+          />
+          <span
+            class="emotion-6 emotion-7"
+          >
+            Sport 4
+          </span>
+        </a>
+        <a
+          aria-label="sport ticket"
+          class="emotion-8 emotion-9"
+          href="/"
+        >
+          <img
+            class="emotion-4 emotion-5"
+            src="Sport club"
+          />
+          <span
+            class="emotion-6 emotion-7"
+          >
+            Sport 5
+          </span>
+        </a>
+        <a
+          aria-label="sport ticket"
+          class="emotion-8 emotion-9"
+          href="/"
+        >
+          <img
+            class="emotion-4 emotion-5"
+            src="Sport club"
+          />
+          <span
+            class="emotion-6 emotion-7"
+          >
+            Sport 6
+          </span>
+        </a>
+        <a
+          aria-label="sport ticket"
+          class="emotion-8 emotion-9"
+          href="/"
+        >
+          <img
+            class="emotion-4 emotion-5"
+            src="Sport club"
+          />
+          <span
+            class="emotion-6 emotion-7"
+          >
+            Sport 7
+          </span>
+        </a>
+        <a
+          aria-label="sport ticket"
+          class="emotion-8 emotion-9"
+          href="/"
+        >
+          <img
+            class="emotion-4 emotion-5"
+            src="Sport club"
+          />
+          <span
+            class="emotion-6 emotion-7"
+          >
+            Sport 8
+          </span>
+        </a>
+        <a
+          aria-label="sport ticket"
+          class="emotion-8 emotion-9"
+          href="/"
+        >
+          <img
+            class="emotion-4 emotion-5"
+            src="Sport club"
+          />
+          <span
+            class="emotion-6 emotion-7"
+          >
+            Sport 9
+          </span>
+        </a>
+        <a
+          aria-label="sport ticket"
+          class="emotion-8 emotion-9"
+          href="/"
+        >
+          <img
+            class="emotion-4 emotion-5"
+            src="Sport club"
+          />
+          <span
+            class="emotion-6 emotion-7"
+          >
+            Sport 10
+          </span>
+        </a>
+        <a
+          aria-label="sport ticket"
+          class="emotion-8 emotion-9"
+          href="/"
+        >
+          <img
+            class="emotion-4 emotion-5"
+            src="Sport club"
+          />
+          <span
+            class="emotion-6 emotion-7"
+          >
+            Sport 11
+          </span>
+        </a>
+        <a
+          aria-label="sport ticket"
+          class="emotion-8 emotion-9"
+          href="/"
+        >
+          <img
+            class="emotion-4 emotion-5"
+            src="Sport club"
+          />
+          <span
+            class="emotion-6 emotion-7"
+          >
+            Sport 12
+          </span>
+        </a>
+        <a
+          aria-label="sport ticket"
+          class="emotion-8 emotion-9"
+          href="/"
+        >
+          <img
+            class="emotion-4 emotion-5"
+            src="Sport club"
+          />
+          <span
+            class="emotion-6 emotion-7"
+          >
+            Sport 13
+          </span>
+        </a>
+        <a
+          aria-label="sport ticket"
+          class="emotion-8 emotion-9"
+          href="/"
+        >
+          <img
+            class="emotion-4 emotion-5"
+            src="Sport club"
+          />
+          <span
+            class="emotion-6 emotion-7"
+          >
+            Sport 14
+          </span>
+        </a>
+        <a
+          aria-label="sport ticket"
+          class="emotion-8 emotion-9"
+          href="/"
+        >
+          <img
+            class="emotion-4 emotion-5"
+            src="Sport club"
+          />
+          <span
+            class="emotion-6 emotion-7"
+          >
+            Sport 15
+          </span>
+        </a>
+        <a
+          aria-label="sport ticket"
+          class="emotion-8 emotion-9"
+          href="/"
+        >
+          <img
+            class="emotion-4 emotion-5"
+            src="Sport club"
+          />
+          <span
+            class="emotion-6 emotion-7"
+          >
+            Sport 16
+          </span>
+        </a>
+        <a
+          aria-label="sport ticket"
+          class="emotion-8 emotion-9"
+          href="/"
+        >
+          <img
+            class="emotion-4 emotion-5"
+            src="Sport club"
+          />
+          <span
+            class="emotion-6 emotion-7"
+          >
+            Sport 17
+          </span>
+        </a>
+      </article>
+      <div
+        aria-label="more sports"
+        class="emotion-116 emotion-117"
+      >
+        <p
+          class="emotion-114 emotion-115"
+        >
+          More
+        </p>
+      </div>
+    </div>
+  </section>
+</div>
+`;

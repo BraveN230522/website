@@ -1,0 +1,611 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Mosaic /> Renders a mosaic component 1`] = `
+.emotion-73 {
+  background-color: #ffffff;
+  max-width: 1255px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.emotion-73 header {
+  max-width: 1255px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+@media (max-width:48em) {
+  .emotion-73 {
+    padding: 0;
+  }
+}
+
+.emotion-2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  margin: 0 0 16px;
+}
+
+.emotion-0 {
+  color: #000000;
+  font-family: Inter,sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  -webkit-letter-spacing: -0.15px;
+  -moz-letter-spacing: -0.15px;
+  -ms-letter-spacing: -0.15px;
+  letter-spacing: -0.15px;
+  line-height: 29px;
+  margin: 0;
+}
+
+@media (max-width:23.625em) {
+  .emotion-0 {
+    font-size: 20px;
+  }
+}
+
+.emotion-70 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.emotion-68 {
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  grid-gap: 18px;
+  grid-auto-rows: 160px;
+}
+
+@media (max-width:48em) {
+  .emotion-68 {
+    max-width: 1255px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    overflow-x: scroll;
+    width: 100%;
+  }
+}
+
+.emotion-10 {
+  border-radius: 8px;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+}
+
+.emotion-10 svg {
+  bottom: 24px;
+  position: absolute;
+  right: 24px;
+  -webkit-transition: ease-out 0.3s all;
+  transition: ease-out 0.3s all;
+}
+
+@media (max-width:48em) {
+  .emotion-10 svg {
+    display: none;
+  }
+}
+
+.emotion-10:hover img {
+  -webkit-transform: scale(1.55) rotate(10deg);
+  -ms-transform: scale(1.55) rotate(10deg);
+  transform: scale(1.55) rotate(10deg);
+  -webkit-transition: all linear 8s;
+  transition: all linear 8s;
+}
+
+.emotion-10:hover svg {
+  -webkit-transform: translateX(5px);
+  -ms-transform: translateX(5px);
+  transform: translateX(5px);
+}
+
+.emotion-10:nth-of-type(1) {
+  grid-column: span 2;
+  grid-row: span 2;
+}
+
+.emotion-10:nth-of-type(4) {
+  grid-column: span 2;
+}
+
+@media (max-width:48em) {
+  .emotion-10 {
+    height: 176px;
+    margin-right: 6px;
+    min-width: 112px;
+    min-height: 176px;
+    width: 112px;
+  }
+}
+
+.emotion-4 {
+  height: 100%;
+  object-fit: cover;
+  -webkit-transition: ease-in 0.5s all;
+  transition: ease-in 0.5s all;
+  width: 100%;
+}
+
+.emotion-8 {
+  font-family: Inter,sans-serif;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 22px;
+  -webkit-letter-spacing: -0.33px;
+  -moz-letter-spacing: -0.33px;
+  -ms-letter-spacing: -0.33px;
+  letter-spacing: -0.33px;
+  line-height: 29px;
+  left: 50%;
+  margin: 0;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  -webkit-transform: translate(-50%,-50%);
+  -ms-transform: translate(-50%,-50%);
+  transform: translate(-50%,-50%);
+  width: 100%;
+}
+
+@media (max-width:60em) {
+  .emotion-8 {
+    font-size: 16px;
+    line-height: 21px;
+    -webkit-letter-spacing: -0.24px;
+    -moz-letter-spacing: -0.24px;
+    -ms-letter-spacing: -0.24px;
+    letter-spacing: -0.24px;
+  }
+}
+
+.emotion-6 {
+  color: #eeeeee;
+  display: block;
+  font-size: 18px;
+  -webkit-letter-spacing: -0.27px;
+  -moz-letter-spacing: -0.27px;
+  -ms-letter-spacing: -0.27px;
+  letter-spacing: -0.27px;
+  line-height: 24px;
+}
+
+@media (max-width:60em) {
+  .emotion-6 {
+    color: #d1d1d1;
+    font-size: 14px;
+    line-height: 19px;
+    -webkit-letter-spacing: -0.21px;
+    -moz-letter-spacing: -0.21px;
+    -ms-letter-spacing: -0.21px;
+    letter-spacing: -0.21px;
+  }
+}
+
+<div>
+  <div
+    class="emotion-72 emotion-73 emotion-74"
+  >
+    <header
+      class="emotion-2 emotion-3"
+    >
+      <h1
+        class="emotion-0 emotion-1"
+      >
+        Title Test for mosaic component
+      </h1>
+    </header>
+    <article
+      class="emotion-70 emotion-71"
+    >
+      <div
+        class="emotion-68 emotion-69"
+      >
+        <a
+          class="emotion-10 emotion-11"
+        >
+          <img
+            alt="New York City USA"
+            class="emotion-4 emotion-5"
+            src="https://edc.nyc/sites/default/files/styles/16x9_md/public/2019-05/Landing-Why-NYC%3F-Brooklyn-Bridge-Photo-Julienne-Schaer-NYC-and-Company-NYCEDC-02.jpg?itok=i6pWykbu"
+          />
+          <p
+            class="emotion-8 emotion-9"
+          >
+            <span
+              class="emotion-6 emotion-7"
+            />
+          </p>
+          <svg
+            color="#000"
+            fill="#000"
+            height="14"
+            width="8"
+          >
+            <defs>
+              <clippath
+                id="b"
+              >
+                <use
+                  xlink:href="#a"
+                />
+              </clippath>
+              <path
+                d="M5.586 7L.293 12.293a1 1 0 101.414 1.414l6-6a1 1 0 000-1.414l-6-6A1 1 0 00.293 1.707L5.586 7z"
+                id="a"
+              />
+            </defs>
+            <path
+              d="M5.586 7L.293 12.293a1 1 0 101.414 1.414l6-6a1 1 0 000-1.414l-6-6A1 1 0 00.293 1.707L5.586 7z"
+            />
+            <g
+              clip-path="url(#b)"
+            >
+              <path
+                d="M-8-5h24v24H-8V-5z"
+                fill="#FFF"
+              />
+            </g>
+          </svg>
+        </a>
+        <a
+          class="emotion-10 emotion-11"
+        >
+          <img
+            alt="Chicago USA"
+            class="emotion-4 emotion-5"
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSR-zPuUy3MV8gRm2VClF_5nsF7-TmjcwUSW2AhgTVpepglumYc&usqp=CAU"
+          />
+          <p
+            class="emotion-8 emotion-9"
+          >
+            <span
+              class="emotion-6 emotion-7"
+            />
+          </p>
+          <svg
+            color="#000"
+            fill="#000"
+            height="14"
+            width="8"
+          >
+            <defs>
+              <clippath
+                id="b"
+              >
+                <use
+                  xlink:href="#a"
+                />
+              </clippath>
+              <path
+                d="M5.586 7L.293 12.293a1 1 0 101.414 1.414l6-6a1 1 0 000-1.414l-6-6A1 1 0 00.293 1.707L5.586 7z"
+                id="a"
+              />
+            </defs>
+            <path
+              d="M5.586 7L.293 12.293a1 1 0 101.414 1.414l6-6a1 1 0 000-1.414l-6-6A1 1 0 00.293 1.707L5.586 7z"
+            />
+            <g
+              clip-path="url(#b)"
+            >
+              <path
+                d="M-8-5h24v24H-8V-5z"
+                fill="#FFF"
+              />
+            </g>
+          </svg>
+        </a>
+        <a
+          class="emotion-10 emotion-11"
+        >
+          <img
+            alt="Madrid Spain"
+            class="emotion-4 emotion-5"
+            src="https://www.tripsavvy.com/thmb/uxndpaB3e4BaNrS4R3f03OXXA-s=/960x0/filters:no_upscale():max_bytes(150000):strip_icc()/thingstodoinmadridskyline-d05bf06ef9144f04973d5bfc50fbcee6.jpg"
+          />
+          <p
+            class="emotion-8 emotion-9"
+          >
+            <span
+              class="emotion-6 emotion-7"
+            />
+          </p>
+          <svg
+            color="#000"
+            fill="#000"
+            height="14"
+            width="8"
+          >
+            <defs>
+              <clippath
+                id="b"
+              >
+                <use
+                  xlink:href="#a"
+                />
+              </clippath>
+              <path
+                d="M5.586 7L.293 12.293a1 1 0 101.414 1.414l6-6a1 1 0 000-1.414l-6-6A1 1 0 00.293 1.707L5.586 7z"
+                id="a"
+              />
+            </defs>
+            <path
+              d="M5.586 7L.293 12.293a1 1 0 101.414 1.414l6-6a1 1 0 000-1.414l-6-6A1 1 0 00.293 1.707L5.586 7z"
+            />
+            <g
+              clip-path="url(#b)"
+            >
+              <path
+                d="M-8-5h24v24H-8V-5z"
+                fill="#FFF"
+              />
+            </g>
+          </svg>
+        </a>
+        <a
+          class="emotion-10 emotion-11"
+        >
+          <img
+            alt="London United Kingdom"
+            class="emotion-4 emotion-5"
+            src="https://doubletree3.hilton.com/resources/media/dt/LONTLDI/en_US/img/shared/full_page_image_gallery/main/HL_towerbridge_30_677x380_FitToBoxSmallDimension_Center.jpg"
+          />
+          <p
+            class="emotion-8 emotion-9"
+          >
+            <span
+              class="emotion-6 emotion-7"
+            />
+          </p>
+          <svg
+            color="#000"
+            fill="#000"
+            height="14"
+            width="8"
+          >
+            <defs>
+              <clippath
+                id="b"
+              >
+                <use
+                  xlink:href="#a"
+                />
+              </clippath>
+              <path
+                d="M5.586 7L.293 12.293a1 1 0 101.414 1.414l6-6a1 1 0 000-1.414l-6-6A1 1 0 00.293 1.707L5.586 7z"
+                id="a"
+              />
+            </defs>
+            <path
+              d="M5.586 7L.293 12.293a1 1 0 101.414 1.414l6-6a1 1 0 000-1.414l-6-6A1 1 0 00.293 1.707L5.586 7z"
+            />
+            <g
+              clip-path="url(#b)"
+            >
+              <path
+                d="M-8-5h24v24H-8V-5z"
+                fill="#FFF"
+              />
+            </g>
+          </svg>
+        </a>
+        <a
+          class="emotion-10 emotion-11"
+        >
+          <img
+            alt="Houston USA"
+            class="emotion-4 emotion-5"
+            src="https://i.ytimg.com/vi/hNJr6qvUX6M/maxresdefault.jpg"
+          />
+          <p
+            class="emotion-8 emotion-9"
+          >
+            <span
+              class="emotion-6 emotion-7"
+            />
+          </p>
+          <svg
+            color="#000"
+            fill="#000"
+            height="14"
+            width="8"
+          >
+            <defs>
+              <clippath
+                id="b"
+              >
+                <use
+                  xlink:href="#a"
+                />
+              </clippath>
+              <path
+                d="M5.586 7L.293 12.293a1 1 0 101.414 1.414l6-6a1 1 0 000-1.414l-6-6A1 1 0 00.293 1.707L5.586 7z"
+                id="a"
+              />
+            </defs>
+            <path
+              d="M5.586 7L.293 12.293a1 1 0 101.414 1.414l6-6a1 1 0 000-1.414l-6-6A1 1 0 00.293 1.707L5.586 7z"
+            />
+            <g
+              clip-path="url(#b)"
+            >
+              <path
+                d="M-8-5h24v24H-8V-5z"
+                fill="#FFF"
+              />
+            </g>
+          </svg>
+        </a>
+        <a
+          class="emotion-10 emotion-11"
+        >
+          <img
+            alt="Los Angeles USA"
+            class="emotion-4 emotion-5"
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRHlbPiHfJDLYlVEWVq_H7-9xuGyFrzu8BQGGXHm_PQarHy_bJS&usqp=CAU"
+          />
+          <p
+            class="emotion-8 emotion-9"
+          >
+            <span
+              class="emotion-6 emotion-7"
+            />
+          </p>
+          <svg
+            color="#000"
+            fill="#000"
+            height="14"
+            width="8"
+          >
+            <defs>
+              <clippath
+                id="b"
+              >
+                <use
+                  xlink:href="#a"
+                />
+              </clippath>
+              <path
+                d="M5.586 7L.293 12.293a1 1 0 101.414 1.414l6-6a1 1 0 000-1.414l-6-6A1 1 0 00.293 1.707L5.586 7z"
+                id="a"
+              />
+            </defs>
+            <path
+              d="M5.586 7L.293 12.293a1 1 0 101.414 1.414l6-6a1 1 0 000-1.414l-6-6A1 1 0 00.293 1.707L5.586 7z"
+            />
+            <g
+              clip-path="url(#b)"
+            >
+              <path
+                d="M-8-5h24v24H-8V-5z"
+                fill="#FFF"
+              />
+            </g>
+          </svg>
+        </a>
+        <a
+          class="emotion-10 emotion-11"
+        >
+          <img
+            alt="Barcelona Spain"
+            class="emotion-4 emotion-5"
+            src="https://www.global-business-school.org/sites/default/files/reasons-pursue-degree-barcelona-1.jpg"
+          />
+          <p
+            class="emotion-8 emotion-9"
+          >
+            <span
+              class="emotion-6 emotion-7"
+            />
+          </p>
+          <svg
+            color="#000"
+            fill="#000"
+            height="14"
+            width="8"
+          >
+            <defs>
+              <clippath
+                id="b"
+              >
+                <use
+                  xlink:href="#a"
+                />
+              </clippath>
+              <path
+                d="M5.586 7L.293 12.293a1 1 0 101.414 1.414l6-6a1 1 0 000-1.414l-6-6A1 1 0 00.293 1.707L5.586 7z"
+                id="a"
+              />
+            </defs>
+            <path
+              d="M5.586 7L.293 12.293a1 1 0 101.414 1.414l6-6a1 1 0 000-1.414l-6-6A1 1 0 00.293 1.707L5.586 7z"
+            />
+            <g
+              clip-path="url(#b)"
+            >
+              <path
+                d="M-8-5h24v24H-8V-5z"
+                fill="#FFF"
+              />
+            </g>
+          </svg>
+        </a>
+        <a
+          class="emotion-10 emotion-11"
+        >
+          <img
+            alt="Toronto Canada"
+            class="emotion-4 emotion-5"
+            src="https://www.terryferreira.ca/wp-content/uploads/2019/03/toronto.jpg"
+          />
+          <p
+            class="emotion-8 emotion-9"
+          >
+            <span
+              class="emotion-6 emotion-7"
+            />
+          </p>
+          <svg
+            color="#000"
+            fill="#000"
+            height="14"
+            width="8"
+          >
+            <defs>
+              <clippath
+                id="b"
+              >
+                <use
+                  xlink:href="#a"
+                />
+              </clippath>
+              <path
+                d="M5.586 7L.293 12.293a1 1 0 101.414 1.414l6-6a1 1 0 000-1.414l-6-6A1 1 0 00.293 1.707L5.586 7z"
+                id="a"
+              />
+            </defs>
+            <path
+              d="M5.586 7L.293 12.293a1 1 0 101.414 1.414l6-6a1 1 0 000-1.414l-6-6A1 1 0 00.293 1.707L5.586 7z"
+            />
+            <g
+              clip-path="url(#b)"
+            >
+              <path
+                d="M-8-5h24v24H-8V-5z"
+                fill="#FFF"
+              />
+            </g>
+          </svg>
+        </a>
+      </div>
+    </article>
+  </div>
+</div>
+`;

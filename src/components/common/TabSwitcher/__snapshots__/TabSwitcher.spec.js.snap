@@ -1,0 +1,133 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TabSwitcher /> Renders the TabSwitcher unchanged 1`] = `
+<DocumentFragment>
+  .emotion-4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  height: 60px;
+}
+
+.emotion-4 button:nth-of-type(1) {
+  border-top-left-radius: 16px;
+}
+
+.emotion-4 button:nth-of-type(2) {
+  border-top-right-radius: 16px;
+}
+
+@media (max-width:48em) {
+  .emotion-4 button:nth-of-type(1) {
+    border-top-left-radius: 0;
+  }
+
+  .emotion-4 button:nth-of-type(2) {
+    border-top-right-radius: 0;
+  }
+}
+
+.emotion-0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  height: 100%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  font-family: DINAlternateRegular,sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  border: none;
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.emotion-0:hover {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.emotion-0:focus {
+  outline: none;
+}
+
+.emotion-0::-moz-focus-inner {
+  border: 0;
+}
+
+.emotion-2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  height: 100%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  font-family: DINAlternateRegular,sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  border: none;
+  background-color: #eeeeee;
+  color: #9c9c9c;
+}
+
+.emotion-2:hover {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.emotion-2:focus {
+  outline: none;
+  box-sizing: border-box;
+  border: 3px solid;
+}
+
+.emotion-2::-moz-focus-inner {
+  border: 0;
+}
+
+<div
+    class="emotion-4 emotion-5"
+    data-testid="tab-switcher-component"
+  >
+    <button
+      class="emotion-0 emotion-1"
+    >
+      left
+    </button>
+    <button
+      class="emotion-2 emotion-1"
+    >
+      right
+    </button>
+  </div>
+  <span>
+    active tab is left
+  </span>
+</DocumentFragment>
+`;

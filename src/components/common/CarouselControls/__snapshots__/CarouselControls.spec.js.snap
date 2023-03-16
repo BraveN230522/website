@@ -1,0 +1,128 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CarouselControls /> Snapshot Tests - Renders a selected control item when an activeIndex is passed 1`] = `
+.emotion-4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.emotion-2 {
+  width: 31px;
+  height: 5px;
+  display: block;
+  border-radius: 4px;
+  background-color: #ffffff;
+  margin-left: 4px;
+  cursor: pointer;
+  -webkit-transition: all ease-in 0.2s;
+  transition: all ease-in 0.2s;
+}
+
+.emotion-2:hover {
+  width: 31px;
+}
+
+.emotion-0 {
+  width: 13px;
+  height: 5px;
+  display: block;
+  border-radius: 4px;
+  background-color: #53A7FF;
+  margin-left: 4px;
+  cursor: pointer;
+  -webkit-transition: all ease-in 0.2s;
+  transition: all ease-in 0.2s;
+}
+
+.emotion-0:hover {
+  width: 31px;
+}
+
+<div>
+  <div
+    class="emotion-4 emotion-5"
+  >
+    <span
+      class="emotion-0 emotion-1"
+      role="control-1"
+    />
+    <span
+      class="emotion-2 emotion-1"
+      role="control-2"
+    />
+  </div>
+</div>
+`;
+
+exports[`<CarouselControls /> Snapshot Tests - Renders the CarouselControls without items 1`] = `
+.emotion-0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+<div>
+  <div
+    class="emotion-0 emotion-1"
+  />
+</div>
+`;
+
+exports[`<CarouselControls /> Snapshot Tests - Renders the first control as selected when no activeIndex is passed 1`] = `
+.emotion-4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.emotion-0 {
+  width: 31px;
+  height: 5px;
+  display: block;
+  border-radius: 4px;
+  background-color: #ffffff;
+  margin-left: 4px;
+  cursor: pointer;
+  -webkit-transition: all ease-in 0.2s;
+  transition: all ease-in 0.2s;
+}
+
+.emotion-0:hover {
+  width: 31px;
+}
+
+.emotion-2 {
+  width: 13px;
+  height: 5px;
+  display: block;
+  border-radius: 4px;
+  background-color: #53A7FF;
+  margin-left: 4px;
+  cursor: pointer;
+  -webkit-transition: all ease-in 0.2s;
+  transition: all ease-in 0.2s;
+}
+
+.emotion-2:hover {
+  width: 31px;
+}
+
+<div>
+  <div
+    class="emotion-4 emotion-5"
+  >
+    <span
+      class="emotion-0 emotion-1"
+      role="control-1"
+    />
+    <span
+      class="emotion-2 emotion-1"
+      role="control-2"
+    />
+  </div>
+</div>
+`;

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>002-question</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Desktop-UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.0---Home---v1.5" transform="translate(-1254.000000, -76.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Group-2" transform="translate(1254.000000, 75.000000)">
+                <g id="Group-24">
+                    <g id="002-question" transform="translate(0.000000, 1.000000)">
+                        <path d="M24,16.0767984 C24,13.0350954 22.2550181,10.3204713 19.6415659,9 C19.5604039,14.8320658 14.8320658,19.5604039 9,19.6415659 C10.3204713,22.2550181 13.0350954,24 16.0767984,24 C17.5029298,24 18.8897893,23.6201845 20.1083406,22.8985164 L23.9654033,23.9654033 L22.8985164,20.1083406 C23.6201845,18.8897893 24,17.5029298 24,16.0767984 L24,16.0767984 Z" id="Path"></path>
+                        <path d="M18,9 C18,4.0373042 13.9626958,0 9,0 C4.0373042,0 0,4.0373042 0,9 C0,10.6173673 0.430506691,12.1921156 1.24800192,13.5746284 L0.0330882353,17.9667319 L4.42537163,16.7519981 C5.80788442,17.5694933 7.3826327,18 9,18 C13.9626958,18 18,13.9626958 18,9 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

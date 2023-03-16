@@ -1,0 +1,247 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Button /> Renders a primary button 1`] = `
+.emotion-0 {
+  border: solid 2px #2891ff;
+  color: #ffffff;
+  background: #2891ff;
+  height: 45px;
+  font-weight: 600;
+  font-size: 16px;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-transition: all 0.3s ease-in;
+  transition: all 0.3s ease-in;
+  cursor: pointer;
+  font-family: Inter,sans-serif;
+  border-radius: 25px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  outline: none;
+  vertical-align: middle;
+  text-align: center;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  width: 103px;
+}
+
+.emotion-0:hover {
+  border-color: #2891ff;
+  background: #ffffff;
+  color: #2891ff;
+}
+
+.emotion-0 svg {
+  margin-right: 6px;
+}
+
+.emotion-0:hover path {
+  stroke: #000000;
+}
+
+<div>
+  <button
+    class="emotion-0 emotion-1"
+  />
+</div>
+`;
+
+exports[`<Button /> Renders a primary button with an outline style 1`] = `
+.emotion-0 {
+  border: solid 2px #2891ff;
+  color: #2891ff;
+  background: transparent;
+  height: 45px;
+  font-weight: 600;
+  font-size: 16px;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-transition: all 0.3s ease-in;
+  transition: all 0.3s ease-in;
+  cursor: pointer;
+  font-family: Inter,sans-serif;
+  border-radius: 25px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  outline: none;
+  vertical-align: middle;
+  text-align: center;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  width: 103px;
+}
+
+.emotion-0:hover {
+  border-color: #2891ff;
+  background: #2891ff;
+  color: #ffffff;
+}
+
+.emotion-0 svg {
+  margin-right: 6px;
+}
+
+.emotion-0:hover path {
+  stroke: #000000;
+}
+
+<div>
+  <button
+    class="emotion-0 emotion-1"
+  />
+</div>
+`;
+
+exports[`<Button /> Renders a secondary button 1`] = `
+.emotion-0 {
+  border: solid 2px #ffffff;
+  color: #000000;
+  background: #ffffff;
+  height: 45px;
+  font-weight: 600;
+  font-size: 16px;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-transition: all 0.3s ease-in;
+  transition: all 0.3s ease-in;
+  cursor: pointer;
+  font-family: Inter,sans-serif;
+  border-radius: 25px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  outline: none;
+  vertical-align: middle;
+  text-align: center;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  width: 103px;
+}
+
+.emotion-0:hover {
+  background: #000000;
+  color: #ffffff;
+}
+
+.emotion-0 svg {
+  margin-right: 6px;
+}
+
+.emotion-0:hover path {
+  stroke: #000000;
+}
+
+<div>
+  <button
+    class="emotion-0 emotion-1"
+  />
+</div>
+`;
+
+exports[`<Button /> Renders a secondary button with an outline style 1`] = `
+.emotion-0 {
+  border: solid 2px #ffffff;
+  color: #ffffff;
+  background: transparent;
+  height: 45px;
+  font-weight: 600;
+  font-size: 16px;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-transition: all 0.3s ease-in;
+  transition: all 0.3s ease-in;
+  cursor: pointer;
+  font-family: Inter,sans-serif;
+  border-radius: 25px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  outline: none;
+  vertical-align: middle;
+  text-align: center;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  width: 103px;
+}
+
+.emotion-0:hover {
+  background: #ffffff;
+  color: #000000;
+}
+
+.emotion-0 svg {
+  margin-right: 6px;
+}
+
+.emotion-0:hover path {
+  stroke: #000000;
+}
+
+<div>
+  <button
+    class="emotion-0 emotion-1"
+  />
+</div>
+`;

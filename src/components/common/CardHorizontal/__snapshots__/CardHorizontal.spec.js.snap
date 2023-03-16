@@ -1,0 +1,143 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CardHorizontal /> Renders a card horizontal component 1`] = `
+.emotion-8 a {
+  background-clip: border-box;
+  background-color: #f4f4f4;
+  border-radius: 8px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  position: relative;
+  width: 447px;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.emotion-8 a:hover {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.emotion-0 {
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
+  object-fit: cover;
+  max-width: 200px;
+  min-width: 200px;
+  max-height: 167px;
+}
+
+.emotion-6 {
+  padding: 15px 20px;
+}
+
+@media (max-width:48em) {
+  .emotion-6 {
+    padding: 10px 15px;
+    max-width: 167px;
+  }
+}
+
+.emotion-2 {
+  color: #000000;
+  font-family: Inter,sans-serif;
+  font-size: 17px;
+  font-weight: 700;
+  line-height: 23px;
+  margin-top: 0;
+  margin-bottom: 12px;
+  -webkit-letter-spacing: -0.1px;
+  -moz-letter-spacing: -0.1px;
+  -ms-letter-spacing: -0.1px;
+  letter-spacing: -0.1px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+.emotion-4 {
+  color: #000000;
+  font-family: Helvetica,sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  -webkit-letter-spacing: -0.08px;
+  -moz-letter-spacing: -0.08px;
+  -ms-letter-spacing: -0.08px;
+  letter-spacing: -0.08px;
+  margin-bottom: 0;
+  height: 65px;
+  width: 208px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+@media (max-width:48em) {
+  .emotion-4 {
+    max-width: 140px;
+  }
+}
+
+<div>
+  <div
+    class="emotion-8 emotion-9"
+  >
+    <a
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      <img
+        class="emotion-0 emotion-1"
+      />
+      <div
+        class="emotion-6 emotion-7"
+      >
+        <h1
+          class="emotion-2 emotion-3"
+        >
+          Restaurants near Madison Square Garden
+        </h1>
+        <p
+          class="emotion-4 emotion-5"
+        >
+          For years the area around Manhattan’s premier entertainment venue has been criticised for a lack of decent food options.
+        </p>
+      </div>
+    </a>
+  </div>
+  <div
+    class="emotion-8 emotion-9"
+  >
+    <a
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      <img
+        class="emotion-0 emotion-1"
+      />
+      <div
+        class="emotion-6 emotion-7"
+      >
+        <h1
+          class="emotion-2 emotion-3"
+        >
+          Hotels near Madison Square Garden
+        </h1>
+        <p
+          class="emotion-4 emotion-5"
+        >
+          Now, you might have heard that Manhattan isn’t exactly the cheapest place in the world, and a night or two in a hotel could ..
+        </p>
+      </div>
+    </a>
+  </div>
+</div>
+`;

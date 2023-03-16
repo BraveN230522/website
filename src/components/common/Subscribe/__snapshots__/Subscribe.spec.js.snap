@@ -1,0 +1,294 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Subscribe /> Renders the Subscribe unchanged 1`] = `
+.emotion-16 {
+  background: url(mocked-file) bottom center;
+  background-size: cover;
+  min-height: 233px;
+  width: 100%;
+}
+
+@media (max-width:52.25em) {
+  .emotion-16 {
+    background: mocked-file;
+    min-height: 316px;
+    width: 100%;
+  }
+}
+
+.emotion-14 {
+  max-width: 82.688em;
+  width: 100%;
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  padding: 2.938em 2px 3.688em;
+}
+
+.emotion-14 form {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: space-around;
+  -webkit-justify-content: space-around;
+  -ms-flex-pack: space-around;
+  justify-content: space-around;
+  width: 52rem;
+}
+
+.emotion-14 span {
+  text-shadow: 0 0 6px rgba(0,0,0,0.9);
+}
+
+.emotion-14 button {
+  font-family: Lato,sans-serif;
+}
+
+.emotion-14 input {
+  padding: 0 1.4rem;
+  background-color: rgba(14,38,75,0.74);
+}
+
+@media (max-width:52.25em) {
+  .emotion-14 {
+    padding: 2em 2px;
+  }
+
+  .emotion-14 form {
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    min-height: 159px;
+    width: 100%;
+  }
+
+  .emotion-14 button,
+  .emotion-14 form > div {
+    min-height: 42px;
+    width: 90%;
+  }
+
+  .emotion-14 input {
+    border-width: 1px;
+    background-color: rgba(39,94,133,0.66);
+  }
+
+  .emotion-14 form > div {
+    margin-bottom: 20px;
+  }
+}
+
+.emotion-0 {
+  color: #ffffff;
+  font-family: Inter,sans-serif;
+  font-size: 1.625rem;
+  font-weight: 400;
+  -webkit-letter-spacing: -0.1813954px;
+  -moz-letter-spacing: -0.1813954px;
+  -ms-letter-spacing: -0.1813954px;
+  letter-spacing: -0.1813954px;
+  line-height: 35px;
+  margin-bottom: 0.5em;
+  text-align: center;
+}
+
+@media (max-width:836px) {
+  .emotion-0 {
+    font-family: DINAlternateRegular,sans-serif;
+    font-weight: 600;
+    font-size: 1.375rem;
+    -webkit-letter-spacing: -0.1534884px;
+    -moz-letter-spacing: -0.1534884px;
+    -ms-letter-spacing: -0.1534884px;
+    letter-spacing: -0.1534884px;
+    line-height: 29px;
+  }
+}
+
+.emotion-2 {
+  color: #ffffff;
+  font-family: Helvetica,sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 25px;
+  margin-bottom: 1.813em;
+  text-align: center;
+}
+
+@media (max-width:836px) {
+  .emotion-2 {
+    font-family: Inter,sans-serif;
+    font-size: 0.875rem;
+    -webkit-letter-spacing: -0.1534884px;
+    -moz-letter-spacing: -0.1534884px;
+    -ms-letter-spacing: -0.1534884px;
+    letter-spacing: -0.1534884px;
+    line-height: 19px;
+    width: 207px;
+  }
+}
+
+.emotion-6 {
+  width: 22rem;
+}
+
+.emotion-4 {
+  border: 2px solid #ffffff;
+  border-radius: 25px;
+  font-family: Inter,sans-serif;
+  color: #ffffff;
+  display: block;
+  font-size: 13px;
+  outline: none;
+  font-weight: 400;
+  width: 100%;
+  line-height: 20px;
+  padding-left: 2.5rem;
+  padding-right: 0.8rem;
+  font-weight: 400;
+  height: 45px;
+}
+
+.emotion-4::-webkit-input-placeholder {
+  color: #ffffff;
+  opacity: 1;
+}
+
+.emotion-4::-moz-placeholder {
+  color: #ffffff;
+  opacity: 1;
+}
+
+.emotion-4:-ms-input-placeholder {
+  color: #ffffff;
+  opacity: 1;
+}
+
+.emotion-4::placeholder {
+  color: #ffffff;
+  opacity: 1;
+}
+
+@media (max-width:48em) {
+  .emotion-4 {
+    padding: 0 2.4rem;
+  }
+}
+
+.emotion-12 {
+  border: solid 2px #ffffff;
+  color: #000000;
+  background: #ffffff;
+  height: 45px;
+  font-weight: 600;
+  font-size: 16px;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-transition: all 0.3s ease-in;
+  transition: all 0.3s ease-in;
+  cursor: pointer;
+  font-family: Inter,sans-serif;
+  border-radius: 25px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  outline: none;
+  vertical-align: middle;
+  text-align: center;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  width: 103px;
+}
+
+.emotion-12:hover {
+  background: #000000;
+  color: #ffffff;
+}
+
+.emotion-12 svg {
+  margin-right: 6px;
+}
+
+.emotion-12:hover path {
+  stroke: #000000;
+}
+
+<div>
+  <div
+    class="emotion-16 emotion-17"
+  >
+    <div
+      class="emotion-14 emotion-15"
+    >
+      <span
+        class="emotion-0 emotion-1"
+      >
+        Subscribe
+      </span>
+      <span
+        class="emotion-2 emotion-3"
+      >
+        Subscribe to receive important announcements and deals
+      </span>
+      <form>
+        <div
+          class="emotion-6 emotion-7"
+        >
+          <input
+            class="emotion-4 emotion-5"
+            placeholder="Full Name"
+            value=""
+          />
+        </div>
+        <div
+          class="emotion-6 emotion-7"
+        >
+          <input
+            class="emotion-4 emotion-5"
+            placeholder="Email"
+            value=""
+          />
+        </div>
+        <button
+          class="emotion-12 emotion-13"
+        >
+          Go
+        </button>
+      </form>
+    </div>
+  </div>
+</div>
+`;

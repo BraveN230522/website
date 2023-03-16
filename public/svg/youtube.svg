@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="21px" viewBox="0 0 30 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>youtube-play</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+        <g id="Module/Footer" transform="translate(-1263.000000, -226.000000)" fill="#FFFFFF">
+            <g id="Group-36">
+                <g id="Group-5">
+                    <g id="Footer">
+                        <g id="Group-10">
+                            <g id="Group-9">
+                                <g id="youtube-play" transform="translate(1263.000000, 226.000000)">
+                                    <path d="M30,15.8462698 L30,5.15373022 C30,5.15373022 30,0 24.83008,0 L5.16815616,0 C5.16815616,0 0,0 0,5.15373022 L0,15.8462698 C0,15.8462698 0,21 5.16815616,21 L24.83008,21 C24.83008,21 30,21 30,15.8462698 M20.824318,10.514946 L11.0030574,16.2647576 L11.0030574,4.76337604 L20.824318,10.514946" id="Shape"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

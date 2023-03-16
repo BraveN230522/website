@@ -1,0 +1,123 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Tag /> Renders a tag tag with variant light 1`] = `
+.emotion-0 {
+  border: solid 2px #000000;
+  color: #000000;
+  background: transparent;
+  border-radius: 25px;
+  cursor: pointer;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-user-selection: none;
+  -moz-user-selection: none;
+  -ms-user-selection: none;
+  user-selection: none;
+  outline: none;
+  font-family: DINAlternateBold,sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  height: 32px;
+  -webkit-box-pack: space-around;
+  -webkit-justify-content: space-around;
+  -ms-flex-pack: space-around;
+  justify-content: space-around;
+  -webkit-letter-spacing: -0.1px;
+  -moz-letter-spacing: -0.1px;
+  -ms-letter-spacing: -0.1px;
+  letter-spacing: -0.1px;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: 0 8px;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-transition: all 0.3s ease-in;
+  transition: all 0.3s ease-in;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.emotion-0:hover {
+  background: #565656;
+  color: #ffffff;
+}
+
+.emotion-0:hover svg {
+  fill: #ffffff;
+}
+
+<div>
+  <button
+    class="emotion-0 emotion-1"
+  >
+    One tag
+  </button>
+</div>
+`;
+
+exports[`<Tag /> Renders a tag tag without variant 1`] = `
+.emotion-0 {
+  border: solid 2px #000000;
+  color: #000000;
+  background: transparent;
+  border-radius: 25px;
+  cursor: pointer;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-user-selection: none;
+  -moz-user-selection: none;
+  -ms-user-selection: none;
+  user-selection: none;
+  outline: none;
+  font-family: DINAlternateBold,sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  height: 32px;
+  -webkit-box-pack: space-around;
+  -webkit-justify-content: space-around;
+  -ms-flex-pack: space-around;
+  justify-content: space-around;
+  -webkit-letter-spacing: -0.1px;
+  -moz-letter-spacing: -0.1px;
+  -ms-letter-spacing: -0.1px;
+  letter-spacing: -0.1px;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: 0 8px;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-transition: all 0.3s ease-in;
+  transition: all 0.3s ease-in;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.emotion-0:hover {
+  background: #565656;
+  color: #ffffff;
+}
+
+.emotion-0:hover svg {
+  fill: #ffffff;
+}
+
+<div>
+  <button
+    class="emotion-0 emotion-1"
+  >
+    Another tag
+  </button>
+</div>
+`;

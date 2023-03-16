@@ -1,0 +1,464 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<VideoList /> Renders the popular players unchanged 1`] = `
+.emotion-28 {
+  background-color: #ffffff;
+  max-width: 1255px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.emotion-2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  margin: 0 0 16px;
+}
+
+.emotion-0 {
+  color: #000000;
+  font-family: Inter,sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  -webkit-letter-spacing: -0.15px;
+  -moz-letter-spacing: -0.15px;
+  -ms-letter-spacing: -0.15px;
+  letter-spacing: -0.15px;
+  line-height: 29px;
+  margin: 0;
+}
+
+@media (max-width:23.625em) {
+  .emotion-0 {
+    font-size: 20px;
+  }
+}
+
+.emotion-26 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.emotion-24 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  overflow-x: scroll;
+  width: 100%;
+}
+
+.emotion-6 {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQjAc88BYEOIl8QotTivsJFqGGZ7KBpHGACR0OeDbVtZ0_6OfIg&usqp=CAU);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  border-radius: 8px;
+  cursor: pointer;
+  height: 140px;
+  margin-right: 18px;
+  min-width: 224px;
+  width: 224px;
+}
+
+.emotion-6:last-child {
+  margin-right: 0;
+}
+
+.emotion-6 g,
+.emotion-6 use {
+  -webkit-transition: all 0.3s ease-in;
+  transition: all 0.3s ease-in;
+  fill: #fff;
+}
+
+.emotion-6 g:nth-of-type(3) use {
+  fill: transparent;
+}
+
+.emotion-6:hover g:nth-of-type(3) > use {
+  fill: #2891ff;
+}
+
+.emotion-4 {
+  left: 50%;
+  position: relative;
+  top: 50%;
+  -webkit-transform: translate(-50%,-50%);
+  -ms-transform: translate(-50%,-50%);
+  transform: translate(-50%,-50%);
+}
+
+<div>
+  <div
+    class="emotion-28 emotion-29"
+  >
+    <header
+      class="emotion-2 emotion-3"
+    >
+      <h1
+        class="emotion-0 emotion-1"
+      >
+        Test title for VideoList component
+      </h1>
+    </header>
+    <article
+      class="emotion-26 emotion-27"
+    >
+      <div
+        class="emotion-24 emotion-25"
+      >
+        <div
+          class="emotion-6 emotion-7"
+        >
+          <svg
+            class="emotion-4 emotion-5"
+            color="#000"
+            fill="#000"
+            height="40"
+            width="40"
+          >
+            <defs>
+              <clippath
+                id="c"
+              >
+                <use
+                  xlink:href="#a"
+                />
+              </clippath>
+              <clippath
+                id="d"
+              >
+                <use
+                  xlink:href="#b"
+                />
+              </clippath>
+              <path
+                d="M20 40c11.046 0 20-8.954 20-20S31.046 0 20 0 0 8.954 0 20s8.954 20 20 20z"
+                id="a"
+              />
+              <path
+                d="M10 0l10 16.47H0L10 0z"
+                id="b"
+                transform="rotate(90 10.588 20.588)"
+              />
+            </defs>
+            <use
+              fill-opacity=".2"
+              xlink:href="#a"
+            />
+            <g
+              clip-path="url(#c)"
+            >
+              <use
+                fill="none"
+                stroke="#FFF"
+                stroke-width="4"
+                xlink:href="#a"
+              />
+            </g>
+            <g>
+              <use
+                fill="#FFF"
+                xlink:href="#b"
+              />
+              <g
+                clip-path="url(#d)"
+              >
+                <use
+                  fill="none"
+                  stroke="#FFF"
+                  stroke-width="2"
+                  xlink:href="#b"
+                />
+              </g>
+            </g>
+          </svg>
+        </div>
+        <div
+          class="emotion-6 emotion-7"
+        >
+          <svg
+            class="emotion-4 emotion-5"
+            color="#000"
+            fill="#000"
+            height="40"
+            width="40"
+          >
+            <defs>
+              <clippath
+                id="c"
+              >
+                <use
+                  xlink:href="#a"
+                />
+              </clippath>
+              <clippath
+                id="d"
+              >
+                <use
+                  xlink:href="#b"
+                />
+              </clippath>
+              <path
+                d="M20 40c11.046 0 20-8.954 20-20S31.046 0 20 0 0 8.954 0 20s8.954 20 20 20z"
+                id="a"
+              />
+              <path
+                d="M10 0l10 16.47H0L10 0z"
+                id="b"
+                transform="rotate(90 10.588 20.588)"
+              />
+            </defs>
+            <use
+              fill-opacity=".2"
+              xlink:href="#a"
+            />
+            <g
+              clip-path="url(#c)"
+            >
+              <use
+                fill="none"
+                stroke="#FFF"
+                stroke-width="4"
+                xlink:href="#a"
+              />
+            </g>
+            <g>
+              <use
+                fill="#FFF"
+                xlink:href="#b"
+              />
+              <g
+                clip-path="url(#d)"
+              >
+                <use
+                  fill="none"
+                  stroke="#FFF"
+                  stroke-width="2"
+                  xlink:href="#b"
+                />
+              </g>
+            </g>
+          </svg>
+        </div>
+        <div
+          class="emotion-6 emotion-7"
+        >
+          <svg
+            class="emotion-4 emotion-5"
+            color="#000"
+            fill="#000"
+            height="40"
+            width="40"
+          >
+            <defs>
+              <clippath
+                id="c"
+              >
+                <use
+                  xlink:href="#a"
+                />
+              </clippath>
+              <clippath
+                id="d"
+              >
+                <use
+                  xlink:href="#b"
+                />
+              </clippath>
+              <path
+                d="M20 40c11.046 0 20-8.954 20-20S31.046 0 20 0 0 8.954 0 20s8.954 20 20 20z"
+                id="a"
+              />
+              <path
+                d="M10 0l10 16.47H0L10 0z"
+                id="b"
+                transform="rotate(90 10.588 20.588)"
+              />
+            </defs>
+            <use
+              fill-opacity=".2"
+              xlink:href="#a"
+            />
+            <g
+              clip-path="url(#c)"
+            >
+              <use
+                fill="none"
+                stroke="#FFF"
+                stroke-width="4"
+                xlink:href="#a"
+              />
+            </g>
+            <g>
+              <use
+                fill="#FFF"
+                xlink:href="#b"
+              />
+              <g
+                clip-path="url(#d)"
+              >
+                <use
+                  fill="none"
+                  stroke="#FFF"
+                  stroke-width="2"
+                  xlink:href="#b"
+                />
+              </g>
+            </g>
+          </svg>
+        </div>
+        <div
+          class="emotion-6 emotion-7"
+        >
+          <svg
+            class="emotion-4 emotion-5"
+            color="#000"
+            fill="#000"
+            height="40"
+            width="40"
+          >
+            <defs>
+              <clippath
+                id="c"
+              >
+                <use
+                  xlink:href="#a"
+                />
+              </clippath>
+              <clippath
+                id="d"
+              >
+                <use
+                  xlink:href="#b"
+                />
+              </clippath>
+              <path
+                d="M20 40c11.046 0 20-8.954 20-20S31.046 0 20 0 0 8.954 0 20s8.954 20 20 20z"
+                id="a"
+              />
+              <path
+                d="M10 0l10 16.47H0L10 0z"
+                id="b"
+                transform="rotate(90 10.588 20.588)"
+              />
+            </defs>
+            <use
+              fill-opacity=".2"
+              xlink:href="#a"
+            />
+            <g
+              clip-path="url(#c)"
+            >
+              <use
+                fill="none"
+                stroke="#FFF"
+                stroke-width="4"
+                xlink:href="#a"
+              />
+            </g>
+            <g>
+              <use
+                fill="#FFF"
+                xlink:href="#b"
+              />
+              <g
+                clip-path="url(#d)"
+              >
+                <use
+                  fill="none"
+                  stroke="#FFF"
+                  stroke-width="2"
+                  xlink:href="#b"
+                />
+              </g>
+            </g>
+          </svg>
+        </div>
+        <div
+          class="emotion-6 emotion-7"
+        >
+          <svg
+            class="emotion-4 emotion-5"
+            color="#000"
+            fill="#000"
+            height="40"
+            width="40"
+          >
+            <defs>
+              <clippath
+                id="c"
+              >
+                <use
+                  xlink:href="#a"
+                />
+              </clippath>
+              <clippath
+                id="d"
+              >
+                <use
+                  xlink:href="#b"
+                />
+              </clippath>
+              <path
+                d="M20 40c11.046 0 20-8.954 20-20S31.046 0 20 0 0 8.954 0 20s8.954 20 20 20z"
+                id="a"
+              />
+              <path
+                d="M10 0l10 16.47H0L10 0z"
+                id="b"
+                transform="rotate(90 10.588 20.588)"
+              />
+            </defs>
+            <use
+              fill-opacity=".2"
+              xlink:href="#a"
+            />
+            <g
+              clip-path="url(#c)"
+            >
+              <use
+                fill="none"
+                stroke="#FFF"
+                stroke-width="4"
+                xlink:href="#a"
+              />
+            </g>
+            <g>
+              <use
+                fill="#FFF"
+                xlink:href="#b"
+              />
+              <g
+                clip-path="url(#d)"
+              >
+                <use
+                  fill="none"
+                  stroke="#FFF"
+                  stroke-width="2"
+                  xlink:href="#b"
+                />
+              </g>
+            </g>
+          </svg>
+        </div>
+      </div>
+    </article>
+  </div>
+</div>
+`;

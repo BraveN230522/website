@@ -1,0 +1,558 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<MapView /> Renders the MapView 1`] = `
+.emotion-26 {
+  height: 790px;
+  width: 100%;
+}
+
+.emotion-0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: transparent;
+  border: none;
+}
+
+.emotion-0:hover,
+.emotion-0:focus {
+  cursor: pointer;
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+  outline: none;
+}
+
+.emotion-12 {
+  position: relative;
+  padding: 24px;
+  border-radius: 9px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  width: 339px;
+  background-color: #ffffff;
+}
+
+.emotion-2 {
+  opacity: 0.8;
+  font-family: Inter,sans-serif;
+  font-style: normal;
+  font-size: 17px;
+  font-weight: bold;
+  -webkit-letter-spacing: -0.12px;
+  -moz-letter-spacing: -0.12px;
+  -ms-letter-spacing: -0.12px;
+  letter-spacing: -0.12px;
+  color: #2891ff;
+}
+
+.emotion-2:hover {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.emotion-4 {
+  opacity: 0.8;
+  font-family: Inter,sans-serif;
+  font-style: normal;
+  font-size: 14px;
+  -webkit-letter-spacing: -0.1px;
+  -moz-letter-spacing: -0.1px;
+  -ms-letter-spacing: -0.1px;
+  letter-spacing: -0.1px;
+  color: #000000;
+}
+
+.emotion-6 {
+  margin: 0;
+  padding: 0;
+  opacity: 0.8;
+  font-family: Inter,sans-serif;
+  font-style: normal;
+  font-size: 12.3px;
+  -webkit-letter-spacing: -0.1px;
+  -moz-letter-spacing: -0.1px;
+  -ms-letter-spacing: -0.1px;
+  letter-spacing: -0.1px;
+  color: #6c6b6b;
+}
+
+.emotion-8 {
+  margin-top: 16px;
+  opacity: 0.8;
+  font-family: Inter,sans-serif;
+  font-size: 15px;
+  font-weight: normal;
+  font-style: normal;
+  -webkit-letter-spacing: -0.1px;
+  -moz-letter-spacing: -0.1px;
+  -ms-letter-spacing: -0.1px;
+  letter-spacing: -0.1px;
+  color: #2891ff;
+}
+
+.emotion-8:hover {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.emotion-10 {
+  position: absolute;
+  right: 16px;
+  top: 45.5px;
+}
+
+.emotion-10:hover {
+  cursor: pointer;
+}
+
+<div>
+  <div
+    class="emotion-26 emotion-27"
+  >
+    <div
+      style="width: 100%; height: 100%; margin: 0px; padding: 0px; position: relative;"
+    >
+      <div
+        style="width: 100%; height: 100%; left: 0px; top: 0px; margin: 0px; padding: 0px; position: absolute;"
+      />
+      <div
+        style="width: 50%; height: 50%; left: 50%; top: 50%; margin: 0px; padding: 0px; position: absolute;"
+      >
+        <div
+          style="width: 100%; height: 100%; left: 0px; top: 0px; margin: 0px; padding: 0px; position: absolute;"
+        >
+          <div
+            style="width: 0px; height: 0px; left: -107663.36961194666px; top: -65244.88584057643px; background-color: transparent; position: absolute;"
+          >
+            <button
+              class="emotion-0 emotion-1"
+              currentitem="false"
+              data-for="160447"
+              data-tip="true"
+            >
+              <svg
+                fill="none"
+                height="20"
+                viewBox="0 0 73 73"
+                width="20"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <g
+                  filter="url(#filter0_d)"
+                >
+                  <path
+                    clip-rule="evenodd"
+                    d="M16.8195 14.7947C21.9336 13.0474 28.8542 12 36.4994 12H36.5006C44.1458 12 51.0664 13.0474 56.1805 14.7947C58.7375 15.6683 60.8445 16.709 62.3942 17.9608C63.9243 19.1967 64.9736 20.7371 65 22.5C64.9736 24.2628 63.9243 25.8033 62.3942 27.0392C60.8445 28.291 58.7375 29.3317 56.1805 30.2053C51.0664 31.9526 44.1458 33 36.5006 33H36.4994C28.8542 33 21.9336 31.9526 16.8195 30.2053C14.2625 29.3317 12.1555 28.291 10.6058 27.0392C9.07573 25.8033 8.02638 24.2628 8 22.5C8.02638 20.7371 9.07573 19.1967 10.6058 17.9608C12.1555 16.709 14.2625 15.6683 16.8195 14.7947ZM36.5006 16.2843H36.4994C32.3294 16.2976 13.6393 18.1311 13.4474 22.5C13.6393 26.8689 32.3294 28.7024 36.4994 28.7157H36.5006C40.6706 28.7017 59.3607 26.8689 59.5526 22.5C59.3607 18.1311 40.6706 16.2976 36.5006 16.2843Z"
+                    fill="black"
+                    fill-rule="evenodd"
+                  />
+                  <path
+                    d="M65 28C64.6473 28.3585 64.2774 28.6966 63.8926 28.999C62.0057 30.4816 59.6788 31.5685 56.9465 32.4766C51.4818 34.2927 44.3617 35.3188 36.4988 35.3188C28.6359 35.3188 21.5206 34.2927 16.0559 32.4766C13.3235 31.5685 10.9907 30.4816 9.10381 28.999C8.71975 28.6972 8.35187 28.3601 8 28.0024V53.1778C8.11908 54.7881 9.15172 56.2064 10.6067 57.3497C11.5569 58.0963 12.719 58.7645 14.0638 59.3666V48.6186C14.0639 47.9545 14.6011 47.4147 15.2671 47.4094L21.691 49.2751C22.2033 49.4283 22.5545 49.8979 22.5556 50.4312V61.8888C25.3342 62.4253 28.3919 62.8094 31.6489 63V51.0358C31.6489 50.3659 32.1898 49.8266 32.8617 49.8266H40.1383C40.8102 49.8266 41.3511 50.3659 41.3511 51.0358V63C44.6089 62.8094 47.6676 62.4255 50.4468 61.8888V50.4312C50.4477 49.8982 50.7984 49.4287 51.3102 49.2751L57.6891 47.4094C58.3731 47.3888 58.9388 47.9362 58.9385 48.6186V59.3654C60.2823 58.7636 61.4437 58.0958 62.3933 57.3497C63.8458 56.2084 64.878 54.7929 65 53.1861V28Z"
+                    fill="black"
+                  />
+                  <path
+                    d="M57.2389 6.00063C56.5472 6.02554 55.9996 6.58998 56 7.27754V12.7094C56.1353 12.7527 56.282 12.7899 56.4155 12.8341C57.4982 13.1926 58.5199 13.5777 59.4807 14L64.2881 11.6133C65.2373 11.1431 65.2373 9.79772 64.2881 9.32757L57.8602 6.1378C57.668 6.04106 57.4543 5.99389 57.2389 6.00063Z"
+                    fill="black"
+                  />
+                  <path
+                    d="M14 7.16257V13C14.662 12.757 15.3506 12.5263 16.0649 12.3073C18.1073 11.6811 20.3765 11.1577 22.812 10.7336C23.2035 10.1425 22.9618 9.36991 22.2886 9.06066L15.8603 6.1073C15.001 5.71251 14 6.48477 14 7.16257Z"
+                    fill="black"
+                  />
+                </g>
+                <defs>
+                  <filter
+                    color-interpolation-filters="sRGB"
+                    filterUnits="userSpaceOnUse"
+                    height="73"
+                    id="filter0_d"
+                    width="73"
+                    x="0"
+                    y="0"
+                  >
+                    <feflood
+                      flood-opacity="0"
+                      result="BackgroundImageFix"
+                    />
+                    <fecolormatrix
+                      in="SourceAlpha"
+                      type="matrix"
+                      values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                    />
+                    <feoffset
+                      dy="2"
+                    />
+                    <fegaussianblur
+                      stdDeviation="4"
+                    />
+                    <fecolormatrix
+                      type="matrix"
+                      values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.455256 0"
+                    />
+                    <feblend
+                      in2="BackgroundImageFix"
+                      mode="normal"
+                      result="effect1_dropShadow"
+                    />
+                    <feblend
+                      in="SourceGraphic"
+                      in2="effect1_dropShadow"
+                      mode="normal"
+                      result="shape"
+                    />
+                  </filter>
+                </defs>
+              </svg>
+            </button>
+            <div
+              aria-haspopup="true"
+              class="__react_component_tooltip t00000000-0000-4000-8000-000000000000 place-top type-dark allow_hover"
+              data-id="tooltip"
+              id="160447"
+            >
+              <style>
+                
+  	.t00000000-0000-4000-8000-000000000000 {
+	    color: #fff;
+	    background: #222;
+	    border: 1px solid transparent;
+  	}
+
+  	.t00000000-0000-4000-8000-000000000000.place-top {
+        margin-top: -10px;
+    }
+    .t00000000-0000-4000-8000-000000000000.place-top::before {
+        border-top: 8px solid transparent;
+    }
+    .t00000000-0000-4000-8000-000000000000.place-top::after {
+        border-left: 8px solid transparent;
+        border-right: 8px solid transparent;
+        bottom: -6px;
+        left: 50%;
+        margin-left: -8px;
+        border-top-color: #222;
+        border-top-style: solid;
+        border-top-width: 6px;
+    }
+
+    .t00000000-0000-4000-8000-000000000000.place-bottom {
+        margin-top: 10px;
+    }
+    .t00000000-0000-4000-8000-000000000000.place-bottom::before {
+        border-bottom: 8px solid transparent;
+    }
+    .t00000000-0000-4000-8000-000000000000.place-bottom::after {
+        border-left: 8px solid transparent;
+        border-right: 8px solid transparent;
+        top: -6px;
+        left: 50%;
+        margin-left: -8px;
+        border-bottom-color: #222;
+        border-bottom-style: solid;
+        border-bottom-width: 6px;
+    }
+
+    .t00000000-0000-4000-8000-000000000000.place-left {
+        margin-left: -10px;
+    }
+    .t00000000-0000-4000-8000-000000000000.place-left::before {
+        border-left: 8px solid transparent;
+    }
+    .t00000000-0000-4000-8000-000000000000.place-left::after {
+        border-top: 5px solid transparent;
+        border-bottom: 5px solid transparent;
+        right: -6px;
+        top: 50%;
+        margin-top: -4px;
+        border-left-color: #222;
+        border-left-style: solid;
+        border-left-width: 6px;
+    }
+
+    .t00000000-0000-4000-8000-000000000000.place-right {
+        margin-left: 10px;
+    }
+    .t00000000-0000-4000-8000-000000000000.place-right::before {
+        border-right: 8px solid transparent;
+    }
+    .t00000000-0000-4000-8000-000000000000.place-right::after {
+        border-top: 5px solid transparent;
+        border-bottom: 5px solid transparent;
+        left: -6px;
+        top: 50%;
+        margin-top: -4px;
+        border-right-color: #222;
+        border-right-style: solid;
+        border-right-width: 6px;
+    }
+  
+              </style>
+              <div
+                class="emotion-12 emotion-13"
+              >
+                <a
+                  class="emotion-2 emotion-3"
+                >
+                  New York Yankees vs. Pittsburgh Pirates
+                </a>
+                <span
+                  class="emotion-4 emotion-5"
+                >
+                  Yankee Stadium
+                </span>
+                <p
+                  class="emotion-6 emotion-7"
+                >
+                   One East 161st Street
+                </p>
+                <a
+                  class="emotion-8 emotion-9"
+                >
+                  See 
+                  1
+                   more 
+                  event
+                </a>
+                <a
+                  class="emotion-10 emotion-11"
+                >
+                  <svg
+                    fill="none"
+                    height="28"
+                    viewBox="0 0 16 28"
+                    width="16"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M0 2.30739L12.3001 13.999L0.000981601 25.6902L1.79731 27.5L16 13.999L1.79731 0.5L0 2.30739Z"
+                      fill="#2A98FF"
+                    />
+                  </svg>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div
+            style="width: 0px; height: 0px; left: -107546.59567388444px; top: -65104.61687456892px; background-color: transparent; position: absolute;"
+          >
+            <button
+              class="emotion-0 emotion-1"
+              currentitem="false"
+              data-for="162549"
+              data-tip="true"
+            >
+              <svg
+                fill="none"
+                height="20"
+                viewBox="0 0 73 73"
+                width="20"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <g
+                  filter="url(#filter0_d)"
+                >
+                  <path
+                    clip-rule="evenodd"
+                    d="M16.8195 14.7947C21.9336 13.0474 28.8542 12 36.4994 12H36.5006C44.1458 12 51.0664 13.0474 56.1805 14.7947C58.7375 15.6683 60.8445 16.709 62.3942 17.9608C63.9243 19.1967 64.9736 20.7371 65 22.5C64.9736 24.2628 63.9243 25.8033 62.3942 27.0392C60.8445 28.291 58.7375 29.3317 56.1805 30.2053C51.0664 31.9526 44.1458 33 36.5006 33H36.4994C28.8542 33 21.9336 31.9526 16.8195 30.2053C14.2625 29.3317 12.1555 28.291 10.6058 27.0392C9.07573 25.8033 8.02638 24.2628 8 22.5C8.02638 20.7371 9.07573 19.1967 10.6058 17.9608C12.1555 16.709 14.2625 15.6683 16.8195 14.7947ZM36.5006 16.2843H36.4994C32.3294 16.2976 13.6393 18.1311 13.4474 22.5C13.6393 26.8689 32.3294 28.7024 36.4994 28.7157H36.5006C40.6706 28.7017 59.3607 26.8689 59.5526 22.5C59.3607 18.1311 40.6706 16.2976 36.5006 16.2843Z"
+                    fill="black"
+                    fill-rule="evenodd"
+                  />
+                  <path
+                    d="M65 28C64.6473 28.3585 64.2774 28.6966 63.8926 28.999C62.0057 30.4816 59.6788 31.5685 56.9465 32.4766C51.4818 34.2927 44.3617 35.3188 36.4988 35.3188C28.6359 35.3188 21.5206 34.2927 16.0559 32.4766C13.3235 31.5685 10.9907 30.4816 9.10381 28.999C8.71975 28.6972 8.35187 28.3601 8 28.0024V53.1778C8.11908 54.7881 9.15172 56.2064 10.6067 57.3497C11.5569 58.0963 12.719 58.7645 14.0638 59.3666V48.6186C14.0639 47.9545 14.6011 47.4147 15.2671 47.4094L21.691 49.2751C22.2033 49.4283 22.5545 49.8979 22.5556 50.4312V61.8888C25.3342 62.4253 28.3919 62.8094 31.6489 63V51.0358C31.6489 50.3659 32.1898 49.8266 32.8617 49.8266H40.1383C40.8102 49.8266 41.3511 50.3659 41.3511 51.0358V63C44.6089 62.8094 47.6676 62.4255 50.4468 61.8888V50.4312C50.4477 49.8982 50.7984 49.4287 51.3102 49.2751L57.6891 47.4094C58.3731 47.3888 58.9388 47.9362 58.9385 48.6186V59.3654C60.2823 58.7636 61.4437 58.0958 62.3933 57.3497C63.8458 56.2084 64.878 54.7929 65 53.1861V28Z"
+                    fill="black"
+                  />
+                  <path
+                    d="M57.2389 6.00063C56.5472 6.02554 55.9996 6.58998 56 7.27754V12.7094C56.1353 12.7527 56.282 12.7899 56.4155 12.8341C57.4982 13.1926 58.5199 13.5777 59.4807 14L64.2881 11.6133C65.2373 11.1431 65.2373 9.79772 64.2881 9.32757L57.8602 6.1378C57.668 6.04106 57.4543 5.99389 57.2389 6.00063Z"
+                    fill="black"
+                  />
+                  <path
+                    d="M14 7.16257V13C14.662 12.757 15.3506 12.5263 16.0649 12.3073C18.1073 11.6811 20.3765 11.1577 22.812 10.7336C23.2035 10.1425 22.9618 9.36991 22.2886 9.06066L15.8603 6.1073C15.001 5.71251 14 6.48477 14 7.16257Z"
+                    fill="black"
+                  />
+                </g>
+                <defs>
+                  <filter
+                    color-interpolation-filters="sRGB"
+                    filterUnits="userSpaceOnUse"
+                    height="73"
+                    id="filter0_d"
+                    width="73"
+                    x="0"
+                    y="0"
+                  >
+                    <feflood
+                      flood-opacity="0"
+                      result="BackgroundImageFix"
+                    />
+                    <fecolormatrix
+                      in="SourceAlpha"
+                      type="matrix"
+                      values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                    />
+                    <feoffset
+                      dy="2"
+                    />
+                    <fegaussianblur
+                      stdDeviation="4"
+                    />
+                    <fecolormatrix
+                      type="matrix"
+                      values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.455256 0"
+                    />
+                    <feblend
+                      in2="BackgroundImageFix"
+                      mode="normal"
+                      result="effect1_dropShadow"
+                    />
+                    <feblend
+                      in="SourceGraphic"
+                      in2="effect1_dropShadow"
+                      mode="normal"
+                      result="shape"
+                    />
+                  </filter>
+                </defs>
+              </svg>
+            </button>
+            <div
+              aria-haspopup="true"
+              class="__react_component_tooltip t00000000-0000-4000-8000-000000000000 place-top type-dark allow_hover"
+              data-id="tooltip"
+              id="162549"
+            >
+              <style>
+                
+  	.t00000000-0000-4000-8000-000000000000 {
+	    color: #fff;
+	    background: #222;
+	    border: 1px solid transparent;
+  	}
+
+  	.t00000000-0000-4000-8000-000000000000.place-top {
+        margin-top: -10px;
+    }
+    .t00000000-0000-4000-8000-000000000000.place-top::before {
+        border-top: 8px solid transparent;
+    }
+    .t00000000-0000-4000-8000-000000000000.place-top::after {
+        border-left: 8px solid transparent;
+        border-right: 8px solid transparent;
+        bottom: -6px;
+        left: 50%;
+        margin-left: -8px;
+        border-top-color: #222;
+        border-top-style: solid;
+        border-top-width: 6px;
+    }
+
+    .t00000000-0000-4000-8000-000000000000.place-bottom {
+        margin-top: 10px;
+    }
+    .t00000000-0000-4000-8000-000000000000.place-bottom::before {
+        border-bottom: 8px solid transparent;
+    }
+    .t00000000-0000-4000-8000-000000000000.place-bottom::after {
+        border-left: 8px solid transparent;
+        border-right: 8px solid transparent;
+        top: -6px;
+        left: 50%;
+        margin-left: -8px;
+        border-bottom-color: #222;
+        border-bottom-style: solid;
+        border-bottom-width: 6px;
+    }
+
+    .t00000000-0000-4000-8000-000000000000.place-left {
+        margin-left: -10px;
+    }
+    .t00000000-0000-4000-8000-000000000000.place-left::before {
+        border-left: 8px solid transparent;
+    }
+    .t00000000-0000-4000-8000-000000000000.place-left::after {
+        border-top: 5px solid transparent;
+        border-bottom: 5px solid transparent;
+        right: -6px;
+        top: 50%;
+        margin-top: -4px;
+        border-left-color: #222;
+        border-left-style: solid;
+        border-left-width: 6px;
+    }
+
+    .t00000000-0000-4000-8000-000000000000.place-right {
+        margin-left: 10px;
+    }
+    .t00000000-0000-4000-8000-000000000000.place-right::before {
+        border-right: 8px solid transparent;
+    }
+    .t00000000-0000-4000-8000-000000000000.place-right::after {
+        border-top: 5px solid transparent;
+        border-bottom: 5px solid transparent;
+        left: -6px;
+        top: 50%;
+        margin-top: -4px;
+        border-right-color: #222;
+        border-right-style: solid;
+        border-right-width: 6px;
+    }
+  
+              </style>
+              <div
+                class="emotion-12 emotion-13"
+              >
+                <a
+                  class="emotion-2 emotion-3"
+                >
+                  New York Mets vs. Cincinnati Reds
+                </a>
+                <span
+                  class="emotion-4 emotion-5"
+                >
+                  Citi Field
+                </span>
+                <p
+                  class="emotion-6 emotion-7"
+                >
+                  1 Roosevelt Avenue
+                </p>
+                <a
+                  class="emotion-10 emotion-11"
+                >
+                  <svg
+                    fill="none"
+                    height="28"
+                    viewBox="0 0 16 28"
+                    width="16"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M0 2.30739L12.3001 13.999L0.000981601 25.6902L1.79731 27.5L16 13.999L1.79731 0.5L0 2.30739Z"
+                      fill="#2A98FF"
+                    />
+                  </svg>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

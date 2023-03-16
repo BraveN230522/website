@@ -1,0 +1,3851 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Hotels /> Renders the hotels page unchanged 1`] = `
+.emotion-90 {
+  width: 100%;
+  min-height: 736px;
+  padding-top: 1px;
+  background-color: #000000;
+  position: relative;
+  min-height: 556px;
+}
+
+.emotion-90:after,
+.emotion-90:before {
+  content: '';
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  z-index: 2;
+}
+
+.emotion-90:after {
+  display: none;
+  background: rgba(0,0,0,0.1);
+}
+
+.emotion-90:before {
+  background: linear-gradient(transparent,70%,#ffffff 100%);
+}
+
+@media (max-width:768px) {
+  .emotion-90 {
+    min-height: 516px;
+  }
+}
+
+.emotion-90 figure {
+  margin: 0;
+}
+
+.emotion-0 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  object-fit: cover;
+  background-repeat: no-repeat;
+  -webkit-transition: all ease-out .3s;
+  transition: all ease-out .3s;
+  object-position: center bottom;
+  opacity: 1;
+}
+
+@media (max-width:48em) {
+  .emotion-0 {
+    display: none;
+  }
+}
+
+.emotion-2 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  object-fit: cover;
+  background-repeat: no-repeat;
+  -webkit-transition: all ease-out .3s;
+  transition: all ease-out .3s;
+  display: none;
+  opacity: 1;
+}
+
+@media (max-width:48em) {
+  .emotion-2 {
+    display: block;
+    object-position: center bottom;
+    object-fit: cover;
+  }
+}
+
+@media (max-width:48em) {
+  .emotion-2 {
+    object-position: center 0;
+  }
+}
+
+.emotion-10 {
+  max-width: 1323px;
+  width: 100%;
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  padding: 46px 20px 0;
+  margin-bottom: 38px;
+  position: relative;
+  z-index: 3;
+}
+
+.emotion-10 h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.emotion-4 {
+  color: #ffffff;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 21px;
+  -webkit-letter-spacing: -0.08px;
+  -moz-letter-spacing: -0.08px;
+  -ms-letter-spacing: -0.08px;
+  letter-spacing: -0.08px;
+  vertical-align: middle;
+}
+
+.emotion-8 {
+  list-style: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.emotion-6 {
+  margin-left: 21px;
+  cursor: pointer;
+}
+
+.emotion-6:nth-of-type(1) img {
+  margin-top: 3px;
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+}
+
+.emotion-6:last-child {
+  display: none;
+}
+
+.emotion-6 img {
+  -webkit-transition: ease-out 0.3s -webkit-transform;
+  -webkit-transition: ease-out 0.3s transform;
+  transition: ease-out 0.3s transform;
+}
+
+.emotion-6:hover img {
+  -webkit-transform: scale(0.9);
+  -ms-transform: scale(0.9);
+  transform: scale(0.9);
+}
+
+@media (max-width:60em) {
+  .emotion-6:nth-of-type(2) {
+    -webkit-transform: scale(1.3);
+    -ms-transform: scale(1.3);
+    transform: scale(1.3);
+    margin-right: 14px;
+    margin-top: 2px;
+  }
+
+  .emotion-6:nth-of-type(even) {
+    display: none;
+  }
+
+  .emotion-6:last-child {
+    display: block;
+  }
+}
+
+.emotion-57 {
+  position: relative;
+  z-index: 4;
+}
+
+.emotion-55 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  max-width: 1255px;
+  margin: 0 auto;
+  padding: 0 2rem;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  text-align: center;
+  margin-bottom: 106px;
+}
+
+.emotion-55 h2 {
+  color: #ffffff;
+  font-family: DINAlternateBold,sans-serif;
+  font-size: 41px;
+  font-weight: 400;
+  line-height: 50px;
+}
+
+@media (max-width:48em) {
+  .emotion-55 {
+    margin-bottom: 34px;
+  }
+}
+
+.emotion-14 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: baseline;
+  -webkit-box-align: baseline;
+  -ms-flex-align: baseline;
+  align-items: baseline;
+}
+
+.emotion-14 svg {
+  margin-left: 20px;
+}
+
+.emotion-12 {
+  font-size: 41px;
+  width: 100%;
+  font-family: DINAlternateBold,sans-serif;
+  color: #ffffff;
+  font-stretch: normal;
+  line-height: 1.22;
+  -webkit-letter-spacing: normal;
+  -moz-letter-spacing: normal;
+  -ms-letter-spacing: normal;
+  letter-spacing: normal;
+  font-style: normal;
+  font-weight: 400;
+  margin-bottom: 12px;
+}
+
+@media (max-width:48em) {
+  .emotion-12 {
+    margin: 0 0 16px;
+    font-size: 32px;
+  }
+
+  .emotion-12 span {
+    display: block;
+    font-size: 32px;
+  }
+}
+
+@media (max-width:22.8125em) {
+  .emotion-12 {
+    font-size: 31px;
+  }
+
+  .emotion-12 span {
+    font-size: 31px;
+  }
+}
+
+.emotion-12 span {
+  color: #2891ff;
+}
+
+.emotion-16 {
+  color: #ffffff;
+  font-family: Inter,sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 29px;
+  padding: 0 15px;
+  text-align: center;
+}
+
+@media (max-width:48em) {
+  .emotion-16 {
+    padding: 0;
+  }
+}
+
+.emotion-30 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+@media (max-width:48em) {
+  .emotion-30 {
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+}
+
+.emotion-25 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  position: relative;
+  margin-right: 16px;
+}
+
+.emotion-25 input {
+  background-color: rgba(0,0,0,0.3);
+  font-size: 16px;
+  max-width: 180px;
+}
+
+@media (max-width:48em) {
+  .emotion-25 input {
+    width: 100%;
+    max-width: 100%;
+  }
+}
+
+@media (max-width:48em) {
+  .emotion-25 {
+    display: block;
+    width: 100%;
+    margin-bottom: 7px;
+    margin-right: 0;
+  }
+}
+
+.emotion-25 > div:nth-of-type(2) {
+  width: 320px;
+  z-index: 1;
+}
+
+.emotion-25 > div:nth-of-type(2) .css-dt9btx-InnerWrapper {
+  width: 100%;
+  padding-right: 0;
+}
+
+.emotion-25 > div:nth-of-type(2) ul {
+  border: none;
+}
+
+.emotion-22 {
+  width: 22rem;
+  width: 100%;
+}
+
+.emotion-19 {
+  background: url(mocked-file) no-repeat scroll 16px center;
+  border: 2px solid #ffffff;
+  border-radius: 25px;
+  font-family: Inter,sans-serif;
+  color: #ffffff;
+  display: block;
+  font-size: 13px;
+  outline: none;
+  font-weight: 400;
+  width: 100%;
+  line-height: 20px;
+  padding-left: 2.5rem;
+  padding-right: 0.8rem;
+  font-weight: 400;
+  height: 45px;
+  width: 100%;
+}
+
+.emotion-19::-webkit-input-placeholder {
+  color: #ffffff;
+  opacity: 1;
+}
+
+.emotion-19::-moz-placeholder {
+  color: #ffffff;
+  opacity: 1;
+}
+
+.emotion-19:-ms-input-placeholder {
+  color: #ffffff;
+  opacity: 1;
+}
+
+.emotion-19::placeholder {
+  color: #ffffff;
+  opacity: 1;
+}
+
+@media (max-width:48em) {
+  .emotion-19 {
+    padding: 0 2.4rem;
+  }
+}
+
+.emotion-28 {
+  position: relative;
+  padding-left: 16px;
+  min-width: 100px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  padding: 0;
+  text-align: left;
+  padding-left: 0;
+  margin: 0;
+}
+
+.emotion-28 .DateRangePicker.DateRangePicker_1 {
+  width: 100%;
+}
+
+@media (max-width:48em) {
+  .emotion-28 {
+    padding-right: 16px;
+    min-width: 80px;
+  }
+}
+
+@media (max-width:48em) {
+  .emotion-28 {
+    padding-right: 0;
+  }
+}
+
+.emotion-28 .DateRangePickerInput_calendarIcon {
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+  width: 34px;
+}
+
+.emotion-28 .DayPicker_transitionContainer {
+  position: relative;
+  overflow: hidden;
+  border-radius: 3px;
+  max-width: 560px;
+  max-height: 300px;
+  background: transparent;
+  border-radius: 16px;
+}
+
+.emotion-28 .DateRangePicker_picker.DateRangePicker_picker_1 {
+  right: -85px !important;
+}
+
+@media (max-width:48em) {
+  .emotion-28 .DateRangePicker_picker.DateRangePicker_picker_1 {
+    right: -25px !important;
+  }
+}
+
+.emotion-28 .DateRangePicker {
+  border: 2px solid #ffffff;
+  border-radius: 25px;
+  width: 198px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 45px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding-left: 12px;
+}
+
+@media (max-width:48em) {
+  .emotion-28 .DateRangePicker {
+    padding-left: 0;
+  }
+}
+
+.emotion-28 .DateRangePicker input {
+  text-align: center;
+  padding-top: 4px;
+  background-color: transparent;
+}
+
+.emotion-28 .DateRangePicker:hover {
+  background-color: #ffffff;
+}
+
+.emotion-28 .DateRangePicker:hover button > svg > g > path {
+  stroke: #000000;
+}
+
+.emotion-28 .DateRangePicker:hover #startDateInputId,
+.emotion-28 .DateRangePicker:hover #endDateInputId {
+  color: #000000;
+}
+
+.emotion-28 .DateRangePicker:hover #startDateInputId::-webkit-input-placeholder,
+.emotion-28 .DateRangePicker:hover #endDateInputId::-webkit-input-placeholder {
+  color: #000000;
+  opacity: 1;
+}
+
+.emotion-28 .DateRangePicker:hover #startDateInputId::-moz-placeholder,
+.emotion-28 .DateRangePicker:hover #endDateInputId::-moz-placeholder {
+  color: #000000;
+  opacity: 1;
+}
+
+.emotion-28 .DateRangePicker:hover #startDateInputId:-ms-input-placeholder,
+.emotion-28 .DateRangePicker:hover #endDateInputId:-ms-input-placeholder {
+  color: #000000;
+  opacity: 1;
+}
+
+.emotion-28 .DateRangePicker:hover #startDateInputId::placeholder,
+.emotion-28 .DateRangePicker:hover #endDateInputId::placeholder {
+  color: #000000;
+  opacity: 1;
+}
+
+.emotion-28 .DateRangePicker:hover .DateRangePickerInput_arrow.DateRangePickerInput_arrow_1 {
+  color: #000000;
+}
+
+.emotion-28 .DateRangePickerInput_arrow.DateRangePickerInput_arrow_1 {
+  font-weight: 600;
+}
+
+.emotion-28 .DateRangePicker_picker {
+  background-color: transparent;
+}
+
+.emotion-28 .DateRangePickerInput {
+  border: none;
+  background: transparent;
+}
+
+.emotion-28 #startDateInputId {
+  width: 120px;
+  margin-right: 40px;
+}
+
+.emotion-28 #endDateInputId {
+  width: 80px;
+  margin-left: 10px;
+}
+
+.emotion-28 #startDateInputId,
+.emotion-28 #endDateInputId {
+  border: none;
+  font-size: 16px;
+  font-family: Inter,sans-serif;
+  color: #ffffff;
+  -webkit-letter-spacing: -0.11px;
+  -moz-letter-spacing: -0.11px;
+  -ms-letter-spacing: -0.11px;
+  letter-spacing: -0.11px;
+  font-weight: 600;
+}
+
+.emotion-28 #startDateInputId::-webkit-input-placeholder,
+.emotion-28 #endDateInputId::-webkit-input-placeholder {
+  font-size: 16px;
+  font-family: Inter,sans-serif;
+  color: #ffffff;
+  -webkit-letter-spacing: -0.11px;
+  -moz-letter-spacing: -0.11px;
+  -ms-letter-spacing: -0.11px;
+  letter-spacing: -0.11px;
+  opacity: 1;
+}
+
+.emotion-28 #startDateInputId::-moz-placeholder,
+.emotion-28 #endDateInputId::-moz-placeholder {
+  font-size: 16px;
+  font-family: Inter,sans-serif;
+  color: #ffffff;
+  -webkit-letter-spacing: -0.11px;
+  -moz-letter-spacing: -0.11px;
+  -ms-letter-spacing: -0.11px;
+  letter-spacing: -0.11px;
+  opacity: 1;
+}
+
+.emotion-28 #startDateInputId:-ms-input-placeholder,
+.emotion-28 #endDateInputId:-ms-input-placeholder {
+  font-size: 16px;
+  font-family: Inter,sans-serif;
+  color: #ffffff;
+  -webkit-letter-spacing: -0.11px;
+  -moz-letter-spacing: -0.11px;
+  -ms-letter-spacing: -0.11px;
+  letter-spacing: -0.11px;
+  opacity: 1;
+}
+
+.emotion-28 #startDateInputId::placeholder,
+.emotion-28 #endDateInputId::placeholder {
+  font-size: 16px;
+  font-family: Inter,sans-serif;
+  color: #ffffff;
+  -webkit-letter-spacing: -0.11px;
+  -moz-letter-spacing: -0.11px;
+  -ms-letter-spacing: -0.11px;
+  letter-spacing: -0.11px;
+  opacity: 1;
+}
+
+.emotion-28 #startDateInputId:focus,
+.emotion-28 #endDateInputId:focus {
+  box-shadow: 0 4px 2px -2px transparent;
+}
+
+.emotion-28 .DateInput {
+  background-color: transparent;
+  width: 42%;
+  width: 70%;
+}
+
+.emotion-28 .DateInput:last-of-type {
+  display: none;
+}
+
+@media (max-width:48em) {
+  .emotion-28 .DateInput {
+    display: none;
+  }
+}
+
+.emotion-28 .DateRangePickerInput_arrow {
+  color: #ffffff;
+  display: none;
+}
+
+@media (max-width:48em) {
+  .emotion-28 .DateRangePickerInput_arrow {
+    display: none;
+  }
+}
+
+.emotion-28 .DateInput_fang.DateInput_fang_1 {
+  display: none;
+}
+
+.emotion-28 .DayPicker {
+  border: 2px solid #d1d1d1;
+  border-radius: 16px;
+  box-sizing: border-box;
+}
+
+.emotion-28 .DayPicker::before {
+  content: '';
+  position: absolute;
+  left: calc(50% + 3px);
+  top: -1px;
+  z-index: 2;
+  width: 2px;
+  height: calc(100% + 2px);
+  background-color: #d1d1d1;
+}
+
+@media (max-width:48em) {
+  .emotion-28 .DayPicker::before {
+    display: none;
+  }
+}
+
+.emotion-28 .CalendarMonth_caption {
+  padding-top: 12px;
+  font-family: Inter,sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 24px;
+  text-align: center;
+  color: #565656;
+}
+
+.emotion-28 .CalendarMonth_caption strong {
+  font-weight: 500;
+}
+
+.emotion-28 .DayPicker_weekHeader {
+  top: 46px;
+}
+
+.emotion-28 .DayPicker_weekHeader_li {
+  visibility: hidden;
+  font-size: 0;
+}
+
+.emotion-28 .DayPicker_weekHeader_li::first-letter {
+  visibility: visible;
+  font-family: Inter,sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 14px;
+  text-align: center;
+  color: rgba(0,0,0,0.38);
+}
+
+.emotion-28 .CalendarMonth_table.CalendarMonth_table_1 {
+  margin-top: 0px;
+}
+
+.emotion-28 .CalendarDay {
+  font-family: Inter,sans-serif;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  -webkit-letter-spacing: normal;
+  -moz-letter-spacing: normal;
+  -ms-letter-spacing: normal;
+  letter-spacing: normal;
+  text-align: center;
+}
+
+.emotion-28 .CalendarDay__selected_span {
+  background: rgba(40,145,255,0.2);
+  color: #ffffff;
+}
+
+.emotion-28 .CalendarDay__selected {
+  background: #2891ff;
+  color: #ffffff;
+}
+
+.emotion-28 .CalendarDay__selected:hover {
+  background: #2891ff;
+  color: #ffffff;
+}
+
+.emotion-28 .CalendarDay__hovered_span:hover,
+.emotion-28 .CalendarDay__hovered_span {
+  background: rgba(40,145,255,0.2);
+}
+
+.emotion-28 .CalendarDay__default {
+  border: none;
+  color: #000000;
+}
+
+.emotion-28 table {
+  border-spacing: 0 3px;
+  border-collapse: separate;
+}
+
+.emotion-28 .CalendarDay.CalendarDay__firstDayOfWeek {
+  border-top-left-radius: 50%;
+  border-bottom-left-radius: 50%;
+}
+
+.emotion-28 .CalendarDay.CalendarDay__lastDayOfWeek {
+  border-top-right-radius: 50%;
+  border-bottom-right-radius: 50%;
+}
+
+.emotion-28 .CalendarDay.CalendarDay__selected_start.CalendarDay__selected,
+.emotion-28 .CalendarDay.CalendarDay__selected_end.CalendarDay__selected {
+  border-radius: 50%;
+  color: #ffffff;
+  position: relative;
+}
+
+.emotion-28 .CalendarDay.CalendarDay__selected_start.CalendarDay__selected::before,
+.emotion-28 .CalendarDay.CalendarDay__selected_end.CalendarDay__selected::before {
+  content: '';
+  position: absolute;
+  top: 0px;
+  bottom: 0px;
+  z-index: 2;
+  width: 10px;
+  background-color: rgba(40,145,255,0.2);
+}
+
+.emotion-28 .CalendarDay.CalendarDay__selected_end.CalendarDay__selected::before {
+  left: 0px;
+}
+
+.emotion-28 .CalendarDay.CalendarDay__selected_start.CalendarDay__selected::before {
+  right: 0px;
+}
+
+.emotion-28 .CalendarDay__blocked_out_of_range,
+.emotion-28 .CalendarDay__blocked_out_of_range:active,
+.emotion-28 .CalendarDay__blocked_out_of_range:hover {
+  color: #d1d1d1;
+  cursor: not-allowed;
+}
+
+.emotion-28 .CalendarDay__selected_span {
+  border-top-left-radius: 50%;
+  border-bottom-left-radius: 50%;
+}
+
+.emotion-28 .CalendarDay__selected_span.__last-day-of-month__ {
+  border-top-right-radius: 50%;
+  border-bottom-right-radius: 50%;
+}
+
+.emotion-28 .CalendarDay__selected_span ~ .CalendarDay__selected_span,
+.emotion-28 .CalendarDay__selected_start ~ .CalendarDay__selected_span {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.emotion-28 .DateRangePicker:hover div #startDateInputId,
+.emotion-28 .DateRangePicker:hover div #endDateInputId,
+.emotion-28 .DateRangePicker:hover div .DateRangePickerInput_arrow.DateRangePickerInput_arrow_1 {
+  color: #fff;
+}
+
+.emotion-28 .DateRangePicker:hover div #startDateInputId::-webkit-input-placeholder,
+.emotion-28 .DateRangePicker:hover div #endDateInputId::-webkit-input-placeholder,
+.emotion-28 .DateRangePicker:hover div .DateRangePickerInput_arrow.DateRangePickerInput_arrow_1::-webkit-input-placeholder {
+  color: #fff;
+}
+
+.emotion-28 .DateRangePicker:hover div #startDateInputId::-moz-placeholder,
+.emotion-28 .DateRangePicker:hover div #endDateInputId::-moz-placeholder,
+.emotion-28 .DateRangePicker:hover div .DateRangePickerInput_arrow.DateRangePickerInput_arrow_1::-moz-placeholder {
+  color: #fff;
+}
+
+.emotion-28 .DateRangePicker:hover div #startDateInputId:-ms-input-placeholder,
+.emotion-28 .DateRangePicker:hover div #endDateInputId:-ms-input-placeholder,
+.emotion-28 .DateRangePicker:hover div .DateRangePickerInput_arrow.DateRangePickerInput_arrow_1:-ms-input-placeholder {
+  color: #fff;
+}
+
+.emotion-28 .DateRangePicker:hover div #startDateInputId::placeholder,
+.emotion-28 .DateRangePicker:hover div #endDateInputId::placeholder,
+.emotion-28 .DateRangePicker:hover div .DateRangePickerInput_arrow.DateRangePickerInput_arrow_1::placeholder {
+  color: #fff;
+}
+
+.emotion-28 .DateRangePicker:hover div button > svg > g > path {
+  stroke: #fff;
+}
+
+.emotion-28 > div.DateRangePicker.DateRangePicker_1 {
+  background-color: rgba(0,0,0,0.3);
+}
+
+.emotion-28 > div.DateRangePicker.DateRangePicker_1 .DateInput {
+  width: 40%;
+}
+
+.emotion-28 > div.DateRangePicker.DateRangePicker_1 #startDateInputId,
+.emotion-28 > div.DateRangePicker.DateRangePicker_1 #endDateInputId {
+  font-weight: 400;
+}
+
+@media (max-width:48em) {
+  .emotion-28 > div.DateRangePicker.DateRangePicker_1 {
+    -webkit-box-pack: start;
+    -webkit-justify-content: flex-start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    padding-left: 9px;
+  }
+}
+
+.emotion-50 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 20px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+@media (max-width:48em) {
+  .emotion-50 {
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    margin-top: 12px;
+  }
+}
+
+.emotion-39 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-right: 16px;
+}
+
+.emotion-39:nth-of-type(3) {
+  margin-right: 0;
+}
+
+@media (max-width:48em) {
+  .emotion-39 {
+    margin-right: 0;
+  }
+
+  .emotion-39:nth-of-type(3) {
+    display: none;
+  }
+}
+
+.emotion-32 {
+  color: #ffffff;
+  font-family: Inter,sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  font-weight: 400;
+  line-height: 21px;
+}
+
+.emotion-37 {
+  position: relative;
+}
+
+.emotion-35 {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background-image: url(mocked-file);
+  background-position: 95% 50%;
+  background-repeat: no-repeat;
+  background-color: transparent;
+  border: 2px solid #ffffff;
+  border-radius: 25px;
+  color: #ffffff;
+  display: block;
+  font-size: 16px;
+  cursor: pointer;
+  font-weight: 600;
+  outline: none;
+  width: 100%;
+  height: 45px;
+  padding: 0rem 3rem;
+  background-color: rgba(0,0,0,0.3);
+  background-position: 85% 50%;
+  border-radius: 22.5px;
+  font-weight: 400;
+  margin-left: 16px;
+  padding: 0 0 0 20px;
+  text-align-last: left;
+  width: 75px;
+}
+
+@media (max-width:48em) {
+  .emotion-35 {
+    width: 84px;
+  }
+}
+
+.emotion-52 {
+  color: #ffffff;
+  font-size: 19px;
+  font-weight: 400;
+  text-align: center;
+  margin: 0;
+}
+
+@media (max-width:48em) {
+  .emotion-52 {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 20px;
+  }
+}
+
+.emotion-87 {
+  position: fixed;
+  top: 0;
+  right: -100rem;
+  visibility: hidden;
+  opacity: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 500;
+  -webkit-transition: all 0.32s ease-in-out;
+  transition: all 0.32s ease-in-out;
+}
+
+.emotion-87:after {
+  content: '';
+  background-color: rgba(0,0,0,0.7);
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.emotion-85 {
+  background-color: #ffffff;
+  position: absolute;
+  width: 80%;
+  height: 100%;
+  top: 0;
+  right: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  z-index: 502;
+  padding-bottom: 24px;
+  border-radius: 12px 0 0 12px;
+}
+
+@media (max-width:48em) {
+  .emotion-85 {
+    max-width: 338px;
+  }
+}
+
+.emotion-61 {
+  background-color: #2891ff;
+  min-height: 93px;
+  padding: 12px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: flex-end;
+  -webkit-box-align: flex-end;
+  -ms-flex-align: flex-end;
+  align-items: flex-end;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+  border-top-left-radius: 12px;
+  -webkit-letter-spacing: -0.17px;
+  -moz-letter-spacing: -0.17px;
+  -ms-letter-spacing: -0.17px;
+  letter-spacing: -0.17px;
+  color: #ffffff;
+  position: relative;
+}
+
+.emotion-61 > span {
+  font-family: DINAlternateRegular,sans-serif;
+  font-size: 24px;
+}
+
+.emotion-59 {
+  border: 0;
+  background-color: transparent;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  position: absolute;
+  left: -41px;
+  top: 57px;
+  outline: 0;
+}
+
+.emotion-59:focus {
+  outline: 0;
+}
+
+.emotion-83 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  padding: 12px;
+  text-align: right;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  height: 100%;
+  overflow-y: auto;
+}
+
+.emotion-63 {
+  font-family: DINAlternateBold,sans-serif;
+  font-size: 24px;
+  margin-top: 24px;
+  margin-bottom: 24px;
+  color: #000000;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.emotion-63:hover,
+.emotion-63:visited,
+.emotion-63:focus {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.emotion-63 > svg {
+  margin-left: 25px;
+}
+
+.emotion-77 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  margin-bottom: 60px;
+}
+
+.emotion-65 {
+  font-family: DINAlternateBold,sans-serif;
+  font-size: 24px;
+  margin-top: 24px;
+  color: #000000;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.emotion-65:hover,
+.emotion-65:visited,
+.emotion-65:focus {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.emotion-65 > svg {
+  margin-left: 25px;
+}
+
+.emotion-186 {
+  background-color: #ffffff;
+  margin: 56px auto;
+  max-width: 1255px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+@media (max-width:48em) {
+  .emotion-186 {
+    display: block;
+    margin: 26px auto;
+  }
+}
+
+.emotion-186:nth-of-type(1) {
+  margin: 0 auto 30px;
+}
+
+.emotion-96 {
+  padding: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+}
+
+.emotion-92 {
+  color: #000000;
+  font-size: 21px;
+  font-weight: 400;
+  -webkit-letter-spacing: -0.15px;
+  -moz-letter-spacing: -0.15px;
+  -ms-letter-spacing: -0.15px;
+  letter-spacing: -0.15px;
+}
+
+.emotion-94 {
+  color: #000000;
+  opacity: 0.5;
+  font-family: Helvetica,sans-serif;
+  font-size: 13px;
+  -webkit-letter-spacing: -0.09px;
+  -moz-letter-spacing: -0.09px;
+  -ms-letter-spacing: -0.09px;
+  letter-spacing: -0.09px;
+}
+
+.emotion-183 {
+  max-width: 1255px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 30px;
+  padding-right: 30px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+@media (max-width:48em) {
+  .emotion-183 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: nowrap;
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    overflow-x: scroll;
+    width: 100%;
+  }
+}
+
+.emotion-113 {
+  max-width: 225px;
+  width: 100%;
+  width: calc(20% - 14px);
+  margin-right: 17px;
+  max-width: 100%;
+  margin-bottom: 2rem;
+}
+
+.emotion-113 a {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.emotion-113:nth-of-type(5n + 5) {
+  margin-right: 0;
+}
+
+@media (max-width:48em) {
+  .emotion-113 {
+    min-width: 225px;
+    width: 225px;
+  }
+
+  .emotion-113:nth-of-type(5n + 5) {
+    margin-right: 17px;
+  }
+}
+
+.emotion-102 {
+  position: relative;
+  margin: 0;
+}
+
+.emotion-102:hover figcaption {
+  box-shadow: inset -60px 0 0px #ffffff;
+  color: #2891ff;
+  -webkit-transform: scale(0.9);
+  -ms-transform: scale(0.9);
+  transform: scale(0.9);
+}
+
+.emotion-98 {
+  width: 100%;
+  height: 137px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.emotion-100 {
+  position: absolute;
+  top: 6px;
+  right: 11px;
+  width: 57px;
+  height: 55px;
+  border-radius: 27.6px;
+  background: #2891ff;
+  color: #ffffff;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  font-family: Helvetica,sans-serif;
+  font-size: 12.4px;
+  -webkit-letter-spacing: -0.09px;
+  -moz-letter-spacing: -0.09px;
+  -ms-letter-spacing: -0.09px;
+  letter-spacing: -0.09px;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-transition: all 0.2s cubic-bezier(1,-0.45,1,1),color 0.2s 0.3s ease-in,-webkit-transform 0.3s ease-out;
+  -webkit-transition: all 0.2s cubic-bezier(1,-0.45,1,1),color 0.2s 0.3s ease-in,transform 0.3s ease-out;
+  transition: all 0.2s cubic-bezier(1,-0.45,1,1),color 0.2s 0.3s ease-in,transform 0.3s ease-out;
+  box-shadow: inset 0 0 0px #ffffff;
+}
+
+.emotion-100 span {
+  font-size: 18.4px;
+  -webkit-letter-spacing: -0.13px;
+  -moz-letter-spacing: -0.13px;
+  -ms-letter-spacing: -0.13px;
+  letter-spacing: -0.13px;
+}
+
+.emotion-104 {
+  margin: 0;
+  font-size: 16px;
+  -webkit-letter-spacing: -0.11px;
+  -moz-letter-spacing: -0.11px;
+  -ms-letter-spacing: -0.11px;
+  letter-spacing: -0.11px;
+  color: #000000;
+  margin-top: 8px;
+  opacity: 0.8;
+}
+
+.emotion-106 {
+  color: #7c7c7c;
+  font-size: 12px;
+  font-weight: 500;
+  opacity: 0.8;
+  -webkit-letter-spacing: -0.1px;
+  -moz-letter-spacing: -0.1px;
+  -ms-letter-spacing: -0.1px;
+  letter-spacing: -0.1px;
+  margin: 0;
+  margin-bottom: 8px;
+}
+
+.emotion-110 {
+  color: #383838;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 12px;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-letter-spacing: -0.09px;
+  -moz-letter-spacing: -0.09px;
+  -ms-letter-spacing: -0.09px;
+  letter-spacing: -0.09px;
+  line-height: 17px;
+}
+
+.emotion-110 span {
+  font-weight: 600;
+}
+
+.emotion-110 span,
+.emotion-110 p {
+  margin-left: 6px;
+}
+
+.emotion-108 {
+  color: #ffffff;
+  background: #b1ca46;
+  width: 27px;
+  height: 17px;
+  border-radius: 1.6px;
+  margin: 0;
+  font-size: 11px;
+  font-weight: 500;
+  text-align: center;
+  line-height: 17px;
+}
+
+.emotion-261 {
+  background-color: #ffffff;
+  max-width: 1255px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.emotion-261 header {
+  max-width: 1255px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+@media (max-width:48em) {
+  .emotion-261 {
+    padding: 0;
+  }
+}
+
+.emotion-190 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  margin: 0 0 16px;
+}
+
+.emotion-188 {
+  color: #000000;
+  font-family: Inter,sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  -webkit-letter-spacing: -0.15px;
+  -moz-letter-spacing: -0.15px;
+  -ms-letter-spacing: -0.15px;
+  letter-spacing: -0.15px;
+  line-height: 29px;
+  margin: 0;
+}
+
+@media (max-width:23.625em) {
+  .emotion-188 {
+    font-size: 20px;
+  }
+}
+
+.emotion-258 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.emotion-256 {
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  grid-gap: 18px;
+  grid-auto-rows: 160px;
+}
+
+@media (max-width:48em) {
+  .emotion-256 {
+    max-width: 1255px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    overflow-x: scroll;
+    width: 100%;
+  }
+}
+
+.emotion-198 {
+  border-radius: 8px;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+}
+
+.emotion-198 svg {
+  bottom: 24px;
+  position: absolute;
+  right: 24px;
+  -webkit-transition: ease-out 0.3s all;
+  transition: ease-out 0.3s all;
+}
+
+@media (max-width:48em) {
+  .emotion-198 svg {
+    display: none;
+  }
+}
+
+.emotion-198:hover img {
+  -webkit-transform: scale(1.55) rotate(10deg);
+  -ms-transform: scale(1.55) rotate(10deg);
+  transform: scale(1.55) rotate(10deg);
+  -webkit-transition: all linear 8s;
+  transition: all linear 8s;
+}
+
+.emotion-198:hover svg {
+  -webkit-transform: translateX(5px);
+  -ms-transform: translateX(5px);
+  transform: translateX(5px);
+}
+
+.emotion-198:nth-of-type(1) {
+  grid-column: span 2;
+  grid-row: span 2;
+}
+
+.emotion-198:nth-of-type(4) {
+  grid-column: span 2;
+}
+
+@media (max-width:48em) {
+  .emotion-198 {
+    height: 176px;
+    margin-right: 6px;
+    min-width: 112px;
+    min-height: 176px;
+    width: 112px;
+  }
+}
+
+.emotion-192 {
+  height: 100%;
+  object-fit: cover;
+  -webkit-transition: ease-in 0.5s all;
+  transition: ease-in 0.5s all;
+  width: 100%;
+}
+
+.emotion-196 {
+  font-family: Inter,sans-serif;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 22px;
+  -webkit-letter-spacing: -0.33px;
+  -moz-letter-spacing: -0.33px;
+  -ms-letter-spacing: -0.33px;
+  letter-spacing: -0.33px;
+  line-height: 29px;
+  left: 50%;
+  margin: 0;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  -webkit-transform: translate(-50%,-50%);
+  -ms-transform: translate(-50%,-50%);
+  transform: translate(-50%,-50%);
+  width: 100%;
+}
+
+@media (max-width:60em) {
+  .emotion-196 {
+    font-size: 16px;
+    line-height: 21px;
+    -webkit-letter-spacing: -0.24px;
+    -moz-letter-spacing: -0.24px;
+    -ms-letter-spacing: -0.24px;
+    letter-spacing: -0.24px;
+  }
+}
+
+.emotion-194 {
+  color: #eeeeee;
+  display: block;
+  font-size: 18px;
+  -webkit-letter-spacing: -0.27px;
+  -moz-letter-spacing: -0.27px;
+  -ms-letter-spacing: -0.27px;
+  letter-spacing: -0.27px;
+  line-height: 24px;
+}
+
+@media (max-width:60em) {
+  .emotion-194 {
+    color: #d1d1d1;
+    font-size: 14px;
+    line-height: 19px;
+    -webkit-letter-spacing: -0.21px;
+    -moz-letter-spacing: -0.21px;
+    -ms-letter-spacing: -0.21px;
+    letter-spacing: -0.21px;
+  }
+}
+
+.emotion-380 {
+  background: #2891ff;
+  min-height: 256px;
+  background-size: contain;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  padding-right: 2rem;
+}
+
+@media (max-width:60em) {
+  .emotion-380 {
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    padding-right: 0;
+  }
+}
+
+.emotion-363 {
+  display: block;
+  max-width: 720px;
+  width: 100%;
+  position: relative;
+  margin: 0;
+  margin-right: 37px;
+  min-height: 256px;
+}
+
+@media (max-width:77.5em) {
+  .emotion-363 {
+    max-width: 600px;
+  }
+}
+
+@media (max-width:64.375em) {
+  .emotion-363 {
+    max-width: 500px;
+  }
+}
+
+@media (max-width:60em) {
+  .emotion-363 {
+    max-width: 100%;
+    margin-right: 0;
+    min-height: 131px;
+  }
+}
+
+.emotion-359 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  object-position: top;
+  -webkit-transition: all ease-in 0.2s;
+  transition: all ease-in 0.2s;
+  opacity: 1;
+}
+
+.emotion-361 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  object-position: top;
+  -webkit-transition: all ease-in 0.2s;
+  transition: all ease-in 0.2s;
+  opacity: 0;
+}
+
+.emotion-378 {
+  margin: 49px 0;
+  max-width: 521px;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+}
+
+@media (max-width:60em) {
+  .emotion-378 {
+    max-width: 100%;
+    text-align: center;
+    padding: 0 50px;
+    margin-top: 24px;
+  }
+}
+
+.emotion-365 {
+  color: #ffffff;
+  margin: 0;
+  font-size: 28px;
+  -webkit-letter-spacing: -0.2px;
+  -moz-letter-spacing: -0.2px;
+  -ms-letter-spacing: -0.2px;
+  letter-spacing: -0.2px;
+}
+
+.emotion-367 {
+  color: #ffffff;
+  font-size: 14px;
+  -webkit-letter-spacing: -0.1px;
+  -moz-letter-spacing: -0.1px;
+  -ms-letter-spacing: -0.1px;
+  letter-spacing: -0.1px;
+  margin: 13px 0 16px;
+}
+
+@media (max-width:60em) {
+  .emotion-367 {
+    margin-bottom: 29px;
+  }
+}
+
+.emotion-369 a {
+  color: #ffffff;
+  cursor: pointer;
+  width: 100px;
+  height: 39px;
+  border-radius: 19.5px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  font-weight: 600;
+  font-size: 14px;
+  border: solid 2px #ffffff;
+  -webkit-transition: all ease-in 0.2s;
+  transition: all ease-in 0.2s;
+  margin-bottom: 28px;
+}
+
+.emotion-369 a:hover {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  background: #ffffff;
+  color: #2891ff;
+}
+
+@media (max-width:960px) {
+  .emotion-369 a {
+    width: 100%;
+    height: 39px;
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 32px;
+    font-family: DINAlternateRegular,sans-serif;
+  }
+}
+
+.emotion-376 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+@media (max-width:60em) {
+  .emotion-376 {
+    margin-bottom: 32px;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+  }
+}
+
+.emotion-371 {
+  width: 31px;
+  height: 5px;
+  display: block;
+  border-radius: 4px;
+  background-color: #ffffff;
+  margin-left: 4px;
+  cursor: pointer;
+  -webkit-transition: all ease-in 0.2s;
+  transition: all ease-in 0.2s;
+}
+
+.emotion-371:hover {
+  width: 31px;
+}
+
+.emotion-373 {
+  width: 13px;
+  height: 5px;
+  display: block;
+  border-radius: 4px;
+  background-color: #53A7FF;
+  margin-left: 4px;
+  cursor: pointer;
+  -webkit-transition: all ease-in 0.2s;
+  transition: all ease-in 0.2s;
+}
+
+.emotion-373:hover {
+  width: 31px;
+}
+
+.emotion-494 {
+  background: url(mocked-file) bottom center;
+  background-size: cover;
+  min-height: 233px;
+  width: 100%;
+}
+
+@media (max-width:52.25em) {
+  .emotion-494 {
+    background: mocked-file;
+    min-height: 316px;
+    width: 100%;
+  }
+}
+
+.emotion-492 {
+  max-width: 82.688em;
+  width: 100%;
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  padding: 2.938em 2px 3.688em;
+}
+
+.emotion-492 form {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: space-around;
+  -webkit-justify-content: space-around;
+  -ms-flex-pack: space-around;
+  justify-content: space-around;
+  width: 52rem;
+}
+
+.emotion-492 span {
+  text-shadow: 0 0 6px rgba(0,0,0,0.9);
+}
+
+.emotion-492 button {
+  font-family: Lato,sans-serif;
+}
+
+.emotion-492 input {
+  padding: 0 1.4rem;
+  background-color: rgba(14,38,75,0.74);
+}
+
+@media (max-width:52.25em) {
+  .emotion-492 {
+    padding: 2em 2px;
+  }
+
+  .emotion-492 form {
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    min-height: 159px;
+    width: 100%;
+  }
+
+  .emotion-492 button,
+  .emotion-492 form > div {
+    min-height: 42px;
+    width: 90%;
+  }
+
+  .emotion-492 input {
+    border-width: 1px;
+    background-color: rgba(39,94,133,0.66);
+  }
+
+  .emotion-492 form > div {
+    margin-bottom: 20px;
+  }
+}
+
+.emotion-478 {
+  color: #ffffff;
+  font-family: Inter,sans-serif;
+  font-size: 1.625rem;
+  font-weight: 400;
+  -webkit-letter-spacing: -0.1813954px;
+  -moz-letter-spacing: -0.1813954px;
+  -ms-letter-spacing: -0.1813954px;
+  letter-spacing: -0.1813954px;
+  line-height: 35px;
+  margin-bottom: 0.5em;
+  text-align: center;
+}
+
+@media (max-width:836px) {
+  .emotion-478 {
+    font-family: DINAlternateRegular,sans-serif;
+    font-weight: 600;
+    font-size: 1.375rem;
+    -webkit-letter-spacing: -0.1534884px;
+    -moz-letter-spacing: -0.1534884px;
+    -ms-letter-spacing: -0.1534884px;
+    letter-spacing: -0.1534884px;
+    line-height: 29px;
+  }
+}
+
+.emotion-480 {
+  color: #ffffff;
+  font-family: Helvetica,sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 25px;
+  margin-bottom: 1.813em;
+  text-align: center;
+}
+
+@media (max-width:836px) {
+  .emotion-480 {
+    font-family: Inter,sans-serif;
+    font-size: 0.875rem;
+    -webkit-letter-spacing: -0.1534884px;
+    -moz-letter-spacing: -0.1534884px;
+    -ms-letter-spacing: -0.1534884px;
+    letter-spacing: -0.1534884px;
+    line-height: 19px;
+    width: 207px;
+  }
+}
+
+.emotion-484 {
+  width: 22rem;
+}
+
+.emotion-482 {
+  border: 2px solid #ffffff;
+  border-radius: 25px;
+  font-family: Inter,sans-serif;
+  color: #ffffff;
+  display: block;
+  font-size: 13px;
+  outline: none;
+  font-weight: 400;
+  width: 100%;
+  line-height: 20px;
+  padding-left: 2.5rem;
+  padding-right: 0.8rem;
+  font-weight: 400;
+  height: 45px;
+}
+
+.emotion-482::-webkit-input-placeholder {
+  color: #ffffff;
+  opacity: 1;
+}
+
+.emotion-482::-moz-placeholder {
+  color: #ffffff;
+  opacity: 1;
+}
+
+.emotion-482:-ms-input-placeholder {
+  color: #ffffff;
+  opacity: 1;
+}
+
+.emotion-482::placeholder {
+  color: #ffffff;
+  opacity: 1;
+}
+
+@media (max-width:48em) {
+  .emotion-482 {
+    padding: 0 2.4rem;
+  }
+}
+
+.emotion-490 {
+  border: solid 2px #ffffff;
+  color: #000000;
+  background: #ffffff;
+  height: 45px;
+  font-weight: 600;
+  font-size: 16px;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-transition: all 0.3s ease-in;
+  transition: all 0.3s ease-in;
+  cursor: pointer;
+  font-family: Inter,sans-serif;
+  border-radius: 25px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  outline: none;
+  vertical-align: middle;
+  text-align: center;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  width: 103px;
+}
+
+.emotion-490:hover {
+  background: #000000;
+  color: #ffffff;
+}
+
+.emotion-490 svg {
+  margin-right: 6px;
+}
+
+.emotion-490:hover path {
+  stroke: #000000;
+}
+
+<div>
+  <header
+    class="emotion-89 emotion-90 emotion-91"
+  >
+    <figure>
+      <div>
+        <img
+          class="emotion-0 emotion-1"
+          src="mocked-file"
+        />
+        <img
+          class="emotion-2 emotion-3"
+          src="mocked-file"
+        />
+      </div>
+    </figure>
+    <div
+      class="emotion-10 emotion-11"
+    >
+      <h1>
+        <a
+          class="emotion-4 emotion-5"
+        />
+      </h1>
+      <nav>
+        <ul
+          class="emotion-8 emotion-9"
+        >
+          <li
+            class="emotion-6 emotion-7"
+          >
+            <a>
+              <img
+                alt="bars"
+                src="mocked-file"
+              />
+            </a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+    <div
+      class="emotion-57 emotion-58"
+    >
+      <div
+        class="emotion-54 emotion-55 emotion-56"
+        direction="center"
+      >
+        <div>
+          <div
+            class="emotion-14 emotion-15"
+          >
+            <h2
+              class="emotion-12 emotion-13"
+            >
+              Book Hotels
+            </h2>
+          </div>
+          <p
+            class="emotion-16 emotion-17"
+          >
+            Plan your ultimate sporting experience
+          </p>
+          <div
+            class="emotion-30 emotion-31"
+          >
+            <div
+              class="emotion-24 emotion-25 emotion-26"
+            >
+              <div
+                class="emotion-18 emotion-22 emotion-23"
+              >
+                <input
+                  class="emotion-18 emotion-19 emotion-20"
+                  placeholder="Where to?"
+                  value=""
+                />
+              </div>
+            </div>
+            <div
+              class="emotion-27 emotion-28 emotion-29"
+            >
+              MOCKED RANGE PICKER
+            </div>
+          </div>
+          <div
+            class="emotion-50 emotion-51"
+          >
+            <div
+              class="emotion-39 emotion-40"
+            >
+              <label
+                class="emotion-32 emotion-33"
+              >
+                Adults
+              </label>
+              <div
+                class="emotion-37 emotion-38"
+              >
+                <select
+                  class="emotion-34 emotion-35 emotion-36"
+                >
+                  <option
+                    value=""
+                  />
+                  <option
+                    value="0"
+                  >
+                    0
+                  </option>
+                  <option
+                    value="1"
+                  >
+                    1
+                  </option>
+                  <option
+                    value="2"
+                  >
+                    2
+                  </option>
+                  <option
+                    value="3"
+                  >
+                    3
+                  </option>
+                  <option
+                    value="4"
+                  >
+                    4
+                  </option>
+                </select>
+              </div>
+            </div>
+            <div
+              class="emotion-39 emotion-40"
+            >
+              <label
+                class="emotion-32 emotion-33"
+              >
+                Children
+              </label>
+              <div
+                class="emotion-37 emotion-38"
+              >
+                <select
+                  class="emotion-34 emotion-35 emotion-36"
+                >
+                  <option
+                    value=""
+                  />
+                  <option
+                    value="0"
+                  >
+                    0
+                  </option>
+                  <option
+                    value="1"
+                  >
+                    1
+                  </option>
+                  <option
+                    value="2"
+                  >
+                    2
+                  </option>
+                  <option
+                    value="3"
+                  >
+                    3
+                  </option>
+                  <option
+                    value="4"
+                  >
+                    4
+                  </option>
+                </select>
+              </div>
+            </div>
+          </div>
+          <h3
+            class="emotion-52 emotion-53"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      aria-hidden="true"
+      class="emotion-87 emotion-88"
+      data-testid="menu-mobile"
+    >
+      <aside
+        class="emotion-85 emotion-86"
+      >
+        <div
+          class="emotion-61 emotion-62"
+        >
+          <span>
+            Menu
+          </span>
+          <button
+            class="emotion-59 emotion-60"
+          >
+            <svg
+              color="#fff"
+              height="24"
+              width="24"
+            >
+              <defs>
+                <path
+                  d="M.293.293c.39-.39 1.024-.39 1.414 0L7 5.585 12.293.293c.36-.36.928-.388 1.32-.083l.094.083c.39.39.39 1.024 0 1.414L8.415 7l5.292 5.293c.36.36.388.928.083 1.32l-.083.094c-.39.39-1.024.39-1.414 0L7 8.415l-5.293 5.292c-.36.36-.928.388-1.32.083l-.094-.083c-.39-.39-.39-1.024 0-1.414L5.585 7 .293 1.707C-.067 1.347-.095.78.21.387z"
+                  id="prefix__a"
+                />
+              </defs>
+              <g
+                fill="none"
+                fill-rule="evenodd"
+                transform="translate(5 5)"
+              >
+                <mask
+                  fill="#fff"
+                  id="prefix__b"
+                >
+                  <use
+                    xlink:href="#prefix__a"
+                  />
+                </mask>
+                <use
+                  fill="#fff"
+                  fill-rule="nonzero"
+                  xlink:href="#prefix__a"
+                />
+                <g
+                  fill="#fff"
+                  mask="url(#prefix__b)"
+                >
+                  <path
+                    d="M0 0H24V24H0z"
+                    transform="translate(-5 -5)"
+                  />
+                </g>
+              </g>
+            </svg>
+          </button>
+        </div>
+        <div
+          class="emotion-83 emotion-84"
+        >
+          <a
+            class="emotion-63 emotion-64"
+            href="/"
+          >
+            Login / Register 
+            <svg
+              color="#000"
+              fill="#000"
+              height="24"
+              viewBox="0 0 19.001 24"
+              width="19.001"
+            >
+              <g
+                transform="translate(-0.999)"
+              >
+                <path
+                  d="M5,12c2.761,0,5-2.686,5-6S9.265,0,5,0,0,2.686,0,6,2.239,12,5,12Z"
+                  transform="translate(5)"
+                />
+                <path
+                  d="M.051.1c0-.2,0-.056,0,0Z"
+                  transform="translate(0.95 20.949)"
+                />
+                <path
+                  d="M.049.18c0-.054,0-.375,0,0Z"
+                  transform="translate(18.95 20.91)"
+                />
+                <path
+                  d="M18.989,8.405C18.9,2.669,18.129,1.035,12.254,0A3.558,3.558,0,0,1,9.5,1.028,3.559,3.559,0,0,1,6.746,0C.936,1.023.121,2.634.014,8.219.006,8.675,0,8.7,0,8.646c0,.1,0,.283,0,.6C0,9.249,1.4,12,9.5,12S19,9.249,19,9.249c0-.206,0-.349,0-.446A3.6,3.6,0,0,1,18.989,8.405Z"
+                  transform="translate(1 12)"
+                />
+              </g>
+            </svg>
+          </a>
+          <nav
+            class="emotion-77 emotion-78"
+          >
+            <a
+              class="emotion-65 emotion-64"
+              href="/"
+            >
+              Home
+            </a>
+            <a
+              class="emotion-65 emotion-64"
+              href="/"
+            >
+              Events
+            </a>
+            <a
+              class="emotion-65 emotion-64"
+              href="/"
+            >
+              Cities
+            </a>
+            <a
+              class="emotion-65 emotion-64"
+              href="/"
+            >
+              Hotels
+            </a>
+            <a
+              class="emotion-65 emotion-64"
+              href="/"
+            >
+              Experiences
+            </a>
+            <a
+              class="emotion-65 emotion-64"
+              href="/"
+            >
+              About
+            </a>
+          </nav>
+          <a
+            class="emotion-65 emotion-64"
+            href="/"
+          >
+            Contact
+          </a>
+          <a
+            class="emotion-65 emotion-64"
+            href="/"
+          >
+            Download App for iOS
+          </a>
+        </div>
+      </aside>
+    </div>
+  </header>
+  <section
+    class="emotion-185 emotion-186 emotion-187"
+  >
+    <header
+      class="emotion-96 emotion-97"
+    >
+      <h2
+        class="emotion-92 emotion-93"
+      >
+        Best Hotels for Big Sporting Events
+      </h2>
+      <a
+        class="emotion-94 emotion-95"
+        href="#"
+      >
+        More
+      </a>
+    </header>
+    <article
+      class="emotion-183 emotion-184"
+    >
+      <div
+        class="emotion-112 emotion-113 emotion-114"
+      >
+        <a
+          href="#"
+        >
+          <figure
+            class="emotion-102 emotion-103"
+          >
+            <img
+              class="emotion-98 emotion-99"
+              src="https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_450,q_auto,w_450/itemimages/81/93/8193_v4.jpeg"
+            />
+            <figcaption
+              class="emotion-100 emotion-101"
+            >
+              <span>
+                20
+                %
+              </span>
+              OFF
+            </figcaption>
+          </figure>
+        </a>
+        <a
+          href="#"
+        >
+          <p
+            class="emotion-104 emotion-105"
+          >
+            Hilton, Miami
+          </p>
+          <p
+            class="emotion-106 emotion-107"
+          >
+            Best for Super Bowl LIV
+          </p>
+          <div
+            class="emotion-110 emotion-111"
+          >
+            From 
+            <span>
+              $
+              103
+            </span>
+             
+            <p
+              class="emotion-108 emotion-109"
+            >
+              0
+            </p>
+          </div>
+        </a>
+      </div>
+      <div
+        class="emotion-112 emotion-113 emotion-114"
+      >
+        <a
+          href="#"
+        >
+          <figure
+            class="emotion-102 emotion-103"
+          >
+            <img
+              class="emotion-98 emotion-99"
+              src="https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_450,q_auto,w_450/itemimages/81/93/8193_v4.jpeg"
+            />
+            <figcaption
+              class="emotion-100 emotion-101"
+            >
+              <span>
+                20
+                %
+              </span>
+              OFF
+            </figcaption>
+          </figure>
+        </a>
+        <a
+          href="#"
+        >
+          <p
+            class="emotion-104 emotion-105"
+          >
+            Hilton, Miami
+          </p>
+          <p
+            class="emotion-106 emotion-107"
+          >
+            Best for Super Bowl LIV
+          </p>
+          <div
+            class="emotion-110 emotion-111"
+          >
+            From 
+            <span>
+              $
+              103
+            </span>
+             
+            <p
+              class="emotion-108 emotion-109"
+            >
+              0
+            </p>
+          </div>
+        </a>
+      </div>
+      <div
+        class="emotion-112 emotion-113 emotion-114"
+      >
+        <a
+          href="#"
+        >
+          <figure
+            class="emotion-102 emotion-103"
+          >
+            <img
+              class="emotion-98 emotion-99"
+              src="https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_450,q_auto,w_450/itemimages/81/93/8193_v4.jpeg"
+            />
+            <figcaption
+              class="emotion-100 emotion-101"
+            >
+              <span>
+                20
+                %
+              </span>
+              OFF
+            </figcaption>
+          </figure>
+        </a>
+        <a
+          href="#"
+        >
+          <p
+            class="emotion-104 emotion-105"
+          >
+            Hilton, Miami
+          </p>
+          <p
+            class="emotion-106 emotion-107"
+          >
+            Best for Super Bowl LIV
+          </p>
+          <div
+            class="emotion-110 emotion-111"
+          >
+            From 
+            <span>
+              $
+              103
+            </span>
+             
+            <p
+              class="emotion-108 emotion-109"
+            >
+              0
+            </p>
+          </div>
+        </a>
+      </div>
+      <div
+        class="emotion-112 emotion-113 emotion-114"
+      >
+        <a
+          href="#"
+        >
+          <figure
+            class="emotion-102 emotion-103"
+          >
+            <img
+              class="emotion-98 emotion-99"
+              src="https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_450,q_auto,w_450/itemimages/81/93/8193_v4.jpeg"
+            />
+            <figcaption
+              class="emotion-100 emotion-101"
+            >
+              <span>
+                20
+                %
+              </span>
+              OFF
+            </figcaption>
+          </figure>
+        </a>
+        <a
+          href="#"
+        >
+          <p
+            class="emotion-104 emotion-105"
+          >
+            Hilton, Miami
+          </p>
+          <p
+            class="emotion-106 emotion-107"
+          >
+            Best for Super Bowl LIV
+          </p>
+          <div
+            class="emotion-110 emotion-111"
+          >
+            From 
+            <span>
+              $
+              103
+            </span>
+             
+            <p
+              class="emotion-108 emotion-109"
+            >
+              0
+            </p>
+          </div>
+        </a>
+      </div>
+      <div
+        class="emotion-112 emotion-113 emotion-114"
+      >
+        <a
+          href="#"
+        >
+          <figure
+            class="emotion-102 emotion-103"
+          >
+            <img
+              class="emotion-98 emotion-99"
+              src="https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_450,q_auto,w_450/itemimages/81/93/8193_v4.jpeg"
+            />
+            <figcaption
+              class="emotion-100 emotion-101"
+            >
+              <span>
+                20
+                %
+              </span>
+              OFF
+            </figcaption>
+          </figure>
+        </a>
+        <a
+          href="#"
+        >
+          <p
+            class="emotion-104 emotion-105"
+          >
+            Hilton, Miami
+          </p>
+          <p
+            class="emotion-106 emotion-107"
+          >
+            Best for Super Bowl LIV
+          </p>
+          <div
+            class="emotion-110 emotion-111"
+          >
+            From 
+            <span>
+              $
+              103
+            </span>
+             
+            <p
+              class="emotion-108 emotion-109"
+            >
+              0
+            </p>
+          </div>
+        </a>
+      </div>
+    </article>
+  </section>
+  <div
+    class="emotion-260 emotion-261 emotion-262"
+  >
+    <header
+      class="emotion-190 emotion-191"
+    >
+      <h1
+        class="emotion-188 emotion-189"
+      >
+        Hotels for the Most Popular Sports Cities
+      </h1>
+    </header>
+    <article
+      class="emotion-258 emotion-259"
+    >
+      <div
+        class="emotion-256 emotion-257"
+      >
+        <a
+          class="emotion-198 emotion-199"
+        >
+          <img
+            alt="New York City USA"
+            class="emotion-192 emotion-193"
+            src="https://edc.nyc/sites/default/files/styles/16x9_md/public/2019-05/Landing-Why-NYC%3F-Brooklyn-Bridge-Photo-Julienne-Schaer-NYC-and-Company-NYCEDC-02.jpg?itok=i6pWykbu"
+          />
+          <p
+            class="emotion-196 emotion-197"
+          >
+            New York City
+            <span
+              class="emotion-194 emotion-195"
+            >
+              USA
+            </span>
+          </p>
+          <svg
+            color="#000"
+            fill="#000"
+            height="14"
+            width="8"
+          >
+            <defs>
+              <clippath
+                id="b"
+              >
+                <use
+                  xlink:href="#a"
+                />
+              </clippath>
+              <path
+                d="M5.586 7L.293 12.293a1 1 0 101.414 1.414l6-6a1 1 0 000-1.414l-6-6A1 1 0 00.293 1.707L5.586 7z"
+                id="a"
+              />
+            </defs>
+            <path
+              d="M5.586 7L.293 12.293a1 1 0 101.414 1.414l6-6a1 1 0 000-1.414l-6-6A1 1 0 00.293 1.707L5.586 7z"
+            />
+            <g
+              clip-path="url(#b)"
+            >
+              <path
+                d="M-8-5h24v24H-8V-5z"
+                fill="#FFF"
+              />
+            </g>
+          </svg>
+        </a>
+        <a
+          class="emotion-198 emotion-199"
+        >
+          <img
+            alt="Chicago USA"
+            class="emotion-192 emotion-193"
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSR-zPuUy3MV8gRm2VClF_5nsF7-TmjcwUSW2AhgTVpepglumYc&usqp=CAU"
+          />
+          <p
+            class="emotion-196 emotion-197"
+          >
+            Chicago
+            <span
+              class="emotion-194 emotion-195"
+            >
+              USA
+            </span>
+          </p>
+          <svg
+            color="#000"
+            fill="#000"
+            height="14"
+            width="8"
+          >
+            <defs>
+              <clippath
+                id="b"
+              >
+                <use
+                  xlink:href="#a"
+                />
+              </clippath>
+              <path
+                d="M5.586 7L.293 12.293a1 1 0 101.414 1.414l6-6a1 1 0 000-1.414l-6-6A1 1 0 00.293 1.707L5.586 7z"
+                id="a"
+              />
+            </defs>
+            <path
+              d="M5.586 7L.293 12.293a1 1 0 101.414 1.414l6-6a1 1 0 000-1.414l-6-6A1 1 0 00.293 1.707L5.586 7z"
+            />
+            <g
+              clip-path="url(#b)"
+            >
+              <path
+                d="M-8-5h24v24H-8V-5z"
+                fill="#FFF"
+              />
+            </g>
+          </svg>
+        </a>
+        <a
+          class="emotion-198 emotion-199"
+        >
+          <img
+            alt="Madrid Spain"
+            class="emotion-192 emotion-193"
+            src="https://www.tripsavvy.com/thmb/uxndpaB3e4BaNrS4R3f03OXXA-s=/960x0/filters:no_upscale():max_bytes(150000):strip_icc()/thingstodoinmadridskyline-d05bf06ef9144f04973d5bfc50fbcee6.jpg"
+          />
+          <p
+            class="emotion-196 emotion-197"
+          >
+            Madrid
+            <span
+              class="emotion-194 emotion-195"
+            >
+              Spain
+            </span>
+          </p>
+          <svg
+            color="#000"
+            fill="#000"
+            height="14"
+            width="8"
+          >
+            <defs>
+              <clippath
+                id="b"
+              >
+                <use
+                  xlink:href="#a"
+                />
+              </clippath>
+              <path
+                d="M5.586 7L.293 12.293a1 1 0 101.414 1.414l6-6a1 1 0 000-1.414l-6-6A1 1 0 00.293 1.707L5.586 7z"
+                id="a"
+              />
+            </defs>
+            <path
+              d="M5.586 7L.293 12.293a1 1 0 101.414 1.414l6-6a1 1 0 000-1.414l-6-6A1 1 0 00.293 1.707L5.586 7z"
+            />
+            <g
+              clip-path="url(#b)"
+            >
+              <path
+                d="M-8-5h24v24H-8V-5z"
+                fill="#FFF"
+              />
+            </g>
+          </svg>
+        </a>
+        <a
+          class="emotion-198 emotion-199"
+        >
+          <img
+            alt="London United Kingdom"
+            class="emotion-192 emotion-193"
+            src="https://doubletree3.hilton.com/resources/media/dt/LONTLDI/en_US/img/shared/full_page_image_gallery/main/HL_towerbridge_30_677x380_FitToBoxSmallDimension_Center.jpg"
+          />
+          <p
+            class="emotion-196 emotion-197"
+          >
+            London United
+            <span
+              class="emotion-194 emotion-195"
+            >
+              Kingdom
+            </span>
+          </p>
+          <svg
+            color="#000"
+            fill="#000"
+            height="14"
+            width="8"
+          >
+            <defs>
+              <clippath
+                id="b"
+              >
+                <use
+                  xlink:href="#a"
+                />
+              </clippath>
+              <path
+                d="M5.586 7L.293 12.293a1 1 0 101.414 1.414l6-6a1 1 0 000-1.414l-6-6A1 1 0 00.293 1.707L5.586 7z"
+                id="a"
+              />
+            </defs>
+            <path
+              d="M5.586 7L.293 12.293a1 1 0 101.414 1.414l6-6a1 1 0 000-1.414l-6-6A1 1 0 00.293 1.707L5.586 7z"
+            />
+            <g
+              clip-path="url(#b)"
+            >
+              <path
+                d="M-8-5h24v24H-8V-5z"
+                fill="#FFF"
+              />
+            </g>
+          </svg>
+        </a>
+        <a
+          class="emotion-198 emotion-199"
+        >
+          <img
+            alt="Houston USA"
+            class="emotion-192 emotion-193"
+            src="https://i.ytimg.com/vi/hNJr6qvUX6M/maxresdefault.jpg"
+          />
+          <p
+            class="emotion-196 emotion-197"
+          >
+            Houston
+            <span
+              class="emotion-194 emotion-195"
+            >
+              USA
+            </span>
+          </p>
+          <svg
+            color="#000"
+            fill="#000"
+            height="14"
+            width="8"
+          >
+            <defs>
+              <clippath
+                id="b"
+              >
+                <use
+                  xlink:href="#a"
+                />
+              </clippath>
+              <path
+                d="M5.586 7L.293 12.293a1 1 0 101.414 1.414l6-6a1 1 0 000-1.414l-6-6A1 1 0 00.293 1.707L5.586 7z"
+                id="a"
+              />
+            </defs>
+            <path
+              d="M5.586 7L.293 12.293a1 1 0 101.414 1.414l6-6a1 1 0 000-1.414l-6-6A1 1 0 00.293 1.707L5.586 7z"
+            />
+            <g
+              clip-path="url(#b)"
+            >
+              <path
+                d="M-8-5h24v24H-8V-5z"
+                fill="#FFF"
+              />
+            </g>
+          </svg>
+        </a>
+        <a
+          class="emotion-198 emotion-199"
+        >
+          <img
+            alt="Los Angeles USA"
+            class="emotion-192 emotion-193"
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRHlbPiHfJDLYlVEWVq_H7-9xuGyFrzu8BQGGXHm_PQarHy_bJS&usqp=CAU"
+          />
+          <p
+            class="emotion-196 emotion-197"
+          >
+            Los Angeles
+            <span
+              class="emotion-194 emotion-195"
+            >
+              USA
+            </span>
+          </p>
+          <svg
+            color="#000"
+            fill="#000"
+            height="14"
+            width="8"
+          >
+            <defs>
+              <clippath
+                id="b"
+              >
+                <use
+                  xlink:href="#a"
+                />
+              </clippath>
+              <path
+                d="M5.586 7L.293 12.293a1 1 0 101.414 1.414l6-6a1 1 0 000-1.414l-6-6A1 1 0 00.293 1.707L5.586 7z"
+                id="a"
+              />
+            </defs>
+            <path
+              d="M5.586 7L.293 12.293a1 1 0 101.414 1.414l6-6a1 1 0 000-1.414l-6-6A1 1 0 00.293 1.707L5.586 7z"
+            />
+            <g
+              clip-path="url(#b)"
+            >
+              <path
+                d="M-8-5h24v24H-8V-5z"
+                fill="#FFF"
+              />
+            </g>
+          </svg>
+        </a>
+        <a
+          class="emotion-198 emotion-199"
+        >
+          <img
+            alt="Barcelona Spain"
+            class="emotion-192 emotion-193"
+            src="https://www.global-business-school.org/sites/default/files/reasons-pursue-degree-barcelona-1.jpg"
+          />
+          <p
+            class="emotion-196 emotion-197"
+          >
+            Barcelona
+            <span
+              class="emotion-194 emotion-195"
+            >
+              Spain
+            </span>
+          </p>
+          <svg
+            color="#000"
+            fill="#000"
+            height="14"
+            width="8"
+          >
+            <defs>
+              <clippath
+                id="b"
+              >
+                <use
+                  xlink:href="#a"
+                />
+              </clippath>
+              <path
+                d="M5.586 7L.293 12.293a1 1 0 101.414 1.414l6-6a1 1 0 000-1.414l-6-6A1 1 0 00.293 1.707L5.586 7z"
+                id="a"
+              />
+            </defs>
+            <path
+              d="M5.586 7L.293 12.293a1 1 0 101.414 1.414l6-6a1 1 0 000-1.414l-6-6A1 1 0 00.293 1.707L5.586 7z"
+            />
+            <g
+              clip-path="url(#b)"
+            >
+              <path
+                d="M-8-5h24v24H-8V-5z"
+                fill="#FFF"
+              />
+            </g>
+          </svg>
+        </a>
+        <a
+          class="emotion-198 emotion-199"
+        >
+          <img
+            alt="Toronto Canada"
+            class="emotion-192 emotion-193"
+            src="https://www.terryferreira.ca/wp-content/uploads/2019/03/toronto.jpg"
+          />
+          <p
+            class="emotion-196 emotion-197"
+          >
+            Toronto
+            <span
+              class="emotion-194 emotion-195"
+            >
+              Canada
+            </span>
+          </p>
+          <svg
+            color="#000"
+            fill="#000"
+            height="14"
+            width="8"
+          >
+            <defs>
+              <clippath
+                id="b"
+              >
+                <use
+                  xlink:href="#a"
+                />
+              </clippath>
+              <path
+                d="M5.586 7L.293 12.293a1 1 0 101.414 1.414l6-6a1 1 0 000-1.414l-6-6A1 1 0 00.293 1.707L5.586 7z"
+                id="a"
+              />
+            </defs>
+            <path
+              d="M5.586 7L.293 12.293a1 1 0 101.414 1.414l6-6a1 1 0 000-1.414l-6-6A1 1 0 00.293 1.707L5.586 7z"
+            />
+            <g
+              clip-path="url(#b)"
+            >
+              <path
+                d="M-8-5h24v24H-8V-5z"
+                fill="#FFF"
+              />
+            </g>
+          </svg>
+        </a>
+      </div>
+    </article>
+  </div>
+  <section
+    class="emotion-185 emotion-186 emotion-187"
+  >
+    <header
+      class="emotion-96 emotion-97"
+    >
+      <h2
+        class="emotion-92 emotion-93"
+      >
+        Hotels Close to the Game
+      </h2>
+      <a
+        class="emotion-94 emotion-95"
+        href="#"
+      >
+        More
+      </a>
+    </header>
+    <article
+      class="emotion-183 emotion-184"
+    >
+      <div
+        class="emotion-112 emotion-113 emotion-114"
+      >
+        <a
+          href="#"
+        >
+          <figure
+            class="emotion-102 emotion-103"
+          >
+            <img
+              class="emotion-98 emotion-99"
+              src="https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_450,q_auto,w_450/itemimages/81/93/8193_v4.jpeg"
+            />
+            <figcaption
+              class="emotion-100 emotion-101"
+            >
+              <span>
+                20
+                %
+              </span>
+              OFF
+            </figcaption>
+          </figure>
+        </a>
+        <a
+          href="#"
+        >
+          <p
+            class="emotion-104 emotion-105"
+          >
+            Hilton, Miami
+          </p>
+          <p
+            class="emotion-106 emotion-107"
+          >
+            Best for Super Bowl LIV
+          </p>
+          <div
+            class="emotion-110 emotion-111"
+          >
+            From 
+            <span>
+              $
+              103
+            </span>
+             
+            <p
+              class="emotion-108 emotion-109"
+            >
+              0
+            </p>
+          </div>
+        </a>
+      </div>
+      <div
+        class="emotion-112 emotion-113 emotion-114"
+      >
+        <a
+          href="#"
+        >
+          <figure
+            class="emotion-102 emotion-103"
+          >
+            <img
+              class="emotion-98 emotion-99"
+              src="https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_450,q_auto,w_450/itemimages/81/93/8193_v4.jpeg"
+            />
+            <figcaption
+              class="emotion-100 emotion-101"
+            >
+              <span>
+                20
+                %
+              </span>
+              OFF
+            </figcaption>
+          </figure>
+        </a>
+        <a
+          href="#"
+        >
+          <p
+            class="emotion-104 emotion-105"
+          >
+            Hilton, Miami
+          </p>
+          <p
+            class="emotion-106 emotion-107"
+          >
+            Best for Super Bowl LIV
+          </p>
+          <div
+            class="emotion-110 emotion-111"
+          >
+            From 
+            <span>
+              $
+              103
+            </span>
+             
+            <p
+              class="emotion-108 emotion-109"
+            >
+              0
+            </p>
+          </div>
+        </a>
+      </div>
+      <div
+        class="emotion-112 emotion-113 emotion-114"
+      >
+        <a
+          href="#"
+        >
+          <figure
+            class="emotion-102 emotion-103"
+          >
+            <img
+              class="emotion-98 emotion-99"
+              src="https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_450,q_auto,w_450/itemimages/81/93/8193_v4.jpeg"
+            />
+            <figcaption
+              class="emotion-100 emotion-101"
+            >
+              <span>
+                20
+                %
+              </span>
+              OFF
+            </figcaption>
+          </figure>
+        </a>
+        <a
+          href="#"
+        >
+          <p
+            class="emotion-104 emotion-105"
+          >
+            Hilton, Miami
+          </p>
+          <p
+            class="emotion-106 emotion-107"
+          >
+            Best for Super Bowl LIV
+          </p>
+          <div
+            class="emotion-110 emotion-111"
+          >
+            From 
+            <span>
+              $
+              103
+            </span>
+             
+            <p
+              class="emotion-108 emotion-109"
+            >
+              0
+            </p>
+          </div>
+        </a>
+      </div>
+      <div
+        class="emotion-112 emotion-113 emotion-114"
+      >
+        <a
+          href="#"
+        >
+          <figure
+            class="emotion-102 emotion-103"
+          >
+            <img
+              class="emotion-98 emotion-99"
+              src="https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_450,q_auto,w_450/itemimages/81/93/8193_v4.jpeg"
+            />
+            <figcaption
+              class="emotion-100 emotion-101"
+            >
+              <span>
+                20
+                %
+              </span>
+              OFF
+            </figcaption>
+          </figure>
+        </a>
+        <a
+          href="#"
+        >
+          <p
+            class="emotion-104 emotion-105"
+          >
+            Hilton, Miami
+          </p>
+          <p
+            class="emotion-106 emotion-107"
+          >
+            Best for Super Bowl LIV
+          </p>
+          <div
+            class="emotion-110 emotion-111"
+          >
+            From 
+            <span>
+              $
+              103
+            </span>
+             
+            <p
+              class="emotion-108 emotion-109"
+            >
+              0
+            </p>
+          </div>
+        </a>
+      </div>
+      <div
+        class="emotion-112 emotion-113 emotion-114"
+      >
+        <a
+          href="#"
+        >
+          <figure
+            class="emotion-102 emotion-103"
+          >
+            <img
+              class="emotion-98 emotion-99"
+              src="https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_450,q_auto,w_450/itemimages/81/93/8193_v4.jpeg"
+            />
+            <figcaption
+              class="emotion-100 emotion-101"
+            >
+              <span>
+                20
+                %
+              </span>
+              OFF
+            </figcaption>
+          </figure>
+        </a>
+        <a
+          href="#"
+        >
+          <p
+            class="emotion-104 emotion-105"
+          >
+            Hilton, Miami
+          </p>
+          <p
+            class="emotion-106 emotion-107"
+          >
+            Best for Super Bowl LIV
+          </p>
+          <div
+            class="emotion-110 emotion-111"
+          >
+            From 
+            <span>
+              $
+              103
+            </span>
+             
+            <p
+              class="emotion-108 emotion-109"
+            >
+              0
+            </p>
+          </div>
+        </a>
+      </div>
+    </article>
+  </section>
+  <section
+    class="emotion-380 emotion-381"
+  >
+    <figure
+      class="emotion-363 emotion-364"
+    >
+      <img
+        class="emotion-359 emotion-360"
+        src="mocked-file"
+      />
+      <img
+        class="emotion-361 emotion-360"
+        src="mocked-file"
+      />
+    </figure>
+    <article
+      class="emotion-378 emotion-379"
+    >
+      <header>
+        <h1
+          class="emotion-365 emotion-366"
+        />
+      </header>
+      <p
+        class="emotion-367 emotion-368"
+      />
+      <div
+        class="emotion-369 emotion-370"
+      >
+        <a>
+          More
+        </a>
+      </div>
+      <div
+        class="emotion-375 emotion-376 emotion-377"
+      >
+        <span
+          class="emotion-371 emotion-372"
+          role="control-1"
+        />
+        <span
+          class="emotion-373 emotion-372"
+          role="control-2"
+        />
+      </div>
+    </article>
+  </section>
+  <section
+    class="emotion-185 emotion-186 emotion-187"
+  >
+    <header
+      class="emotion-96 emotion-97"
+    >
+      <h2
+        class="emotion-92 emotion-93"
+      >
+        Top Hotel Deals near Major Sports Venues
+      </h2>
+      <a
+        class="emotion-94 emotion-95"
+        href="#"
+      >
+        More
+      </a>
+    </header>
+    <article
+      class="emotion-183 emotion-184"
+    >
+      <div
+        class="emotion-112 emotion-113 emotion-114"
+      >
+        <a
+          href="#"
+        >
+          <figure
+            class="emotion-102 emotion-103"
+          >
+            <img
+              class="emotion-98 emotion-99"
+              src="https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_450,q_auto,w_450/itemimages/81/93/8193_v4.jpeg"
+            />
+            <figcaption
+              class="emotion-100 emotion-101"
+            >
+              <span>
+                20
+                %
+              </span>
+              OFF
+            </figcaption>
+          </figure>
+        </a>
+        <a
+          href="#"
+        >
+          <p
+            class="emotion-104 emotion-105"
+          >
+            Hilton, Miami
+          </p>
+          <p
+            class="emotion-106 emotion-107"
+          >
+            Best for Super Bowl LIV
+          </p>
+          <div
+            class="emotion-110 emotion-111"
+          >
+            From 
+            <span>
+              $
+              103
+            </span>
+             
+            <p
+              class="emotion-108 emotion-109"
+            >
+              0
+            </p>
+          </div>
+        </a>
+      </div>
+      <div
+        class="emotion-112 emotion-113 emotion-114"
+      >
+        <a
+          href="#"
+        >
+          <figure
+            class="emotion-102 emotion-103"
+          >
+            <img
+              class="emotion-98 emotion-99"
+              src="https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_450,q_auto,w_450/itemimages/81/93/8193_v4.jpeg"
+            />
+            <figcaption
+              class="emotion-100 emotion-101"
+            >
+              <span>
+                20
+                %
+              </span>
+              OFF
+            </figcaption>
+          </figure>
+        </a>
+        <a
+          href="#"
+        >
+          <p
+            class="emotion-104 emotion-105"
+          >
+            Hilton, Miami
+          </p>
+          <p
+            class="emotion-106 emotion-107"
+          >
+            Best for Super Bowl LIV
+          </p>
+          <div
+            class="emotion-110 emotion-111"
+          >
+            From 
+            <span>
+              $
+              103
+            </span>
+             
+            <p
+              class="emotion-108 emotion-109"
+            >
+              0
+            </p>
+          </div>
+        </a>
+      </div>
+      <div
+        class="emotion-112 emotion-113 emotion-114"
+      >
+        <a
+          href="#"
+        >
+          <figure
+            class="emotion-102 emotion-103"
+          >
+            <img
+              class="emotion-98 emotion-99"
+              src="https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_450,q_auto,w_450/itemimages/81/93/8193_v4.jpeg"
+            />
+            <figcaption
+              class="emotion-100 emotion-101"
+            >
+              <span>
+                20
+                %
+              </span>
+              OFF
+            </figcaption>
+          </figure>
+        </a>
+        <a
+          href="#"
+        >
+          <p
+            class="emotion-104 emotion-105"
+          >
+            Hilton, Miami
+          </p>
+          <p
+            class="emotion-106 emotion-107"
+          >
+            Best for Super Bowl LIV
+          </p>
+          <div
+            class="emotion-110 emotion-111"
+          >
+            From 
+            <span>
+              $
+              103
+            </span>
+             
+            <p
+              class="emotion-108 emotion-109"
+            >
+              0
+            </p>
+          </div>
+        </a>
+      </div>
+      <div
+        class="emotion-112 emotion-113 emotion-114"
+      >
+        <a
+          href="#"
+        >
+          <figure
+            class="emotion-102 emotion-103"
+          >
+            <img
+              class="emotion-98 emotion-99"
+              src="https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_450,q_auto,w_450/itemimages/81/93/8193_v4.jpeg"
+            />
+            <figcaption
+              class="emotion-100 emotion-101"
+            >
+              <span>
+                20
+                %
+              </span>
+              OFF
+            </figcaption>
+          </figure>
+        </a>
+        <a
+          href="#"
+        >
+          <p
+            class="emotion-104 emotion-105"
+          >
+            Hilton, Miami
+          </p>
+          <p
+            class="emotion-106 emotion-107"
+          >
+            Best for Super Bowl LIV
+          </p>
+          <div
+            class="emotion-110 emotion-111"
+          >
+            From 
+            <span>
+              $
+              103
+            </span>
+             
+            <p
+              class="emotion-108 emotion-109"
+            >
+              0
+            </p>
+          </div>
+        </a>
+      </div>
+      <div
+        class="emotion-112 emotion-113 emotion-114"
+      >
+        <a
+          href="#"
+        >
+          <figure
+            class="emotion-102 emotion-103"
+          >
+            <img
+              class="emotion-98 emotion-99"
+              src="https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_450,q_auto,w_450/itemimages/81/93/8193_v4.jpeg"
+            />
+            <figcaption
+              class="emotion-100 emotion-101"
+            >
+              <span>
+                20
+                %
+              </span>
+              OFF
+            </figcaption>
+          </figure>
+        </a>
+        <a
+          href="#"
+        >
+          <p
+            class="emotion-104 emotion-105"
+          >
+            Hilton, Miami
+          </p>
+          <p
+            class="emotion-106 emotion-107"
+          >
+            Best for Super Bowl LIV
+          </p>
+          <div
+            class="emotion-110 emotion-111"
+          >
+            From 
+            <span>
+              $
+              103
+            </span>
+             
+            <p
+              class="emotion-108 emotion-109"
+            >
+              0
+            </p>
+          </div>
+        </a>
+      </div>
+    </article>
+  </section>
+  <div
+    class="emotion-494 emotion-495"
+  >
+    <div
+      class="emotion-492 emotion-493"
+    >
+      <span
+        class="emotion-478 emotion-479"
+      >
+        Subscribe
+      </span>
+      <span
+        class="emotion-480 emotion-481"
+      >
+        Subscribe to receive important announcements and deals
+      </span>
+      <form>
+        <div
+          class="emotion-484 emotion-23"
+        >
+          <input
+            class="emotion-482 emotion-20"
+            placeholder="Full Name"
+            value=""
+          />
+        </div>
+        <div
+          class="emotion-484 emotion-23"
+        >
+          <input
+            class="emotion-482 emotion-20"
+            placeholder="Email"
+            value=""
+          />
+        </div>
+        <button
+          class="emotion-490 emotion-491"
+        >
+          Go
+        </button>
+      </form>
+    </div>
+  </div>
+</div>
+`;

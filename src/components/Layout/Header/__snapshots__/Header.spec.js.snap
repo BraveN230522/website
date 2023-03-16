@@ -1,0 +1,530 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Header /> renders Header layout unchanged 1`] = `
+.emotion-40 {
+  width: 100%;
+  min-height: 736px;
+  padding-top: 1px;
+  background-color: #000000;
+  position: relative;
+}
+
+.emotion-40:after,
+.emotion-40:before {
+  content: '';
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  z-index: 2;
+}
+
+.emotion-40:after {
+  display: block;
+  background: rgba(0,0,0,0.1);
+}
+
+.emotion-40:before {
+  background: linear-gradient(transparent,70%,#000000 100%);
+}
+
+@media (max-width:768px) {
+  .emotion-40 {
+    min-height: 516px;
+  }
+}
+
+.emotion-40 figure {
+  margin: 0;
+}
+
+.emotion-6 {
+  max-width: 1323px;
+  width: 100%;
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  padding: 46px 20px 0;
+  margin-bottom: 38px;
+  position: relative;
+  z-index: 3;
+}
+
+.emotion-6 h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.emotion-0 {
+  color: #ffffff;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 21px;
+  -webkit-letter-spacing: -0.08px;
+  -moz-letter-spacing: -0.08px;
+  -ms-letter-spacing: -0.08px;
+  letter-spacing: -0.08px;
+  vertical-align: middle;
+}
+
+.emotion-4 {
+  list-style: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.emotion-2 {
+  margin-left: 21px;
+  cursor: pointer;
+}
+
+.emotion-2:nth-of-type(1) img {
+  margin-top: 3px;
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+}
+
+.emotion-2:last-child {
+  display: none;
+}
+
+.emotion-2 img {
+  -webkit-transition: ease-out 0.3s -webkit-transform;
+  -webkit-transition: ease-out 0.3s transform;
+  transition: ease-out 0.3s transform;
+}
+
+.emotion-2:hover img {
+  -webkit-transform: scale(0.9);
+  -ms-transform: scale(0.9);
+  transform: scale(0.9);
+}
+
+@media (max-width:60em) {
+  .emotion-2:nth-of-type(2) {
+    -webkit-transform: scale(1.3);
+    -ms-transform: scale(1.3);
+    transform: scale(1.3);
+    margin-right: 14px;
+    margin-top: 2px;
+  }
+
+  .emotion-2:nth-of-type(even) {
+    display: none;
+  }
+
+  .emotion-2:last-child {
+    display: block;
+  }
+}
+
+.emotion-8 {
+  position: relative;
+  z-index: 4;
+}
+
+.emotion-38 {
+  position: fixed;
+  top: 0;
+  right: -100rem;
+  visibility: hidden;
+  opacity: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 500;
+  -webkit-transition: all 0.32s ease-in-out;
+  transition: all 0.32s ease-in-out;
+}
+
+.emotion-38:after {
+  content: '';
+  background-color: rgba(0,0,0,0.7);
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.emotion-36 {
+  background-color: #ffffff;
+  position: absolute;
+  width: 80%;
+  height: 100%;
+  top: 0;
+  right: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  z-index: 502;
+  padding-bottom: 24px;
+  border-radius: 12px 0 0 12px;
+}
+
+@media (max-width:48em) {
+  .emotion-36 {
+    max-width: 338px;
+  }
+}
+
+.emotion-12 {
+  background-color: #2891ff;
+  min-height: 93px;
+  padding: 12px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: flex-end;
+  -webkit-box-align: flex-end;
+  -ms-flex-align: flex-end;
+  align-items: flex-end;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+  border-top-left-radius: 12px;
+  -webkit-letter-spacing: -0.17px;
+  -moz-letter-spacing: -0.17px;
+  -ms-letter-spacing: -0.17px;
+  letter-spacing: -0.17px;
+  color: #ffffff;
+  position: relative;
+}
+
+.emotion-12 > span {
+  font-family: DINAlternateRegular,sans-serif;
+  font-size: 24px;
+}
+
+.emotion-10 {
+  border: 0;
+  background-color: transparent;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  position: absolute;
+  left: -41px;
+  top: 57px;
+  outline: 0;
+}
+
+.emotion-10:focus {
+  outline: 0;
+}
+
+.emotion-34 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  padding: 12px;
+  text-align: right;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  height: 100%;
+  overflow-y: auto;
+}
+
+.emotion-14 {
+  font-family: DINAlternateBold,sans-serif;
+  font-size: 24px;
+  margin-top: 24px;
+  margin-bottom: 24px;
+  color: #000000;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.emotion-14:hover,
+.emotion-14:visited,
+.emotion-14:focus {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.emotion-14 > svg {
+  margin-left: 25px;
+}
+
+.emotion-28 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  margin-bottom: 60px;
+}
+
+.emotion-16 {
+  font-family: DINAlternateBold,sans-serif;
+  font-size: 24px;
+  margin-top: 24px;
+  color: #000000;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.emotion-16:hover,
+.emotion-16:visited,
+.emotion-16:focus {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.emotion-16 > svg {
+  margin-left: 25px;
+}
+
+<div>
+  <header
+    class="emotion-40 emotion-41"
+  >
+    <figure />
+    <div
+      class="emotion-6 emotion-7"
+    >
+      <h1>
+        <a
+          class="emotion-0 emotion-1"
+        />
+      </h1>
+      <nav>
+        <ul
+          class="emotion-4 emotion-5"
+        >
+          <li
+            class="emotion-2 emotion-3"
+          >
+            <a>
+              <img
+                alt="bars"
+                src="mocked-file"
+              />
+            </a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+    <div
+      class="emotion-8 emotion-9"
+    >
+      <p>
+        something
+      </p>
+    </div>
+    <div
+      aria-hidden="true"
+      class="emotion-38 emotion-39"
+      data-testid="menu-mobile"
+    >
+      <aside
+        class="emotion-36 emotion-37"
+      >
+        <div
+          class="emotion-12 emotion-13"
+        >
+          <span>
+            Menu
+          </span>
+          <button
+            class="emotion-10 emotion-11"
+          >
+            <svg
+              color="#fff"
+              height="24"
+              width="24"
+            >
+              <defs>
+                <path
+                  d="M.293.293c.39-.39 1.024-.39 1.414 0L7 5.585 12.293.293c.36-.36.928-.388 1.32-.083l.094.083c.39.39.39 1.024 0 1.414L8.415 7l5.292 5.293c.36.36.388.928.083 1.32l-.083.094c-.39.39-1.024.39-1.414 0L7 8.415l-5.293 5.292c-.36.36-.928.388-1.32.083l-.094-.083c-.39-.39-.39-1.024 0-1.414L5.585 7 .293 1.707C-.067 1.347-.095.78.21.387z"
+                  id="prefix__a"
+                />
+              </defs>
+              <g
+                fill="none"
+                fill-rule="evenodd"
+                transform="translate(5 5)"
+              >
+                <mask
+                  fill="#fff"
+                  id="prefix__b"
+                >
+                  <use
+                    xlink:href="#prefix__a"
+                  />
+                </mask>
+                <use
+                  fill="#fff"
+                  fill-rule="nonzero"
+                  xlink:href="#prefix__a"
+                />
+                <g
+                  fill="#fff"
+                  mask="url(#prefix__b)"
+                >
+                  <path
+                    d="M0 0H24V24H0z"
+                    transform="translate(-5 -5)"
+                  />
+                </g>
+              </g>
+            </svg>
+          </button>
+        </div>
+        <div
+          class="emotion-34 emotion-35"
+        >
+          <a
+            class="emotion-14 emotion-15"
+            href="/"
+          >
+            Login / Register 
+            <svg
+              color="#000"
+              fill="#000"
+              height="24"
+              viewBox="0 0 19.001 24"
+              width="19.001"
+            >
+              <g
+                transform="translate(-0.999)"
+              >
+                <path
+                  d="M5,12c2.761,0,5-2.686,5-6S9.265,0,5,0,0,2.686,0,6,2.239,12,5,12Z"
+                  transform="translate(5)"
+                />
+                <path
+                  d="M.051.1c0-.2,0-.056,0,0Z"
+                  transform="translate(0.95 20.949)"
+                />
+                <path
+                  d="M.049.18c0-.054,0-.375,0,0Z"
+                  transform="translate(18.95 20.91)"
+                />
+                <path
+                  d="M18.989,8.405C18.9,2.669,18.129,1.035,12.254,0A3.558,3.558,0,0,1,9.5,1.028,3.559,3.559,0,0,1,6.746,0C.936,1.023.121,2.634.014,8.219.006,8.675,0,8.7,0,8.646c0,.1,0,.283,0,.6C0,9.249,1.4,12,9.5,12S19,9.249,19,9.249c0-.206,0-.349,0-.446A3.6,3.6,0,0,1,18.989,8.405Z"
+                  transform="translate(1 12)"
+                />
+              </g>
+            </svg>
+          </a>
+          <nav
+            class="emotion-28 emotion-29"
+          >
+            <a
+              class="emotion-16 emotion-15"
+              href="/"
+            >
+              Home
+            </a>
+            <a
+              class="emotion-16 emotion-15"
+              href="/"
+            >
+              Events
+            </a>
+            <a
+              class="emotion-16 emotion-15"
+              href="/"
+            >
+              Cities
+            </a>
+            <a
+              class="emotion-16 emotion-15"
+              href="/"
+            >
+              Hotels
+            </a>
+            <a
+              class="emotion-16 emotion-15"
+              href="/"
+            >
+              Experiences
+            </a>
+            <a
+              class="emotion-16 emotion-15"
+              href="/"
+            >
+              About
+            </a>
+          </nav>
+          <a
+            class="emotion-16 emotion-15"
+            href="/"
+          >
+            Contact
+          </a>
+          <a
+            class="emotion-16 emotion-15"
+            href="/"
+          >
+            Download App for iOS
+          </a>
+        </div>
+      </aside>
+    </div>
+  </header>
+</div>
+`;

@@ -1,0 +1,26 @@
+{
+  "presets": ["next/babel"],
+  "plugins": [
+    ["emotion"],
+    ["graphql-tag"],
+    [
+      "module-resolver",
+      {
+        "root": ["."],
+        "alias": {
+          //needs to be swiamTestUtils to not have conflicts with reactTestUtils library
+          "@swiamTestUtils": "./__tests__/utils",
+          "@utils": "./src/utils",
+          "@components": "./src/components",
+          "@graphql": "./src/graphql",
+          "@lib": "./src/lib",
+          "@theme": "./src/theme",
+          "@public": "./public",
+          "@images": "./public/images",
+          "@svg": "./public/svg",
+          "@pages": "./pages"
+        }
+      }
+    ]
+  ]
+}

@@ -1,0 +1,446 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<About /> Renders the About componenent 1`] = `
+.emotion-32 {
+  background-color: #000000;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+}
+
+@media (max-width:60em) {
+  .emotion-32 {
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+}
+
+.emotion-26 {
+  margin-right: 74px;
+  width: 46%;
+  padding: 62px 0 52px;
+}
+
+@media (max-width:76.75em) {
+  .emotion-26 {
+    width: 100%;
+  }
+}
+
+@media (max-width:60em) {
+  .emotion-26 {
+    width: 100%;
+    margin-right: 30px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    max-width: 100%;
+    -webkit-order: 1;
+    -ms-flex-order: 1;
+    order: 1;
+  }
+}
+
+.emotion-24 {
+  max-width: 643px;
+  width: 100%;
+  padding-left: 30px;
+}
+
+@media (max-width:48em) {
+  .emotion-24 {
+    padding-right: 30px;
+  }
+}
+
+@media (max-width:60em) {
+  .emotion-24 {
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    margin: 0;
+  }
+}
+
+.emotion-0 {
+  color: #ffffff;
+  font-family: DINAlternateRegular,sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 37px;
+  margin: 0 0 24px 0;
+}
+
+.emotion-0 span {
+  color: #2891ff;
+}
+
+@media (max-width:36.25em) {
+  .emotion-0 {
+    font-size: 24px;
+    line-height: 32px;
+    text-align: center;
+  }
+}
+
+.emotion-2 {
+  color: #ffffff;
+  font-family: Inter,sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 19px;
+  text-align: center;
+}
+
+.emotion-16 {
+  max-width: 640px;
+  width: 100%;
+}
+
+.emotion-6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 25px;
+  width: 100%;
+}
+
+.emotion-4 {
+  color: #ffffff;
+  font-family: Inter,sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 18px;
+  margin: 0 0 0 13px;
+  opacity: 0.8;
+}
+
+@media (max-width:36.25em) {
+  .emotion-4 {
+    font-size: 12px;
+    line-height: 16px;
+  }
+}
+
+.emotion-19 {
+  border: solid 2px #ffffff;
+  color: #000000;
+  background: #ffffff;
+  height: 45px;
+  font-weight: 600;
+  font-size: 16px;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-transition: all 0.3s ease-in;
+  transition: all 0.3s ease-in;
+  cursor: pointer;
+  font-family: Inter,sans-serif;
+  border-radius: 25px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  outline: none;
+  vertical-align: middle;
+  text-align: center;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  width: 103px;
+  margin-top: 40px;
+  height: 38px;
+  font-weight: 500;
+  line-height: 21px;
+  margin-right: 8px;
+}
+
+.emotion-19:hover {
+  background: #000000;
+  color: #ffffff;
+}
+
+.emotion-19 svg {
+  margin-right: 6px;
+}
+
+.emotion-19:hover path {
+  stroke: #000000;
+}
+
+@media (max-width:60em) {
+  .emotion-19 {
+    background-color: transparent;
+    border-radius: 20px;
+    color: #ffffff;
+    margin-bottom: 48px;
+    width: 132px;
+  }
+}
+
+@media (max-width:48em) {
+  .emotion-19 {
+    margin-bottom: 0;
+  }
+}
+
+.emotion-22 {
+  border: solid 2px #ffffff;
+  color: #ffffff;
+  background: transparent;
+  height: 45px;
+  font-weight: 600;
+  font-size: 16px;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-transition: all 0.3s ease-in;
+  transition: all 0.3s ease-in;
+  cursor: pointer;
+  font-family: Inter,sans-serif;
+  border-radius: 25px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  outline: none;
+  vertical-align: middle;
+  text-align: center;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  width: 103px;
+  margin-top: 40px;
+  height: 38px;
+  font-weight: 500;
+  line-height: 21px;
+  width: 173px;
+}
+
+.emotion-22:hover {
+  background: #ffffff;
+  color: #000000;
+}
+
+.emotion-22 svg {
+  margin-right: 6px;
+}
+
+.emotion-22:hover path {
+  stroke: #000000;
+}
+
+@media (max-width:60em) {
+  .emotion-22 {
+    background-color: transparent;
+    border-radius: 20px;
+    margin-bottom: 48px;
+    width: 132px;
+  }
+}
+
+@media (max-width:60em) {
+  .emotion-22 {
+    display: none;
+  }
+}
+
+.emotion-30 {
+  max-width: 605px;
+  width: 100%;
+}
+
+@media (max-width:60em) {
+  .emotion-30 {
+    height: 200px;
+    max-width: none;
+    -webkit-order: 0;
+    -ms-flex-order: 0;
+    order: 0;
+  }
+}
+
+.emotion-28 {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+<div>
+  <section
+    class="emotion-32 emotion-33"
+  >
+    <div
+      class="emotion-26 emotion-27"
+    >
+      <div
+        class="emotion-24 emotion-25"
+      >
+        <h1
+          class="emotion-0 emotion-1"
+        >
+          We are a 
+          <span>
+            sports travel
+          </span>
+           company
+        </h1>
+        <span
+          class="emotion-2 emotion-3"
+        >
+          Empowering travelling sports fans to create memorable sporting experiences.
+        </span>
+        <div
+          class="emotion-16 emotion-17"
+        >
+          <div
+            class="emotion-6 emotion-7"
+          >
+            <span>
+              <svg
+                color="#000"
+                fill="#000"
+                height="32"
+                width="32"
+              >
+                <path
+                  d="M2 16C2 8.269 8.269 2 16 2s14 6.269 14 14-6.269 14-14 14S2 23.731 2 16zm13.466 4.553l6.581-9.125a.25.25 0 00-.203-.397h-1.466a1 1 0 00-.809.416l-4.912 6.812-2.225-3.087a.995.995 0 00-.81-.416h-1.465c-.203 0-.322.232-.203.397l3.896 5.4a.994.994 0 001.616 0z"
+                  fill="#FFF"
+                  fill-rule="evenodd"
+                />
+                <path
+                  d="M0 0h32v32H0V0z"
+                  fill="none"
+                />
+              </svg>
+            </span>
+            <p
+              class="emotion-4 emotion-5"
+            >
+              Book your tickets, hotel rooms, pre-game experiences, stadium tours and merchandise, the way you want to.
+            </p>
+          </div>
+          <div
+            class="emotion-6 emotion-7"
+          >
+            <span>
+              <svg
+                color="#000"
+                fill="#000"
+                height="28"
+                width="35"
+              >
+                <path
+                  d="M18.298 11.895l8.165 6.628c.75.612.864 1.711.252 2.466l-.52.64a1.747 1.747 0 01-2.46.257l-.296-.24-1.717 2.11a2.032 2.032 0 01-2.86.296l-.98-.848-.01.01a3.5 3.5 0 01-4.922.51L8 19.243H7V7l2.991-2.986a1.747 1.747 0 011.236-.514h4.583l-4.473 4.096a3.94 3.94 0 00-.24 5.562 3.943 3.943 0 005.56.24l1.641-1.503zM23.772 3.5h-4.697a1.75 1.75 0 00-1.182.46L12.517 8.88c-.005.006-.01.017-.016.022a2.175 2.175 0 00-.115 3.063c.695.76 2.155.962 3.068.147.006-.005.017-.005.022-.01l4.37-4.004a.874.874 0 111.181 1.29L19.6 10.698l7.962 6.464c.159.131.3.273.432.421V7l-2.986-2.986a1.738 1.738 0 00-1.236-.514zM0 21V7.01h5.25v12.24c0 .968-.782 1.75-1.75 1.75H0zm29.75-1.745V7.011H35v13.994h-3.5c-.968 0-1.75-.782-1.75-1.75zm-27.125-1.75c.481 0 .875.394.875.875a.878.878 0 01-.875.875.874.874 0 110-1.75zm29.75 1.75a.878.878 0 01-.875-.875c0-.48.394-.875.875-.875s.875.394.875.875a.878.878 0 01-.875.875z"
+                  fill="#FFF"
+                  fill-rule="evenodd"
+                />
+                <path
+                  d="M0 0h35v28H0V0z"
+                  fill="none"
+                />
+              </svg>
+            </span>
+            <p
+              class="emotion-4 emotion-5"
+            >
+              Your ticket buying experience is consistent wherever you are, no matter the game. Our cart allows you to select and pay for multiple games across multiple cities.
+            </p>
+          </div>
+          <div
+            class="emotion-6 emotion-7"
+          >
+            <span>
+              <svg
+                color="#000"
+                fill="#000"
+                height="34"
+                width="32"
+              >
+                <path
+                  d="M12.454 32.994c.66 0 1.219-.234 1.675-.702l16.797-17.227c.457-.468.685-1.04.685-1.717q0-1.015-.685-1.717l-2.334-2.372q-1.037 1.062-2.518 1.062-1.482 0-2.519-1.062-1.037-1.063-1.037-2.58 0-1.518 1.037-2.58l-2.314-2.372q-.686-.702-1.676-.702c-.66 0-1.22.234-1.676.702L1.092 18.917q-.685.701-.685 1.716c0 .677.229 1.25.685 1.717l2.315 2.391q1.037-1.062 2.519-1.062 1.481 0 2.518 1.062 1.037 1.063 1.037 2.58 0 1.518-1.037 2.58l2.334 2.391a2.252 2.252 0 001.676.702zm2.008-5.843l11.445-11.726q.352-.36.352-.854c0-.328-.118-.613-.352-.853l-6.704-6.869a1.117 1.117 0 00-.833-.341c-.333 0-.611.114-.833.341L6.092 18.575c-.234.24-.352.525-.352.854 0 .328.118.613.352.853l6.704 6.869q.333.341.833.341.5 0 .833-.341zm9.76-12.58L18.37 8.576 7.777 19.429l5.852 5.995 10.593-10.853z"
+                  fill="#FFF"
+                  fill-rule="evenodd"
+                />
+                <path
+                  d="M0 0h32v34H0V0z"
+                  fill="none"
+                />
+              </svg>
+            </span>
+            <p
+              class="emotion-4 emotion-5"
+            >
+              We give you access to over 65,000 events from over 240 cities. Click below to read our story:
+            </p>
+          </div>
+        </div>
+        <button
+          class="emotion-18 emotion-19 emotion-20"
+        >
+          More
+        </button>
+        <button
+          class="emotion-21 emotion-22 emotion-20"
+        >
+          Meet the Team
+        </button>
+      </div>
+    </div>
+    <div
+      class="emotion-30 emotion-31"
+    >
+      <img
+        alt="about"
+        class="emotion-28 emotion-29"
+        src="mocked-file"
+      />
+    </div>
+  </section>
+</div>
+`;

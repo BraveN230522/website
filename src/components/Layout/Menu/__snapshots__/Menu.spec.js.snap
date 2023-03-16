@@ -1,0 +1,100 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Menu /> Renders a Menu component 1`] = `
+.emotion-20 {
+  list-style-type: none;
+  padding: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+@media (max-width:60em) {
+  .emotion-20 {
+    display: none;
+  }
+}
+
+.emotion-0 {
+  border-bottom: 2px solid transparent;
+  color: #ffffff;
+  cursor: pointer;
+  display: block;
+  font-family: DINAlternateRegular,sans-serif;
+  font-size: 21px;
+  font-weight: 400;
+  -webkit-letter-spacing: -0.14px;
+  -moz-letter-spacing: -0.14px;
+  -ms-letter-spacing: -0.14px;
+  letter-spacing: -0.14px;
+  line-height: 28px;
+  margin: 0 16px;
+  text-align: center;
+  -webkit-transition: all 0.3s ease-in;
+  transition: all 0.3s ease-in;
+}
+
+.emotion-0:hover {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  border-bottom: 2px solid #ffffff;
+}
+
+<div>
+  <ul
+    class="emotion-20 emotion-21"
+  >
+    <li
+      class="emotion-2 emotion-3"
+    >
+      <a
+        class="emotion-0 emotion-1"
+        href="/events"
+      >
+        Events
+      </a>
+    </li>
+    <li
+      class="emotion-2 emotion-3"
+    >
+      <a
+        class="emotion-0 emotion-1"
+        href="/city/21"
+      >
+        Cities
+      </a>
+    </li>
+    <li
+      class="emotion-2 emotion-3"
+    >
+      <a
+        class="emotion-0 emotion-1"
+        href="/hotels"
+      >
+        Hotels
+      </a>
+    </li>
+    <li
+      class="emotion-2 emotion-3"
+    >
+      <a
+        class="emotion-0 emotion-1"
+        href="/experience/1"
+      >
+        Experiences
+      </a>
+    </li>
+    <li
+      class="emotion-2 emotion-3"
+    >
+      <a
+        class="emotion-0 emotion-1"
+        href="/about"
+      >
+        About
+      </a>
+    </li>
+  </ul>
+</div>
+`;

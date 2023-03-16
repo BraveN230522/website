@@ -1,0 +1,4047 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ThankYouPage /> Renders the ThankYouPage unchanged 1`] = `
+.emotion-166 {
+  width: 100%;
+  min-height: 736px;
+  padding-top: 1px;
+  background-color: #000000;
+  position: relative;
+}
+
+.emotion-166:after,
+.emotion-166:before {
+  content: '';
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  z-index: 2;
+}
+
+.emotion-166:after {
+  display: block;
+  background: rgba(0,0,0,0.1);
+}
+
+.emotion-166:before {
+  background: linear-gradient(transparent,70%,#000000 100%);
+}
+
+@media (max-width:768px) {
+  .emotion-166 {
+    min-height: 516px;
+  }
+}
+
+.emotion-166 figure {
+  margin: 0;
+}
+
+.emotion-0 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  object-fit: cover;
+  background-repeat: no-repeat;
+  -webkit-transition: all ease-out .3s;
+  transition: all ease-out .3s;
+  object-position: center bottom;
+  opacity: 1;
+}
+
+@media (max-width:48em) {
+  .emotion-0 {
+    display: none;
+  }
+}
+
+.emotion-2 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  object-fit: cover;
+  background-repeat: no-repeat;
+  -webkit-transition: all ease-out .3s;
+  transition: all ease-out .3s;
+  display: none;
+  opacity: 1;
+}
+
+@media (max-width:48em) {
+  .emotion-2 {
+    display: block;
+    object-position: center bottom;
+    object-fit: cover;
+  }
+}
+
+@media (max-width:48em) {
+  .emotion-2 {
+    object-position: center 0;
+  }
+}
+
+.emotion-10 {
+  max-width: 1323px;
+  width: 100%;
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  padding: 46px 20px 0;
+  margin-bottom: 38px;
+  position: relative;
+  z-index: 3;
+}
+
+.emotion-10 h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.emotion-4 {
+  color: #ffffff;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 21px;
+  -webkit-letter-spacing: -0.08px;
+  -moz-letter-spacing: -0.08px;
+  -ms-letter-spacing: -0.08px;
+  letter-spacing: -0.08px;
+  vertical-align: middle;
+}
+
+.emotion-8 {
+  list-style: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.emotion-6 {
+  margin-left: 21px;
+  cursor: pointer;
+}
+
+.emotion-6:nth-of-type(1) img {
+  margin-top: 3px;
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+}
+
+.emotion-6:last-child {
+  display: none;
+}
+
+.emotion-6 img {
+  -webkit-transition: ease-out 0.3s -webkit-transform;
+  -webkit-transition: ease-out 0.3s transform;
+  transition: ease-out 0.3s transform;
+}
+
+.emotion-6:hover img {
+  -webkit-transform: scale(0.9);
+  -ms-transform: scale(0.9);
+  transform: scale(0.9);
+}
+
+@media (max-width:60em) {
+  .emotion-6:nth-of-type(2) {
+    -webkit-transform: scale(1.3);
+    -ms-transform: scale(1.3);
+    transform: scale(1.3);
+    margin-right: 14px;
+    margin-top: 2px;
+  }
+
+  .emotion-6:nth-of-type(even) {
+    display: none;
+  }
+
+  .emotion-6:last-child {
+    display: block;
+  }
+}
+
+.emotion-134 {
+  position: relative;
+  z-index: 4;
+}
+
+.emotion-132 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  max-width: 1255px;
+  margin: 0 auto;
+  padding: 0 2rem;
+  -webkit-box-pack: left;
+  -webkit-justify-content: left;
+  -ms-flex-pack: left;
+  justify-content: left;
+  text-align: center;
+  text-align: left;
+  overflow-x: hidden;
+  max-width: 100%;
+  padding-left: 106px;
+  position: relative;
+  padding-bottom: 64px;
+  background: linear-gradient(0deg,#ffffff 0%,rgba(0,0,0,0.0001) 70%);
+}
+
+@media (max-width:48em) {
+  .emotion-132 {
+    background: linear-gradient(0deg,#ffffff 0%,rgba(0,0,0,0.0001) 100%);
+    padding-left: 12px;
+    padding-bottom: 10px;
+  }
+}
+
+.emotion-14 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: baseline;
+  -webkit-box-align: baseline;
+  -ms-flex-align: baseline;
+  align-items: baseline;
+}
+
+.emotion-14 svg {
+  margin-left: 20px;
+}
+
+.emotion-12 {
+  font-size: 41px;
+  width: 100%;
+  font-family: DINAlternateBold,sans-serif;
+  color: #ffffff;
+  font-stretch: normal;
+  line-height: 1.22;
+  -webkit-letter-spacing: normal;
+  -moz-letter-spacing: normal;
+  -ms-letter-spacing: normal;
+  letter-spacing: normal;
+  font-style: normal;
+  font-weight: 400;
+  margin-bottom: 12px;
+}
+
+@media (max-width:48em) {
+  .emotion-12 {
+    margin: 0 0 16px;
+    font-size: 32px;
+  }
+
+  .emotion-12 span {
+    display: block;
+    font-size: 32px;
+  }
+}
+
+@media (max-width:22.8125em) {
+  .emotion-12 {
+    font-size: 31px;
+  }
+
+  .emotion-12 span {
+    font-size: 31px;
+  }
+}
+
+.emotion-12 span {
+  color: #2891ff;
+}
+
+.emotion-20 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  width: 100%;
+  -webkit-align-items: flex-start;
+  -webkit-box-align: flex-start;
+  -ms-flex-align: flex-start;
+  align-items: flex-start;
+  margin-bottom: 40px;
+}
+
+@media (max-width:48em) {
+  .emotion-20 {
+    margin-bottom: 6px;
+  }
+}
+
+.emotion-16 {
+  color: #ffffff;
+  font-family: Inter,sans-serif;
+  font-size: 24px;
+  -webkit-letter-spacing: normal;
+  -moz-letter-spacing: normal;
+  -ms-letter-spacing: normal;
+  letter-spacing: normal;
+}
+
+.emotion-16 span {
+  font-weight: 900;
+}
+
+.emotion-18 {
+  color: #ffffff;
+  font-family: Inter,sans-serif;
+  font-size: 14px;
+  -webkit-letter-spacing: normal;
+  -moz-letter-spacing: normal;
+  -ms-letter-spacing: normal;
+  letter-spacing: normal;
+}
+
+@media (max-width:48em) {
+  .emotion-18 {
+    max-width: 70%;
+    margin-bottom: 16px;
+  }
+
+  .emotion-18 span {
+    font-weight: 900;
+  }
+}
+
+.emotion-36 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  width: 100%;
+  margin-bottom: 140px;
+}
+
+@media (max-width:48em) {
+  .emotion-36 {
+    margin-bottom: 40px;
+  }
+}
+
+.emotion-127 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  width: 1848px;
+}
+
+@media (max-width:48em) {
+  .emotion-127 {
+    width: 1014px;
+  }
+}
+
+.emotion-38 {
+  padding: 0;
+  margin: 0;
+  margin-bottom: 16px;
+  font-family: Inter,sans-serif;
+  font-size: 22px;
+  font-weight: 500;
+  -webkit-letter-spacing: -0.34px;
+  -moz-letter-spacing: -0.34px;
+  -ms-letter-spacing: -0.34px;
+  letter-spacing: -0.34px;
+  color: #ffffff;
+}
+
+@media (max-width:48em) {
+  .emotion-38 {
+    font-weight: 400;
+    color: #000000;
+  }
+}
+
+.emotion-125 {
+  background-color: #ffffff;
+  width: 100%label:HorizontalScrollingContainer;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  margin-left: -4px;
+  width: calc(100% - 200px);
+  background: transparent;
+}
+
+@media (max-width:48em) {
+  .emotion-125 {
+    margin-left: -2px;
+    width: 100vw;
+  }
+}
+
+.emotion-42 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  margin: 0 0 16px;
+}
+
+.emotion-40 {
+  color: #000000;
+  font-family: Inter,sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  -webkit-letter-spacing: -0.15px;
+  -moz-letter-spacing: -0.15px;
+  -ms-letter-spacing: -0.15px;
+  letter-spacing: -0.15px;
+  line-height: 29px;
+  margin: 0;
+}
+
+@media (max-width:23.625em) {
+  .emotion-40 {
+    font-size: 20px;
+  }
+}
+
+.emotion-122 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.emotion-129 {
+  color: #ffffff;
+  font-size: 19px;
+  font-weight: 400;
+  text-align: center;
+  margin: 0;
+}
+
+@media (max-width:48em) {
+  .emotion-129 {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 20px;
+  }
+}
+
+.emotion-164 {
+  position: fixed;
+  top: 0;
+  right: -100rem;
+  visibility: hidden;
+  opacity: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 500;
+  -webkit-transition: all 0.32s ease-in-out;
+  transition: all 0.32s ease-in-out;
+}
+
+.emotion-164:after {
+  content: '';
+  background-color: rgba(0,0,0,0.7);
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.emotion-162 {
+  background-color: #ffffff;
+  position: absolute;
+  width: 80%;
+  height: 100%;
+  top: 0;
+  right: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  z-index: 502;
+  padding-bottom: 24px;
+  border-radius: 12px 0 0 12px;
+}
+
+@media (max-width:48em) {
+  .emotion-162 {
+    max-width: 338px;
+  }
+}
+
+.emotion-138 {
+  background-color: #2891ff;
+  min-height: 93px;
+  padding: 12px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: flex-end;
+  -webkit-box-align: flex-end;
+  -ms-flex-align: flex-end;
+  align-items: flex-end;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+  border-top-left-radius: 12px;
+  -webkit-letter-spacing: -0.17px;
+  -moz-letter-spacing: -0.17px;
+  -ms-letter-spacing: -0.17px;
+  letter-spacing: -0.17px;
+  color: #ffffff;
+  position: relative;
+}
+
+.emotion-138 > span {
+  font-family: DINAlternateRegular,sans-serif;
+  font-size: 24px;
+}
+
+.emotion-136 {
+  border: 0;
+  background-color: transparent;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  position: absolute;
+  left: -41px;
+  top: 57px;
+  outline: 0;
+}
+
+.emotion-136:focus {
+  outline: 0;
+}
+
+.emotion-160 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  padding: 12px;
+  text-align: right;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  height: 100%;
+  overflow-y: auto;
+}
+
+.emotion-140 {
+  font-family: DINAlternateBold,sans-serif;
+  font-size: 24px;
+  margin-top: 24px;
+  margin-bottom: 24px;
+  color: #000000;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.emotion-140:hover,
+.emotion-140:visited,
+.emotion-140:focus {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.emotion-140 > svg {
+  margin-left: 25px;
+}
+
+.emotion-154 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  margin-bottom: 60px;
+}
+
+.emotion-142 {
+  font-family: DINAlternateBold,sans-serif;
+  font-size: 24px;
+  margin-top: 24px;
+  color: #000000;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.emotion-142:hover,
+.emotion-142:visited,
+.emotion-142:focus {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.emotion-142 > svg {
+  margin-left: 25px;
+}
+
+.emotion-264 {
+  background-color: #ffffff;
+  max-width: 1255px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-bottom: 64px;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+.emotion-261 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  display: grid;
+  grid-gap: 17px;
+  grid-template-columns: repeat(5,1fr);
+}
+
+@media (max-width:60em) {
+  .emotion-261 {
+    grid-template-columns: repeat(3,1fr);
+  }
+}
+
+@media (max-width:48em) {
+  .emotion-261 {
+    grid-template-columns: repeat(2,1fr);
+  }
+}
+
+.emotion-195 {
+  background-clip: border-box;
+  background-color: #ffffff;
+  border: 1px solid #d1d1d1;
+  border-radius: 0.5rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  min-height: 274px;
+  position: relative;
+  width: 100%;
+  word-wrap: break-word;
+}
+
+.emotion-181 {
+  width: 100%;
+  height: 137px;
+  border-top-left-radius: 0.5rem;
+  border-top-right-radius: 0.5rem;
+  object-fit: cover;
+}
+
+.emotion-193 {
+  -webkit-flex: 1 1 auto;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+  padding: 12px 12px 14px;
+  text-align: center;
+}
+
+.emotion-193 button {
+  margin-top: 7px;
+}
+
+.emotion-183 {
+  display: block;
+  color: #000000;
+  font-family: DINAlternateBold,sans-serif;
+  line-height: 21px;
+  font-size: 16px;
+  margin-top: 0;
+  margin-bottom: 6px;
+  -webkit-letter-spacing: -0.1px;
+  -moz-letter-spacing: -0.1px;
+  -ms-letter-spacing: -0.1px;
+  letter-spacing: -0.1px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+.emotion-185 {
+  display: block;
+  font-weight: 500;
+  margin-bottom: 3.5px;
+  font-family: DINAlternateRegular,sans-serif;
+  color: #000000;
+  font-size: 11px;
+  -webkit-letter-spacing: -0.1px;
+  -moz-letter-spacing: -0.1px;
+  -ms-letter-spacing: -0.1px;
+  letter-spacing: -0.1px;
+  line-height: 15px;
+  opacity: 0.7;
+}
+
+.emotion-187 {
+  display: block;
+  font-weight: 500;
+  margin-bottom: 3.5px;
+  font-family: DINAlternateRegular,sans-serif;
+  color: #000000;
+  font-size: 11px;
+  -webkit-letter-spacing: -0.1px;
+  -moz-letter-spacing: -0.1px;
+  -ms-letter-spacing: -0.1px;
+  letter-spacing: -0.1px;
+  line-height: 15px;
+  opacity: 0.6;
+}
+
+.emotion-189 {
+  color: #000000;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 27px;
+  -webkit-letter-spacing: -0.14px;
+  -moz-letter-spacing: -0.14px;
+  -ms-letter-spacing: -0.14px;
+  letter-spacing: -0.14px;
+  margin: 0;
+}
+
+.emotion-189 span {
+  display: block;
+  font-weight: 500;
+  margin-bottom: 3.5px;
+  font-family: DINAlternateRegular,sans-serif;
+  display: inline-block;
+  font-size: 8px;
+  -webkit-letter-spacing: -0.05px;
+  -moz-letter-spacing: -0.05px;
+  -ms-letter-spacing: -0.05px;
+  letter-spacing: -0.05px;
+  line-height: 9px;
+  opacity: 0.9;
+  -webkit-transform: translateY(-7px);
+  -ms-transform: translateY(-7px);
+  transform: translateY(-7px);
+}
+
+.emotion-191 {
+  border: solid 2px #2891ff;
+  color: #2891ff;
+  background: transparent;
+  height: 27px;
+  -webkit-letter-spacing: -0.08px;
+  -moz-letter-spacing: -0.08px;
+  -ms-letter-spacing: -0.08px;
+  letter-spacing: -0.08px;
+  font-size: 12px;
+  font-weight: 500;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-transition: all 0.3s ease-in;
+  transition: all 0.3s ease-in;
+  cursor: pointer;
+  font-family: Inter,sans-serif;
+  border-radius: 25px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  outline: none;
+  vertical-align: middle;
+  text-align: center;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  width: 103px;
+}
+
+.emotion-191:hover {
+  border-color: #2891ff;
+  background: #2891ff;
+  color: #ffffff;
+}
+
+.emotion-191 svg {
+  margin-right: 6px;
+}
+
+.emotion-191:hover path {
+  stroke: #000000;
+}
+
+.emotion-393 {
+  background-color: #ffffff;
+  max-width: 1255px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-bottom: 64px;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+@media (max-width:48em) {
+  .emotion-393 {
+    width: 100%;
+    max-width: 768px;
+    overflow-x: scroll;
+    margin-left: 0px;
+  }
+}
+
+.emotion-283 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 278px;
+  height: 160px;
+}
+
+@media (max-width:48em) {
+  .emotion-283 {
+    width: 260px;
+    min-width: 260px;
+    height: 162px;
+    border: 1px solid #d1d1d1;
+    border-radius: 8px;
+    padding: 14px;
+    margin-right: 12px;
+  }
+}
+
+.emotion-270 {
+  width: 50%;
+  height: 160px;
+}
+
+@media (max-width:48em) {
+  .emotion-270 {
+    height: 132px;
+  }
+}
+
+.emotion-281 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.emotion-272 {
+  font-family: Inter,sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  -webkit-letter-spacing: normal;
+  -moz-letter-spacing: normal;
+  -ms-letter-spacing: normal;
+  letter-spacing: normal;
+  color: #000000;
+}
+
+.emotion-274 {
+  margin-top: 0;
+  font-family: Inter,sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  -webkit-letter-spacing: normal;
+  -moz-letter-spacing: normal;
+  -ms-letter-spacing: normal;
+  letter-spacing: normal;
+  color: #000000;
+}
+
+.emotion-279 {
+  border: solid 2px #2891ff;
+  color: #2891ff;
+  background: transparent;
+  height: 45px;
+  font-weight: 600;
+  font-size: 16px;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-transition: all 0.3s ease-in;
+  transition: all 0.3s ease-in;
+  cursor: pointer;
+  font-family: Inter,sans-serif;
+  border-radius: 25px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  outline: none;
+  vertical-align: middle;
+  text-align: center;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  width: 103px;
+  width: 140px;
+  height: 31px;
+}
+
+.emotion-279:hover {
+  border-color: #2891ff;
+  background: #2891ff;
+  color: #ffffff;
+}
+
+.emotion-279 svg {
+  margin-right: 6px;
+}
+
+.emotion-279:hover path {
+  stroke: #000000;
+}
+
+.emotion-279:hover path {
+  -webkit-transition: all 0.3s ease-in;
+  transition: all 0.3s ease-in;
+  fill: #ffffff;
+  stroke: #ffffff;
+}
+
+.emotion-279:hover rect {
+  -webkit-transition: all 0.3s ease-in;
+  transition: all 0.3s ease-in;
+  fill: #ffffff;
+  stroke: #ffffff;
+}
+
+@media (max-width:48em) {
+  .emotion-279 {
+    width: 120px;
+    height: 31px;
+  }
+}
+
+.emotion-276 {
+  margin-left: 6px;
+}
+
+.emotion-276 path {
+  -webkit-transition: all 0.3s ease-in;
+  transition: all 0.3s ease-in;
+  stroke: #ffffff;
+}
+
+.emotion-554 {
+  background-color: #ffffff;
+  max-width: 1255px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-bottom: 64px;
+  margin-top: 64px;
+}
+
+.emotion-554 article {
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+@media (max-width:48em) {
+  .emotion-554 {
+    padding: 0;
+  }
+
+  .emotion-554 > header {
+    padding: 0 30px;
+  }
+
+  .emotion-554 article {
+    -webkit-align-items: flex-start;
+    -webkit-box-align: flex-start;
+    -ms-flex-align: flex-start;
+    align-items: flex-start;
+  }
+}
+
+@media (max-width:48em) {
+  .emotion-554 {
+    margin-top: 22px;
+  }
+}
+
+.emotion-486 {
+  cursor: pointer;
+  font-family: Inter,sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 19px;
+  -webkit-letter-spacing: -0.1px;
+  -moz-letter-spacing: -0.1px;
+  -ms-letter-spacing: -0.1px;
+  letter-spacing: -0.1px;
+  opacity: 0.5;
+  -webkit-transition: all ease-in 0.2s;
+  transition: all ease-in 0.2s;
+}
+
+.emotion-486:hover {
+  opacity: 1;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.emotion-516 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+}
+
+@media (max-width:60em) {
+  .emotion-516 {
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+}
+
+.emotion-492 {
+  background-image: url(https://i.insider.com/5d0150e06fc9200b5a05f042?width=1136&format=jpeg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  border-radius: 8px;
+  min-height: 357px;
+  max-height: 357px;
+  max-width: 721px;
+  margin: 0 27px 0 0;
+  width: 100%;
+  cursor: pointer;
+}
+
+.emotion-492:hover g:nth-of-type(1) > use {
+  fill: #ffffff;
+}
+
+.emotion-492:hover g:nth-of-type(2) > g use {
+  fill: #2891ff;
+}
+
+@media (max-width:60em) {
+  .emotion-492 {
+    margin: 0 0 16px;
+    max-width: 100%;
+  }
+
+  .emotion-492 svg {
+    -webkit-transform: translate(-50%,180%);
+    -ms-transform: translate(-50%,180%);
+    transform: translate(-50%,180%);
+  }
+}
+
+@media (max-width:48em) {
+  .emotion-492 {
+    min-height: 230px;
+    margin-left: 30px;
+    width: calc(100% - 60px);
+  }
+
+  .emotion-492 svg {
+    -webkit-transform: translate(-50%,110%);
+    -ms-transform: translate(-50%,110%);
+    transform: translate(-50%,110%);
+  }
+}
+
+.emotion-490 {
+  cursor: pointer;
+  left: 50%;
+  position: relative;
+  top: 50%;
+  -webkit-transform: translate(-50%,-50%);
+  -ms-transform: translate(-50%,-50%);
+  transform: translate(-50%,-50%);
+}
+
+.emotion-490 g,
+.emotion-490 use {
+  -webkit-transition: all 0.3s ease-in;
+  transition: all 0.3s ease-in;
+}
+
+.emotion-514 {
+  -webkit-align-self: stretch;
+  -ms-flex-item-align: stretch;
+  align-self: stretch;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  max-width: 447px;
+  width: 100%;
+}
+
+.emotion-514 > div {
+  min-height: 167px;
+}
+
+.emotion-514 > div img {
+  max-height: 168px;
+}
+
+@media (max-width:60em) {
+  .emotion-514 {
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-pack: start;
+    -webkit-justify-content: flex-start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    max-width: 100%;
+    overflow-x: scroll;
+  }
+
+  .emotion-514 > div {
+    min-height: initial;
+    margin-right: 12px;
+    width: 50%;
+  }
+
+  .emotion-514 > div img {
+    max-width: 138px;
+  }
+
+  .emotion-514 > div:last-child {
+    margin-right: 0;
+  }
+}
+
+@media (max-width:48em) {
+  .emotion-514 > div {
+    margin-right: 12px;
+    width: 348px;
+  }
+}
+
+.emotion-502 a {
+  background-clip: border-box;
+  background-color: #f4f4f4;
+  border-radius: 8px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  position: relative;
+  width: 447px;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.emotion-502 a:hover {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.emotion-494 {
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
+  object-fit: cover;
+  max-width: 200px;
+  min-width: 200px;
+  max-height: 167px;
+}
+
+.emotion-500 {
+  padding: 15px 20px;
+}
+
+@media (max-width:48em) {
+  .emotion-500 {
+    padding: 10px 15px;
+    max-width: 167px;
+  }
+}
+
+.emotion-496 {
+  color: #000000;
+  font-family: Inter,sans-serif;
+  font-size: 17px;
+  font-weight: 700;
+  line-height: 23px;
+  margin-top: 0;
+  margin-bottom: 12px;
+  -webkit-letter-spacing: -0.1px;
+  -moz-letter-spacing: -0.1px;
+  -ms-letter-spacing: -0.1px;
+  letter-spacing: -0.1px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+.emotion-498 {
+  color: #000000;
+  font-family: Helvetica,sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  -webkit-letter-spacing: -0.08px;
+  -moz-letter-spacing: -0.08px;
+  -ms-letter-spacing: -0.08px;
+  letter-spacing: -0.08px;
+  margin-bottom: 0;
+  height: 65px;
+  width: 208px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+@media (max-width:48em) {
+  .emotion-498 {
+    max-width: 140px;
+  }
+}
+
+.emotion-548 {
+  background-color: #f4f4f4;
+  border-radius: 8px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  min-height: 102px;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  margin-top: 24px;
+  padding: 23px 17px;
+  width: 100%;
+}
+
+@media (max-width:60em) {
+  .emotion-548 {
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+}
+
+@media (max-width:48em) {
+  .emotion-548 {
+    margin-left: 30px;
+    width: calc(100% - 60px);
+  }
+}
+
+.emotion-526 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  padding: 3px;
+}
+
+.emotion-526:last-child {
+  margin-right: 83px;
+}
+
+@media (max-width:74.625em) {
+  .emotion-526:last-child {
+    margin-right: 32px;
+  }
+}
+
+@media (max-width:68.125em) {
+  .emotion-526:last-child {
+    margin-right: 0;
+  }
+}
+
+@media (max-width:60em) {
+  .emotion-526 {
+    -webkit-box-pack: start;
+    -webkit-justify-content: flex-start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    margin-bottom: 32px;
+  }
+
+  .emotion-526:last-of-type {
+    margin-bottom: 0;
+  }
+}
+
+.emotion-518 {
+  width: 48px;
+  margin-right: 12px;
+  cursor: pointer;
+}
+
+.emotion-518 use {
+  fill: #ffffff;
+}
+
+.emotion-518 g,
+.emotion-518 use {
+  -webkit-transition: all 0.3s ease-in;
+  transition: all 0.3s ease-in;
+}
+
+.emotion-518:hover use {
+  fill: #2891ff;
+}
+
+.emotion-518:hover g[fill] {
+  fill: #ffffff;
+}
+
+.emotion-520 {
+  font-family: Inter,sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  margin-top: 0;
+  margin-bottom: 4px;
+}
+
+.emotion-522 {
+  display: block;
+  color: #000000;
+  opacity: 0.6;
+  font-family: Helvetica,sans-serif;
+  font-size: 13px;
+  line-height: 13px;
+}
+
+.emotion-572 {
+  background: url(mocked-file) bottom center;
+  background-size: cover;
+  min-height: 233px;
+  width: 100%;
+}
+
+@media (max-width:52.25em) {
+  .emotion-572 {
+    background: mocked-file;
+    min-height: 316px;
+    width: 100%;
+  }
+}
+
+.emotion-570 {
+  max-width: 82.688em;
+  width: 100%;
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  padding: 2.938em 2px 3.688em;
+}
+
+.emotion-570 form {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: space-around;
+  -webkit-justify-content: space-around;
+  -ms-flex-pack: space-around;
+  justify-content: space-around;
+  width: 52rem;
+}
+
+.emotion-570 span {
+  text-shadow: 0 0 6px rgba(0,0,0,0.9);
+}
+
+.emotion-570 button {
+  font-family: Lato,sans-serif;
+}
+
+.emotion-570 input {
+  padding: 0 1.4rem;
+  background-color: rgba(14,38,75,0.74);
+}
+
+@media (max-width:52.25em) {
+  .emotion-570 {
+    padding: 2em 2px;
+  }
+
+  .emotion-570 form {
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    min-height: 159px;
+    width: 100%;
+  }
+
+  .emotion-570 button,
+  .emotion-570 form > div {
+    min-height: 42px;
+    width: 90%;
+  }
+
+  .emotion-570 input {
+    border-width: 1px;
+    background-color: rgba(39,94,133,0.66);
+  }
+
+  .emotion-570 form > div {
+    margin-bottom: 20px;
+  }
+}
+
+.emotion-556 {
+  color: #ffffff;
+  font-family: Inter,sans-serif;
+  font-size: 1.625rem;
+  font-weight: 400;
+  -webkit-letter-spacing: -0.1813954px;
+  -moz-letter-spacing: -0.1813954px;
+  -ms-letter-spacing: -0.1813954px;
+  letter-spacing: -0.1813954px;
+  line-height: 35px;
+  margin-bottom: 0.5em;
+  text-align: center;
+}
+
+@media (max-width:836px) {
+  .emotion-556 {
+    font-family: DINAlternateRegular,sans-serif;
+    font-weight: 600;
+    font-size: 1.375rem;
+    -webkit-letter-spacing: -0.1534884px;
+    -moz-letter-spacing: -0.1534884px;
+    -ms-letter-spacing: -0.1534884px;
+    letter-spacing: -0.1534884px;
+    line-height: 29px;
+  }
+}
+
+.emotion-558 {
+  color: #ffffff;
+  font-family: Helvetica,sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 25px;
+  margin-bottom: 1.813em;
+  text-align: center;
+}
+
+@media (max-width:836px) {
+  .emotion-558 {
+    font-family: Inter,sans-serif;
+    font-size: 0.875rem;
+    -webkit-letter-spacing: -0.1534884px;
+    -moz-letter-spacing: -0.1534884px;
+    -ms-letter-spacing: -0.1534884px;
+    letter-spacing: -0.1534884px;
+    line-height: 19px;
+    width: 207px;
+  }
+}
+
+.emotion-562 {
+  width: 22rem;
+}
+
+.emotion-560 {
+  border: 2px solid #ffffff;
+  border-radius: 25px;
+  font-family: Inter,sans-serif;
+  color: #ffffff;
+  display: block;
+  font-size: 13px;
+  outline: none;
+  font-weight: 400;
+  width: 100%;
+  line-height: 20px;
+  padding-left: 2.5rem;
+  padding-right: 0.8rem;
+  font-weight: 400;
+  height: 45px;
+}
+
+.emotion-560::-webkit-input-placeholder {
+  color: #ffffff;
+  opacity: 1;
+}
+
+.emotion-560::-moz-placeholder {
+  color: #ffffff;
+  opacity: 1;
+}
+
+.emotion-560:-ms-input-placeholder {
+  color: #ffffff;
+  opacity: 1;
+}
+
+.emotion-560::placeholder {
+  color: #ffffff;
+  opacity: 1;
+}
+
+@media (max-width:48em) {
+  .emotion-560 {
+    padding: 0 2.4rem;
+  }
+}
+
+.emotion-568 {
+  border: solid 2px #ffffff;
+  color: #000000;
+  background: #ffffff;
+  height: 45px;
+  font-weight: 600;
+  font-size: 16px;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-transition: all 0.3s ease-in;
+  transition: all 0.3s ease-in;
+  cursor: pointer;
+  font-family: Inter,sans-serif;
+  border-radius: 25px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  outline: none;
+  vertical-align: middle;
+  text-align: center;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  width: 103px;
+}
+
+.emotion-568:hover {
+  background: #000000;
+  color: #ffffff;
+}
+
+.emotion-568 svg {
+  margin-right: 6px;
+}
+
+.emotion-568:hover path {
+  stroke: #000000;
+}
+
+.emotion-175 {
+  background-color: #ffffff;
+  margin: 56px auto;
+  max-width: 1255px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-top: 0px;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+@media (max-width:48em) {
+  .emotion-175 {
+    display: block;
+    margin: 26px auto;
+  }
+}
+
+.emotion-170 {
+  padding: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+}
+
+.emotion-168 {
+  color: #000000;
+  font-size: 21px;
+  font-weight: 400;
+  -webkit-letter-spacing: -0.15px;
+  -moz-letter-spacing: -0.15px;
+  -ms-letter-spacing: -0.15px;
+  letter-spacing: -0.15px;
+}
+
+.emotion-172 {
+  max-width: 1255px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 30px;
+  padding-right: 30px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+@media (max-width:48em) {
+  .emotion-172 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: nowrap;
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    overflow-x: scroll;
+    width: 100%;
+  }
+}
+
+.emotion-24 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+}
+
+@media (max-width:48em) {
+  .emotion-24 {
+    padding: 0;
+  }
+}
+
+.emotion-24 svg {
+  width: 16px;
+  margin-left: -2px;
+  margin-right: 6px;
+}
+
+.emotion-22 {
+  color: #ffffff;
+  font-family: Inter,sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: normal;
+  text-align: left;
+  -webkit-letter-spacing: normal;
+  -moz-letter-spacing: normal;
+  -ms-letter-spacing: normal;
+  letter-spacing: normal;
+  padding: 0;
+  margin: 0;
+  margin-bottom: 6px;
+}
+
+@media (max-width:48em) {
+  .emotion-22 {
+    padding: 0;
+  }
+}
+
+.emotion-30 {
+  width: 16px;
+  margin-right: 6px;
+}
+
+.emotion-56 {
+  background-image: url(mocked-file);
+  width: 282px;
+  min-width: 282px;
+  height: 337px;
+  margin-right: 30px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+@media (max-width:48em) {
+  .emotion-56 {
+    width: 215px;
+    min-width: 215px;
+    height: 258px;
+    margin-right: 15px;
+  }
+}
+
+.emotion-48 {
+  width: 100%;
+  height: 50%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  padding-top: 87px;
+  padding-left: 28px;
+  padding-right: 28px;
+}
+
+@media (max-width:48em) {
+  .emotion-48 {
+    padding-top: 74px;
+    padding-left: 21.6px;
+    padding-right: 19px;
+  }
+}
+
+.emotion-44 {
+  margin: 0;
+  width: 170px;
+  font-family: Inter,sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: normal;
+  -webkit-letter-spacing: -0.11px;
+  -moz-letter-spacing: -0.11px;
+  -ms-letter-spacing: -0.11px;
+  letter-spacing: -0.11px;
+  color: #000000;
+}
+
+@media (max-width:48em) {
+  .emotion-44 {
+    width: 134px;
+    font-size: 14px;
+    -webkit-letter-spacing: -0.097px;
+    -moz-letter-spacing: -0.097px;
+    -ms-letter-spacing: -0.097px;
+    letter-spacing: -0.097px;
+  }
+}
+
+.emotion-46 {
+  background-image: url(mocked-file);
+  width: 38px;
+  height: 38px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+@media (max-width:48em) {
+  .emotion-46 {
+    width: 30px;
+    height: 30px;
+  }
+}
+
+.emotion-54 {
+  width: 100%;
+  height: 50%;
+  padding-top: 15px;
+  padding-left: 16px;
+  padding-right: 25px;
+}
+
+@media (max-width:48em) {
+  .emotion-54 {
+    padding-top: 12px;
+    padding-left: 11.6px;
+    padding-right: 14.6px;
+  }
+}
+
+.emotion-50 {
+  margin: 0;
+  margin-left: 12px;
+  margin-bottom: 16px;
+  width: 208px;
+  font-family: Inter,sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 1.11;
+  -webkit-letter-spacing: -0.13px;
+  -moz-letter-spacing: -0.13px;
+  -ms-letter-spacing: -0.13px;
+  letter-spacing: -0.13px;
+  color: #000000;
+  text-align: left;
+}
+
+@media (max-width:48em) {
+  .emotion-50 {
+    font-size: 14px;
+  }
+}
+
+.emotion-52 {
+  margin: 0;
+  margin-left: 12px;
+  width: 208px;
+  font-family: Inter,sans-serif;
+  font-size: 14px;
+  line-height: 1.21;
+  -webkit-letter-spacing: -0.1px;
+  -moz-letter-spacing: -0.1px;
+  -ms-letter-spacing: -0.1px;
+  letter-spacing: -0.1px;
+  color: #9c9c9c;
+  text-align: left;
+}
+
+@media (max-width:48em) {
+  .emotion-52 {
+    font-size: 12px;
+  }
+}
+
+.emotion-62 {
+  border: none;
+  height: 32px;
+  border-radius: 22.5px;
+  background-color: #eeeeee;
+  margin-bottom: 4px;
+  padding: 12px 20px;
+  font-family: Inter,sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: normal;
+  -webkit-letter-spacing: -0.1px;
+  -moz-letter-spacing: -0.1px;
+  -ms-letter-spacing: -0.1px;
+  letter-spacing: -0.1px;
+  color: #9c9c9c;
+  width: 100%;
+}
+
+.emotion-62::-webkit-input-placeholder {
+  color: #9c9c9c;
+}
+
+.emotion-62:-ms-input-placeholder {
+  color: #9c9c9c;
+}
+
+.emotion-62::-webkit-input-placeholder {
+  color: #9c9c9c;
+}
+
+.emotion-62::-moz-placeholder {
+  color: #9c9c9c;
+}
+
+.emotion-62:-ms-input-placeholder {
+  color: #9c9c9c;
+}
+
+.emotion-62::placeholder {
+  color: #9c9c9c;
+}
+
+@media (max-width:48em) {
+  .emotion-62 {
+    height: 25px;
+    padding: 5px 15px;
+    font-size: 12px;
+  }
+}
+
+.emotion-68 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+}
+
+.emotion-64 {
+  border: none;
+  height: 32px;
+  border-radius: 22.5px;
+  background-color: #eeeeee;
+  margin-bottom: 4px;
+  padding: 12px 20px;
+  font-family: Inter,sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: normal;
+  -webkit-letter-spacing: -0.1px;
+  -moz-letter-spacing: -0.1px;
+  -ms-letter-spacing: -0.1px;
+  letter-spacing: -0.1px;
+  color: #9c9c9c;
+  width: 100%;
+  width: 201px;
+}
+
+.emotion-64::-webkit-input-placeholder {
+  color: #9c9c9c;
+}
+
+.emotion-64:-ms-input-placeholder {
+  color: #9c9c9c;
+}
+
+.emotion-64::-webkit-input-placeholder {
+  color: #9c9c9c;
+}
+
+.emotion-64::-moz-placeholder {
+  color: #9c9c9c;
+}
+
+.emotion-64:-ms-input-placeholder {
+  color: #9c9c9c;
+}
+
+.emotion-64::placeholder {
+  color: #9c9c9c;
+}
+
+@media (max-width:48em) {
+  .emotion-64 {
+    height: 25px;
+    padding: 5px 15px;
+    font-size: 12px;
+    width: 160px;
+  }
+}
+
+.emotion-66 {
+  border-radius: 16px;
+  background-color: transparent;
+  border: none;
+  width: 32px;
+  height: 32px;
+  background-image: url(mocked-file);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.emotion-66:hover {
+  background-image: url(mocked-file);
+  cursor: pointer;
+}
+
+@media (max-width:48em) {
+  .emotion-66 {
+    width: 25px;
+    height: 25px;
+  }
+}
+
+<div>
+  <header
+    class="emotion-166 emotion-167"
+  >
+    <figure>
+      <div>
+        <img
+          class="emotion-0 emotion-1"
+          src="mocked-file"
+        />
+        <img
+          class="emotion-2 emotion-3"
+          src="mocked-file"
+        />
+      </div>
+    </figure>
+    <div
+      class="emotion-10 emotion-11"
+    >
+      <h1>
+        <a
+          class="emotion-4 emotion-5"
+        />
+      </h1>
+      <nav>
+        <ul
+          class="emotion-8 emotion-9"
+        >
+          <li
+            class="emotion-6 emotion-7"
+          >
+            <a>
+              <img
+                alt="bars"
+                src="mocked-file"
+              />
+            </a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+    <div
+      class="emotion-134 emotion-135"
+    >
+      <div
+        class="emotion-131 emotion-132 emotion-133"
+        direction="left"
+      >
+        <div>
+          <div
+            class="emotion-14 emotion-15"
+          >
+            <h2
+              class="emotion-12 emotion-13"
+            >
+              Thank you for your booking!
+            </h2>
+          </div>
+          <div
+            class="emotion-20 emotion-21"
+          >
+            <div
+              class="emotion-16 emotion-17"
+            >
+              Your order number is: 
+              <span>
+                xY123
+              </span>
+            </div>
+            <div
+              class="emotion-18 emotion-19"
+            >
+              Your e-tickets will be sent to: 
+              <span>
+                tester@test.com
+              </span>
+            </div>
+          </div>
+          <div
+            class="emotion-36 emotion-37"
+          >
+            <div
+              class="emotion-24 emotion-25"
+              direction="left"
+            >
+              <svg
+                fill="none"
+                height="16"
+                viewBox="0 0 16 16"
+                width="16"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  clip-rule="evenodd"
+                  d="M1.5 7.99992C1.5 4.32392 4.49067 1.33325 8.16667 1.33325C11.8427 1.33325 14.8333 4.32392 14.8333 7.99992C14.8333 11.6759 11.8427 14.6666 8.16667 14.6666C4.49067 14.6666 1.5 11.6759 1.5 7.99992ZM11.3333 8.66658C11.7015 8.66658 12 8.36811 12 7.99992C12 7.63173 11.7015 7.33325 11.3333 7.33325H8.83333V4.66659C8.83333 4.2984 8.53486 3.99992 8.16667 3.99992C7.79848 3.99992 7.5 4.29839 7.5 4.66658V8.66658H11.3333Z"
+                  fill="white"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <p
+                class="emotion-22 emotion-23"
+              >
+                7pm AEST, Mo 19 Jan 1970
+              </p>
+            </div>
+            <div
+              class="emotion-24 emotion-25"
+              direction="left"
+            >
+              <svg
+                fill="none"
+                height="16"
+                viewBox="0 0 12 16"
+                width="12"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  clip-rule="evenodd"
+                  d="M11.6364 5.71429C11.6364 8.8702 5.81818 16 5.81818 16C5.81818 16 0 8.8702 0 5.71429C0 2.55837 2.60489 0 5.81818 0C9.03148 0 11.6364 2.55837 11.6364 5.71429ZM8.72727 5.81818C8.72727 7.42483 7.42483 8.72727 5.81818 8.72727C4.21154 8.72727 2.90909 7.42483 2.90909 5.81818C2.90909 4.21154 4.21154 2.90909 5.81818 2.90909C7.42483 2.90909 8.72727 4.21154 8.72727 5.81818Z"
+                  fill="white"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <p
+                class="emotion-22 emotion-23"
+              >
+                Madison Square Garden
+              </p>
+            </div>
+            <div
+              class="emotion-24 emotion-25"
+              direction="left"
+            >
+              <span
+                class="emotion-30 emotion-31"
+              />
+              <p
+                class="emotion-22 emotion-23"
+              >
+                4 Pennsylvania Plaza, New York, NY 10001, United States
+              </p>
+            </div>
+          </div>
+          <div
+            class="emotion-127 emotion-128"
+            width="1024"
+          >
+            <h1
+              class="emotion-38 emotion-39"
+            >
+              Add your crew now
+            </h1>
+            <div
+              class="emotion-124 emotion-125 emotion-126"
+            >
+              <header
+                class="emotion-42 emotion-43"
+              >
+                <h1
+                  class="emotion-40 emotion-41"
+                />
+              </header>
+              <article
+                class="emotion-122 emotion-123"
+              >
+                <div
+                  class="emotion-56 emotion-57"
+                >
+                  <section
+                    class="emotion-48 emotion-49"
+                  >
+                    <h2
+                      class="emotion-44 emotion-45"
+                    >
+                      New York Knicks vs. Chicago Bulls
+                    </h2>
+                    <div
+                      class="emotion-46 emotion-47"
+                    />
+                  </section>
+                  <section
+                    class="emotion-54 emotion-55"
+                  >
+                    <p
+                      class="emotion-50 emotion-51"
+                    >
+                      John Doe Tester
+                    </p>
+                    <p
+                      class="emotion-52 emotion-53"
+                    >
+                      tester@test.com
+                    </p>
+                  </section>
+                </div>
+                <div
+                  class="emotion-56 emotion-57"
+                >
+                  <section
+                    class="emotion-48 emotion-49"
+                  >
+                    <h2
+                      class="emotion-44 emotion-45"
+                    >
+                      New York Knicks vs. Chicago Bulls
+                    </h2>
+                  </section>
+                  <section
+                    class="emotion-54 emotion-55"
+                  >
+                    <input
+                      class="emotion-62 emotion-63"
+                      name="fullName"
+                      placeholder="Full Name"
+                      type="text"
+                    />
+                    <div
+                      class="emotion-68 emotion-571"
+                    >
+                      <input
+                        class="emotion-64 emotion-63"
+                        name="email"
+                        placeholder="Email Address"
+                        type="text"
+                      />
+                      <button
+                        class="emotion-66 emotion-570"
+                      />
+                    </div>
+                  </section>
+                </div>
+                <div
+                  class="emotion-56 emotion-57"
+                >
+                  <section
+                    class="emotion-48 emotion-49"
+                  >
+                    <h2
+                      class="emotion-44 emotion-45"
+                    >
+                      New York Knicks vs. Chicago Bulls
+                    </h2>
+                  </section>
+                  <section
+                    class="emotion-54 emotion-55"
+                  >
+                    <input
+                      class="emotion-62 emotion-63"
+                      name="fullName"
+                      placeholder="Full Name"
+                      type="text"
+                    />
+                    <div
+                      class="emotion-68 emotion-571"
+                    >
+                      <input
+                        class="emotion-64 emotion-63"
+                        name="email"
+                        placeholder="Email Address"
+                        type="text"
+                      />
+                      <button
+                        class="emotion-66 emotion-570"
+                      />
+                    </div>
+                  </section>
+                </div>
+                <div
+                  class="emotion-56 emotion-57"
+                >
+                  <section
+                    class="emotion-48 emotion-49"
+                  >
+                    <h2
+                      class="emotion-44 emotion-45"
+                    >
+                      New York Knicks vs. Chicago Bulls
+                    </h2>
+                  </section>
+                  <section
+                    class="emotion-54 emotion-55"
+                  >
+                    <input
+                      class="emotion-62 emotion-63"
+                      name="fullName"
+                      placeholder="Full Name"
+                      type="text"
+                    />
+                    <div
+                      class="emotion-68 emotion-571"
+                    >
+                      <input
+                        class="emotion-64 emotion-63"
+                        name="email"
+                        placeholder="Email Address"
+                        type="text"
+                      />
+                      <button
+                        class="emotion-66 emotion-570"
+                      />
+                    </div>
+                  </section>
+                </div>
+                <div
+                  class="emotion-56 emotion-57"
+                >
+                  <section
+                    class="emotion-48 emotion-49"
+                  >
+                    <h2
+                      class="emotion-44 emotion-45"
+                    >
+                      New York Knicks vs. Chicago Bulls
+                    </h2>
+                  </section>
+                  <section
+                    class="emotion-54 emotion-55"
+                  >
+                    <input
+                      class="emotion-62 emotion-63"
+                      name="fullName"
+                      placeholder="Full Name"
+                      type="text"
+                    />
+                    <div
+                      class="emotion-68 emotion-571"
+                    >
+                      <input
+                        class="emotion-64 emotion-63"
+                        name="email"
+                        placeholder="Email Address"
+                        type="text"
+                      />
+                      <button
+                        class="emotion-66 emotion-570"
+                      />
+                    </div>
+                  </section>
+                </div>
+              </article>
+            </div>
+          </div>
+          <h3
+            class="emotion-129 emotion-130"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      aria-hidden="true"
+      class="emotion-164 emotion-165"
+      data-testid="menu-mobile"
+    >
+      <aside
+        class="emotion-162 emotion-163"
+      >
+        <div
+          class="emotion-138 emotion-139"
+        >
+          <span>
+            Menu
+          </span>
+          <button
+            class="emotion-136 emotion-137"
+          >
+            <svg
+              color="#fff"
+              height="24"
+              width="24"
+            >
+              <defs>
+                <path
+                  d="M.293.293c.39-.39 1.024-.39 1.414 0L7 5.585 12.293.293c.36-.36.928-.388 1.32-.083l.094.083c.39.39.39 1.024 0 1.414L8.415 7l5.292 5.293c.36.36.388.928.083 1.32l-.083.094c-.39.39-1.024.39-1.414 0L7 8.415l-5.293 5.292c-.36.36-.928.388-1.32.083l-.094-.083c-.39-.39-.39-1.024 0-1.414L5.585 7 .293 1.707C-.067 1.347-.095.78.21.387z"
+                  id="prefix__a"
+                />
+              </defs>
+              <g
+                fill="none"
+                fill-rule="evenodd"
+                transform="translate(5 5)"
+              >
+                <mask
+                  fill="#fff"
+                  id="prefix__b"
+                >
+                  <use
+                    xlink:href="#prefix__a"
+                  />
+                </mask>
+                <use
+                  fill="#fff"
+                  fill-rule="nonzero"
+                  xlink:href="#prefix__a"
+                />
+                <g
+                  fill="#fff"
+                  mask="url(#prefix__b)"
+                >
+                  <path
+                    d="M0 0H24V24H0z"
+                    transform="translate(-5 -5)"
+                  />
+                </g>
+              </g>
+            </svg>
+          </button>
+        </div>
+        <div
+          class="emotion-160 emotion-161"
+        >
+          <a
+            class="emotion-140 emotion-141"
+            href="/"
+          >
+            Login / Register 
+            <svg
+              color="#000"
+              fill="#000"
+              height="24"
+              viewBox="0 0 19.001 24"
+              width="19.001"
+            >
+              <g
+                transform="translate(-0.999)"
+              >
+                <path
+                  d="M5,12c2.761,0,5-2.686,5-6S9.265,0,5,0,0,2.686,0,6,2.239,12,5,12Z"
+                  transform="translate(5)"
+                />
+                <path
+                  d="M.051.1c0-.2,0-.056,0,0Z"
+                  transform="translate(0.95 20.949)"
+                />
+                <path
+                  d="M.049.18c0-.054,0-.375,0,0Z"
+                  transform="translate(18.95 20.91)"
+                />
+                <path
+                  d="M18.989,8.405C18.9,2.669,18.129,1.035,12.254,0A3.558,3.558,0,0,1,9.5,1.028,3.559,3.559,0,0,1,6.746,0C.936,1.023.121,2.634.014,8.219.006,8.675,0,8.7,0,8.646c0,.1,0,.283,0,.6C0,9.249,1.4,12,9.5,12S19,9.249,19,9.249c0-.206,0-.349,0-.446A3.6,3.6,0,0,1,18.989,8.405Z"
+                  transform="translate(1 12)"
+                />
+              </g>
+            </svg>
+          </a>
+          <nav
+            class="emotion-154 emotion-155"
+          >
+            <a
+              class="emotion-142 emotion-141"
+              href="/"
+            >
+              Home
+            </a>
+            <a
+              class="emotion-142 emotion-141"
+              href="/"
+            >
+              Events
+            </a>
+            <a
+              class="emotion-142 emotion-141"
+              href="/"
+            >
+              Cities
+            </a>
+            <a
+              class="emotion-142 emotion-141"
+              href="/"
+            >
+              Hotels
+            </a>
+            <a
+              class="emotion-142 emotion-141"
+              href="/"
+            >
+              Experiences
+            </a>
+            <a
+              class="emotion-142 emotion-141"
+              href="/"
+            >
+              About
+            </a>
+          </nav>
+          <a
+            class="emotion-142 emotion-141"
+            href="/"
+          >
+            Contact
+          </a>
+          <a
+            class="emotion-142 emotion-141"
+            href="/"
+          >
+            Download App for iOS
+          </a>
+        </div>
+      </aside>
+    </div>
+  </header>
+  <section
+    class="emotion-174 emotion-175 emotion-176"
+  >
+    <header
+      class="emotion-170 emotion-171"
+    >
+      <h2
+        class="emotion-168 emotion-169"
+      >
+        Book Hotels near your game
+      </h2>
+    </header>
+    <article
+      class="emotion-172 emotion-173"
+    >
+      <p>
+        There's no offers available at this moment
+      </p>
+    </article>
+  </section>
+  <div
+    class="emotion-263 emotion-264 emotion-126"
+  >
+    <header
+      class="emotion-42 emotion-43"
+    >
+      <h1
+        class="emotion-40 emotion-41"
+      >
+        Other Experiences in NYC
+      </h1>
+    </header>
+    <article
+      class="emotion-261 emotion-123"
+    >
+      <div
+        aria-label="card"
+        class="emotion-195 emotion-196"
+      >
+        <img
+          class="emotion-181 emotion-182"
+          src="https://news.wagertalk.com/wp-content/uploads/2018/10/nba-new-york-knicks-at-miami-heat.jpg"
+        />
+        <div
+          class="emotion-193 emotion-194"
+        >
+          <h1
+            class="emotion-183 emotion-184"
+          >
+            New York Knicks vs. Miami Heat
+          </h1>
+          <span
+            class="emotion-185 emotion-186"
+          >
+            6 Nov 2020
+          </span>
+          <span
+            class="emotion-187 emotion-188"
+          >
+            Madison Square Garden, NY
+          </span>
+          <p
+            class="emotion-189 emotion-190"
+          >
+            <span>
+              From
+            </span>
+             $
+            183
+          </p>
+          <button
+            class="emotion-191 emotion-192"
+          >
+            Get Tickets
+          </button>
+        </div>
+      </div>
+      <div
+        aria-label="card"
+        class="emotion-195 emotion-196"
+      >
+        <img
+          class="emotion-181 emotion-182"
+          src="https://news.wagertalk.com/wp-content/uploads/2018/10/nba-new-york-knicks-at-miami-heat.jpg"
+        />
+        <div
+          class="emotion-193 emotion-194"
+        >
+          <h1
+            class="emotion-183 emotion-184"
+          >
+            New York Knicks vs. Miami Heat
+          </h1>
+          <span
+            class="emotion-185 emotion-186"
+          >
+            6 Nov 2020
+          </span>
+          <span
+            class="emotion-187 emotion-188"
+          >
+            Madison Square Garden, NY
+          </span>
+          <p
+            class="emotion-189 emotion-190"
+          >
+            <span>
+              From
+            </span>
+             $
+            183
+          </p>
+          <button
+            class="emotion-191 emotion-192"
+          >
+            Get Tickets
+          </button>
+        </div>
+      </div>
+      <div
+        aria-label="card"
+        class="emotion-195 emotion-196"
+      >
+        <img
+          class="emotion-181 emotion-182"
+          src="https://news.wagertalk.com/wp-content/uploads/2018/10/nba-new-york-knicks-at-miami-heat.jpg"
+        />
+        <div
+          class="emotion-193 emotion-194"
+        >
+          <h1
+            class="emotion-183 emotion-184"
+          >
+            New York Knicks vs. Miami Heat
+          </h1>
+          <span
+            class="emotion-185 emotion-186"
+          >
+            6 Nov 2020
+          </span>
+          <span
+            class="emotion-187 emotion-188"
+          >
+            Madison Square Garden, NY
+          </span>
+          <p
+            class="emotion-189 emotion-190"
+          >
+            <span>
+              From
+            </span>
+             $
+            183
+          </p>
+          <button
+            class="emotion-191 emotion-192"
+          >
+            Get Tickets
+          </button>
+        </div>
+      </div>
+      <div
+        aria-label="card"
+        class="emotion-195 emotion-196"
+      >
+        <img
+          class="emotion-181 emotion-182"
+          src="https://news.wagertalk.com/wp-content/uploads/2018/10/nba-new-york-knicks-at-miami-heat.jpg"
+        />
+        <div
+          class="emotion-193 emotion-194"
+        >
+          <h1
+            class="emotion-183 emotion-184"
+          >
+            New York Knicks vs. Miami Heat
+          </h1>
+          <span
+            class="emotion-185 emotion-186"
+          >
+            6 Nov 2020
+          </span>
+          <span
+            class="emotion-187 emotion-188"
+          >
+            Madison Square Garden, NY
+          </span>
+          <p
+            class="emotion-189 emotion-190"
+          >
+            <span>
+              From
+            </span>
+             $
+            183
+          </p>
+          <button
+            class="emotion-191 emotion-192"
+          >
+            Get Tickets
+          </button>
+        </div>
+      </div>
+      <div
+        aria-label="card"
+        class="emotion-195 emotion-196"
+      >
+        <img
+          class="emotion-181 emotion-182"
+          src="https://news.wagertalk.com/wp-content/uploads/2018/10/nba-new-york-knicks-at-miami-heat.jpg"
+        />
+        <div
+          class="emotion-193 emotion-194"
+        >
+          <h1
+            class="emotion-183 emotion-184"
+          >
+            New York Knicks vs. Miami Heat
+          </h1>
+          <span
+            class="emotion-185 emotion-186"
+          >
+            6 Nov 2020
+          </span>
+          <span
+            class="emotion-187 emotion-188"
+          >
+            Madison Square Garden, NY
+          </span>
+          <p
+            class="emotion-189 emotion-190"
+          >
+            <span>
+              From
+            </span>
+             $
+            183
+          </p>
+          <button
+            class="emotion-191 emotion-192"
+          >
+            Get Tickets
+          </button>
+        </div>
+      </div>
+    </article>
+  </div>
+  <div
+    class="emotion-392 emotion-393 emotion-126"
+  >
+    <header
+      class="emotion-42 emotion-43"
+    >
+      <h1
+        class="emotion-40 emotion-41"
+      >
+        Buy merchandise for the game
+      </h1>
+    </header>
+    <article
+      class="emotion-122 emotion-123"
+    >
+      <div
+        class="emotion-283 emotion-284"
+      >
+        <img
+          class="emotion-270 emotion-271"
+          src="https://images.footballfanatics.com/FFImage/thumb.aspx?i=/productimages/_3378000/altimages/ff_3378270-561a10d53d58af9b3071alt1_full.jpg&w=900"
+        />
+        <div
+          class="emotion-281 emotion-282"
+        >
+          <h1
+            class="emotion-272 emotion-273"
+          >
+            #20 - RJ Barrett New York Knicks Jersey - Mens
+          </h1>
+          <p
+            class="emotion-274 emotion-275"
+          >
+            $
+            69.95
+          </p>
+          <button
+            class="emotion-278 emotion-279 emotion-192"
+          >
+            Add
+            <svg
+              class="emotion-276 emotion-277"
+              fill="none"
+              height="18"
+              viewBox="0 0 18 18"
+              width="18"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M8.25 8.25V3.75C8.25 3.33579 8.58579 3 9 3C9.41421 3 9.75 3.33579 9.75 3.75V8.25H14.25C14.6642 8.25 15 8.58579 15 9C15 9.41421 14.6642 9.75 14.25 9.75H9.75V14.25C9.75 14.6642 9.41421 15 9 15C8.58579 15 8.25 14.6642 8.25 14.25V9.75H3.75C3.33579 9.75 3 9.41421 3 9C3 8.58579 3.33579 8.25 3.75 8.25H8.25Z"
+                fill="black"
+                fill-rule="evenodd"
+              />
+              <mask
+                height="12"
+                id="mask0"
+                mask-type="alpha"
+                maskUnits="userSpaceOnUse"
+                width="12"
+                x="3"
+                y="3"
+              >
+                <path
+                  clip-rule="evenodd"
+                  d="M8.25 8.25V3.75C8.25 3.33579 8.58579 3 9 3C9.41421 3 9.75 3.33579 9.75 3.75V8.25H14.25C14.6642 8.25 15 8.58579 15 9C15 9.41421 14.6642 9.75 14.25 9.75H9.75V14.25C9.75 14.6642 9.41421 15 9 15C8.58579 15 8.25 14.6642 8.25 14.25V9.75H3.75C3.33579 9.75 3 9.41421 3 9C3 8.58579 3.33579 8.25 3.75 8.25H8.25Z"
+                  fill="white"
+                  fill-rule="evenodd"
+                />
+              </mask>
+              <g
+                mask="url(#mask0)"
+              >
+                <rect
+                  fill="#2891FF"
+                  height="18"
+                  width="18"
+                />
+              </g>
+            </svg>
+          </button>
+        </div>
+      </div>
+      <div
+        class="emotion-283 emotion-284"
+      >
+        <img
+          class="emotion-270 emotion-271"
+          src="https://www.neweracap.com/medias/sys_master/root/root/h9f/h21/9504190267422/9504190267422.png"
+        />
+        <div
+          class="emotion-281 emotion-282"
+        >
+          <h1
+            class="emotion-272 emotion-273"
+          >
+            New York Knicks Blue and Orange Cap - Unisex
+          </h1>
+          <p
+            class="emotion-274 emotion-275"
+          >
+            $
+            69.95
+          </p>
+          <button
+            class="emotion-278 emotion-279 emotion-192"
+          >
+            Add
+            <svg
+              class="emotion-276 emotion-277"
+              fill="none"
+              height="18"
+              viewBox="0 0 18 18"
+              width="18"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M8.25 8.25V3.75C8.25 3.33579 8.58579 3 9 3C9.41421 3 9.75 3.33579 9.75 3.75V8.25H14.25C14.6642 8.25 15 8.58579 15 9C15 9.41421 14.6642 9.75 14.25 9.75H9.75V14.25C9.75 14.6642 9.41421 15 9 15C8.58579 15 8.25 14.6642 8.25 14.25V9.75H3.75C3.33579 9.75 3 9.41421 3 9C3 8.58579 3.33579 8.25 3.75 8.25H8.25Z"
+                fill="black"
+                fill-rule="evenodd"
+              />
+              <mask
+                height="12"
+                id="mask0"
+                mask-type="alpha"
+                maskUnits="userSpaceOnUse"
+                width="12"
+                x="3"
+                y="3"
+              >
+                <path
+                  clip-rule="evenodd"
+                  d="M8.25 8.25V3.75C8.25 3.33579 8.58579 3 9 3C9.41421 3 9.75 3.33579 9.75 3.75V8.25H14.25C14.6642 8.25 15 8.58579 15 9C15 9.41421 14.6642 9.75 14.25 9.75H9.75V14.25C9.75 14.6642 9.41421 15 9 15C8.58579 15 8.25 14.6642 8.25 14.25V9.75H3.75C3.33579 9.75 3 9.41421 3 9C3 8.58579 3.33579 8.25 3.75 8.25H8.25Z"
+                  fill="white"
+                  fill-rule="evenodd"
+                />
+              </mask>
+              <g
+                mask="url(#mask0)"
+              >
+                <rect
+                  fill="#2891FF"
+                  height="18"
+                  width="18"
+                />
+              </g>
+            </svg>
+          </button>
+        </div>
+      </div>
+      <div
+        class="emotion-283 emotion-284"
+      >
+        <img
+          class="emotion-270 emotion-271"
+          src="https://images.footballfanatics.com/FFImage/thumb.aspx?i=/productimages/_3959000/altimages/ff_3959557-7adfdd14699d80b7bf1calt2_full.jpg&w=2000"
+        />
+        <div
+          class="emotion-281 emotion-282"
+        >
+          <h1
+            class="emotion-272 emotion-273"
+          >
+            New York Knicks Black Hoody - Mens
+          </h1>
+          <p
+            class="emotion-274 emotion-275"
+          >
+            $
+            69.95
+          </p>
+          <button
+            class="emotion-278 emotion-279 emotion-192"
+          >
+            Add
+            <svg
+              class="emotion-276 emotion-277"
+              fill="none"
+              height="18"
+              viewBox="0 0 18 18"
+              width="18"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M8.25 8.25V3.75C8.25 3.33579 8.58579 3 9 3C9.41421 3 9.75 3.33579 9.75 3.75V8.25H14.25C14.6642 8.25 15 8.58579 15 9C15 9.41421 14.6642 9.75 14.25 9.75H9.75V14.25C9.75 14.6642 9.41421 15 9 15C8.58579 15 8.25 14.6642 8.25 14.25V9.75H3.75C3.33579 9.75 3 9.41421 3 9C3 8.58579 3.33579 8.25 3.75 8.25H8.25Z"
+                fill="black"
+                fill-rule="evenodd"
+              />
+              <mask
+                height="12"
+                id="mask0"
+                mask-type="alpha"
+                maskUnits="userSpaceOnUse"
+                width="12"
+                x="3"
+                y="3"
+              >
+                <path
+                  clip-rule="evenodd"
+                  d="M8.25 8.25V3.75C8.25 3.33579 8.58579 3 9 3C9.41421 3 9.75 3.33579 9.75 3.75V8.25H14.25C14.6642 8.25 15 8.58579 15 9C15 9.41421 14.6642 9.75 14.25 9.75H9.75V14.25C9.75 14.6642 9.41421 15 9 15C8.58579 15 8.25 14.6642 8.25 14.25V9.75H3.75C3.33579 9.75 3 9.41421 3 9C3 8.58579 3.33579 8.25 3.75 8.25H8.25Z"
+                  fill="white"
+                  fill-rule="evenodd"
+                />
+              </mask>
+              <g
+                mask="url(#mask0)"
+              >
+                <rect
+                  fill="#2891FF"
+                  height="18"
+                  width="18"
+                />
+              </g>
+            </svg>
+          </button>
+        </div>
+      </div>
+      <div
+        class="emotion-283 emotion-284"
+      >
+        <img
+          class="emotion-270 emotion-271"
+          src="https://images.footballfanatics.com/FFImage/thumb.aspx?i=/productimages/_1945000/ff_1945120_xl.jpg&w=900"
+        />
+        <div
+          class="emotion-281 emotion-282"
+        >
+          <h1
+            class="emotion-272 emotion-273"
+          >
+            New York Knicks Bottle Opener Keychain
+          </h1>
+          <p
+            class="emotion-274 emotion-275"
+          >
+            $
+            69.95
+          </p>
+          <button
+            class="emotion-278 emotion-279 emotion-192"
+          >
+            Add
+            <svg
+              class="emotion-276 emotion-277"
+              fill="none"
+              height="18"
+              viewBox="0 0 18 18"
+              width="18"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M8.25 8.25V3.75C8.25 3.33579 8.58579 3 9 3C9.41421 3 9.75 3.33579 9.75 3.75V8.25H14.25C14.6642 8.25 15 8.58579 15 9C15 9.41421 14.6642 9.75 14.25 9.75H9.75V14.25C9.75 14.6642 9.41421 15 9 15C8.58579 15 8.25 14.6642 8.25 14.25V9.75H3.75C3.33579 9.75 3 9.41421 3 9C3 8.58579 3.33579 8.25 3.75 8.25H8.25Z"
+                fill="black"
+                fill-rule="evenodd"
+              />
+              <mask
+                height="12"
+                id="mask0"
+                mask-type="alpha"
+                maskUnits="userSpaceOnUse"
+                width="12"
+                x="3"
+                y="3"
+              >
+                <path
+                  clip-rule="evenodd"
+                  d="M8.25 8.25V3.75C8.25 3.33579 8.58579 3 9 3C9.41421 3 9.75 3.33579 9.75 3.75V8.25H14.25C14.6642 8.25 15 8.58579 15 9C15 9.41421 14.6642 9.75 14.25 9.75H9.75V14.25C9.75 14.6642 9.41421 15 9 15C8.58579 15 8.25 14.6642 8.25 14.25V9.75H3.75C3.33579 9.75 3 9.41421 3 9C3 8.58579 3.33579 8.25 3.75 8.25H8.25Z"
+                  fill="white"
+                  fill-rule="evenodd"
+                />
+              </mask>
+              <g
+                mask="url(#mask0)"
+              >
+                <rect
+                  fill="#2891FF"
+                  height="18"
+                  width="18"
+                />
+              </g>
+            </svg>
+          </button>
+        </div>
+      </div>
+      <div
+        class="emotion-283 emotion-284"
+      >
+        <img
+          class="emotion-270 emotion-271"
+          src="https://images.footballfanatics.com/FFImage/thumb.aspx?i=/productimages/_3378000/altimages/ff_3378270-561a10d53d58af9b3071alt1_full.jpg&w=900"
+        />
+        <div
+          class="emotion-281 emotion-282"
+        >
+          <h1
+            class="emotion-272 emotion-273"
+          >
+            #20 - RJ Barrett New York Knicks Jersey - Mens
+          </h1>
+          <p
+            class="emotion-274 emotion-275"
+          >
+            $
+            69.95
+          </p>
+          <button
+            class="emotion-278 emotion-279 emotion-192"
+          >
+            Add
+            <svg
+              class="emotion-276 emotion-277"
+              fill="none"
+              height="18"
+              viewBox="0 0 18 18"
+              width="18"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M8.25 8.25V3.75C8.25 3.33579 8.58579 3 9 3C9.41421 3 9.75 3.33579 9.75 3.75V8.25H14.25C14.6642 8.25 15 8.58579 15 9C15 9.41421 14.6642 9.75 14.25 9.75H9.75V14.25C9.75 14.6642 9.41421 15 9 15C8.58579 15 8.25 14.6642 8.25 14.25V9.75H3.75C3.33579 9.75 3 9.41421 3 9C3 8.58579 3.33579 8.25 3.75 8.25H8.25Z"
+                fill="black"
+                fill-rule="evenodd"
+              />
+              <mask
+                height="12"
+                id="mask0"
+                mask-type="alpha"
+                maskUnits="userSpaceOnUse"
+                width="12"
+                x="3"
+                y="3"
+              >
+                <path
+                  clip-rule="evenodd"
+                  d="M8.25 8.25V3.75C8.25 3.33579 8.58579 3 9 3C9.41421 3 9.75 3.33579 9.75 3.75V8.25H14.25C14.6642 8.25 15 8.58579 15 9C15 9.41421 14.6642 9.75 14.25 9.75H9.75V14.25C9.75 14.6642 9.41421 15 9 15C8.58579 15 8.25 14.6642 8.25 14.25V9.75H3.75C3.33579 9.75 3 9.41421 3 9C3 8.58579 3.33579 8.25 3.75 8.25H8.25Z"
+                  fill="white"
+                  fill-rule="evenodd"
+                />
+              </mask>
+              <g
+                mask="url(#mask0)"
+              >
+                <rect
+                  fill="#2891FF"
+                  height="18"
+                  width="18"
+                />
+              </g>
+            </svg>
+          </button>
+        </div>
+      </div>
+      <div
+        class="emotion-283 emotion-284"
+      >
+        <img
+          class="emotion-270 emotion-271"
+          src="https://www.neweracap.com/medias/sys_master/root/root/h9f/h21/9504190267422/9504190267422.png"
+        />
+        <div
+          class="emotion-281 emotion-282"
+        >
+          <h1
+            class="emotion-272 emotion-273"
+          >
+            New York Knicks Blue and Orange Cap - Unisex
+          </h1>
+          <p
+            class="emotion-274 emotion-275"
+          >
+            $
+            69.95
+          </p>
+          <button
+            class="emotion-278 emotion-279 emotion-192"
+          >
+            Add
+            <svg
+              class="emotion-276 emotion-277"
+              fill="none"
+              height="18"
+              viewBox="0 0 18 18"
+              width="18"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M8.25 8.25V3.75C8.25 3.33579 8.58579 3 9 3C9.41421 3 9.75 3.33579 9.75 3.75V8.25H14.25C14.6642 8.25 15 8.58579 15 9C15 9.41421 14.6642 9.75 14.25 9.75H9.75V14.25C9.75 14.6642 9.41421 15 9 15C8.58579 15 8.25 14.6642 8.25 14.25V9.75H3.75C3.33579 9.75 3 9.41421 3 9C3 8.58579 3.33579 8.25 3.75 8.25H8.25Z"
+                fill="black"
+                fill-rule="evenodd"
+              />
+              <mask
+                height="12"
+                id="mask0"
+                mask-type="alpha"
+                maskUnits="userSpaceOnUse"
+                width="12"
+                x="3"
+                y="3"
+              >
+                <path
+                  clip-rule="evenodd"
+                  d="M8.25 8.25V3.75C8.25 3.33579 8.58579 3 9 3C9.41421 3 9.75 3.33579 9.75 3.75V8.25H14.25C14.6642 8.25 15 8.58579 15 9C15 9.41421 14.6642 9.75 14.25 9.75H9.75V14.25C9.75 14.6642 9.41421 15 9 15C8.58579 15 8.25 14.6642 8.25 14.25V9.75H3.75C3.33579 9.75 3 9.41421 3 9C3 8.58579 3.33579 8.25 3.75 8.25H8.25Z"
+                  fill="white"
+                  fill-rule="evenodd"
+                />
+              </mask>
+              <g
+                mask="url(#mask0)"
+              >
+                <rect
+                  fill="#2891FF"
+                  height="18"
+                  width="18"
+                />
+              </g>
+            </svg>
+          </button>
+        </div>
+      </div>
+      <div
+        class="emotion-283 emotion-284"
+      >
+        <img
+          class="emotion-270 emotion-271"
+          src="https://images.footballfanatics.com/FFImage/thumb.aspx?i=/productimages/_3959000/altimages/ff_3959557-7adfdd14699d80b7bf1calt2_full.jpg&w=2000"
+        />
+        <div
+          class="emotion-281 emotion-282"
+        >
+          <h1
+            class="emotion-272 emotion-273"
+          >
+            New York Knicks Black Hoody - Mens
+          </h1>
+          <p
+            class="emotion-274 emotion-275"
+          >
+            $
+            69.95
+          </p>
+          <button
+            class="emotion-278 emotion-279 emotion-192"
+          >
+            Add
+            <svg
+              class="emotion-276 emotion-277"
+              fill="none"
+              height="18"
+              viewBox="0 0 18 18"
+              width="18"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M8.25 8.25V3.75C8.25 3.33579 8.58579 3 9 3C9.41421 3 9.75 3.33579 9.75 3.75V8.25H14.25C14.6642 8.25 15 8.58579 15 9C15 9.41421 14.6642 9.75 14.25 9.75H9.75V14.25C9.75 14.6642 9.41421 15 9 15C8.58579 15 8.25 14.6642 8.25 14.25V9.75H3.75C3.33579 9.75 3 9.41421 3 9C3 8.58579 3.33579 8.25 3.75 8.25H8.25Z"
+                fill="black"
+                fill-rule="evenodd"
+              />
+              <mask
+                height="12"
+                id="mask0"
+                mask-type="alpha"
+                maskUnits="userSpaceOnUse"
+                width="12"
+                x="3"
+                y="3"
+              >
+                <path
+                  clip-rule="evenodd"
+                  d="M8.25 8.25V3.75C8.25 3.33579 8.58579 3 9 3C9.41421 3 9.75 3.33579 9.75 3.75V8.25H14.25C14.6642 8.25 15 8.58579 15 9C15 9.41421 14.6642 9.75 14.25 9.75H9.75V14.25C9.75 14.6642 9.41421 15 9 15C8.58579 15 8.25 14.6642 8.25 14.25V9.75H3.75C3.33579 9.75 3 9.41421 3 9C3 8.58579 3.33579 8.25 3.75 8.25H8.25Z"
+                  fill="white"
+                  fill-rule="evenodd"
+                />
+              </mask>
+              <g
+                mask="url(#mask0)"
+              >
+                <rect
+                  fill="#2891FF"
+                  height="18"
+                  width="18"
+                />
+              </g>
+            </svg>
+          </button>
+        </div>
+      </div>
+      <div
+        class="emotion-283 emotion-284"
+      >
+        <img
+          class="emotion-270 emotion-271"
+          src="https://images.footballfanatics.com/FFImage/thumb.aspx?i=/productimages/_1945000/ff_1945120_xl.jpg&w=900"
+        />
+        <div
+          class="emotion-281 emotion-282"
+        >
+          <h1
+            class="emotion-272 emotion-273"
+          >
+            New York Knicks Bottle Opener Keychain
+          </h1>
+          <p
+            class="emotion-274 emotion-275"
+          >
+            $
+            69.95
+          </p>
+          <button
+            class="emotion-278 emotion-279 emotion-192"
+          >
+            Add
+            <svg
+              class="emotion-276 emotion-277"
+              fill="none"
+              height="18"
+              viewBox="0 0 18 18"
+              width="18"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M8.25 8.25V3.75C8.25 3.33579 8.58579 3 9 3C9.41421 3 9.75 3.33579 9.75 3.75V8.25H14.25C14.6642 8.25 15 8.58579 15 9C15 9.41421 14.6642 9.75 14.25 9.75H9.75V14.25C9.75 14.6642 9.41421 15 9 15C8.58579 15 8.25 14.6642 8.25 14.25V9.75H3.75C3.33579 9.75 3 9.41421 3 9C3 8.58579 3.33579 8.25 3.75 8.25H8.25Z"
+                fill="black"
+                fill-rule="evenodd"
+              />
+              <mask
+                height="12"
+                id="mask0"
+                mask-type="alpha"
+                maskUnits="userSpaceOnUse"
+                width="12"
+                x="3"
+                y="3"
+              >
+                <path
+                  clip-rule="evenodd"
+                  d="M8.25 8.25V3.75C8.25 3.33579 8.58579 3 9 3C9.41421 3 9.75 3.33579 9.75 3.75V8.25H14.25C14.6642 8.25 15 8.58579 15 9C15 9.41421 14.6642 9.75 14.25 9.75H9.75V14.25C9.75 14.6642 9.41421 15 9 15C8.58579 15 8.25 14.6642 8.25 14.25V9.75H3.75C3.33579 9.75 3 9.41421 3 9C3 8.58579 3.33579 8.25 3.75 8.25H8.25Z"
+                  fill="white"
+                  fill-rule="evenodd"
+                />
+              </mask>
+              <g
+                mask="url(#mask0)"
+              >
+                <rect
+                  fill="#2891FF"
+                  height="18"
+                  width="18"
+                />
+              </g>
+            </svg>
+          </button>
+        </div>
+      </div>
+    </article>
+  </div>
+  <div
+    class="emotion-263 emotion-264 emotion-126"
+  >
+    <header
+      class="emotion-42 emotion-43"
+    >
+      <h1
+        class="emotion-40 emotion-41"
+      >
+        Also popular with NBA fans:
+      </h1>
+    </header>
+    <article
+      class="emotion-261 emotion-123"
+    >
+      <div
+        aria-label="card"
+        class="emotion-195 emotion-196"
+      >
+        <img
+          class="emotion-181 emotion-182"
+          src="https://news.wagertalk.com/wp-content/uploads/2018/10/nba-new-york-knicks-at-miami-heat.jpg"
+        />
+        <div
+          class="emotion-193 emotion-194"
+        >
+          <h1
+            class="emotion-183 emotion-184"
+          >
+            New York Knicks vs. Miami Heat
+          </h1>
+          <span
+            class="emotion-185 emotion-186"
+          >
+            6 Nov 2020
+          </span>
+          <span
+            class="emotion-187 emotion-188"
+          >
+            Madison Square Garden, NY
+          </span>
+          <p
+            class="emotion-189 emotion-190"
+          >
+            <span>
+              From
+            </span>
+             $
+            183
+          </p>
+          <button
+            class="emotion-191 emotion-192"
+          >
+            Get Tickets
+          </button>
+        </div>
+      </div>
+      <div
+        aria-label="card"
+        class="emotion-195 emotion-196"
+      >
+        <img
+          class="emotion-181 emotion-182"
+          src="https://news.wagertalk.com/wp-content/uploads/2018/10/nba-new-york-knicks-at-miami-heat.jpg"
+        />
+        <div
+          class="emotion-193 emotion-194"
+        >
+          <h1
+            class="emotion-183 emotion-184"
+          >
+            New York Knicks vs. Miami Heat
+          </h1>
+          <span
+            class="emotion-185 emotion-186"
+          >
+            6 Nov 2020
+          </span>
+          <span
+            class="emotion-187 emotion-188"
+          >
+            Madison Square Garden, NY
+          </span>
+          <p
+            class="emotion-189 emotion-190"
+          >
+            <span>
+              From
+            </span>
+             $
+            183
+          </p>
+          <button
+            class="emotion-191 emotion-192"
+          >
+            Get Tickets
+          </button>
+        </div>
+      </div>
+      <div
+        aria-label="card"
+        class="emotion-195 emotion-196"
+      >
+        <img
+          class="emotion-181 emotion-182"
+          src="https://news.wagertalk.com/wp-content/uploads/2018/10/nba-new-york-knicks-at-miami-heat.jpg"
+        />
+        <div
+          class="emotion-193 emotion-194"
+        >
+          <h1
+            class="emotion-183 emotion-184"
+          >
+            New York Knicks vs. Miami Heat
+          </h1>
+          <span
+            class="emotion-185 emotion-186"
+          >
+            6 Nov 2020
+          </span>
+          <span
+            class="emotion-187 emotion-188"
+          >
+            Madison Square Garden, NY
+          </span>
+          <p
+            class="emotion-189 emotion-190"
+          >
+            <span>
+              From
+            </span>
+             $
+            183
+          </p>
+          <button
+            class="emotion-191 emotion-192"
+          >
+            Get Tickets
+          </button>
+        </div>
+      </div>
+      <div
+        aria-label="card"
+        class="emotion-195 emotion-196"
+      >
+        <img
+          class="emotion-181 emotion-182"
+          src="https://news.wagertalk.com/wp-content/uploads/2018/10/nba-new-york-knicks-at-miami-heat.jpg"
+        />
+        <div
+          class="emotion-193 emotion-194"
+        >
+          <h1
+            class="emotion-183 emotion-184"
+          >
+            New York Knicks vs. Miami Heat
+          </h1>
+          <span
+            class="emotion-185 emotion-186"
+          >
+            6 Nov 2020
+          </span>
+          <span
+            class="emotion-187 emotion-188"
+          >
+            Madison Square Garden, NY
+          </span>
+          <p
+            class="emotion-189 emotion-190"
+          >
+            <span>
+              From
+            </span>
+             $
+            183
+          </p>
+          <button
+            class="emotion-191 emotion-192"
+          >
+            Get Tickets
+          </button>
+        </div>
+      </div>
+      <div
+        aria-label="card"
+        class="emotion-195 emotion-196"
+      >
+        <img
+          class="emotion-181 emotion-182"
+          src="https://news.wagertalk.com/wp-content/uploads/2018/10/nba-new-york-knicks-at-miami-heat.jpg"
+        />
+        <div
+          class="emotion-193 emotion-194"
+        >
+          <h1
+            class="emotion-183 emotion-184"
+          >
+            New York Knicks vs. Miami Heat
+          </h1>
+          <span
+            class="emotion-185 emotion-186"
+          >
+            6 Nov 2020
+          </span>
+          <span
+            class="emotion-187 emotion-188"
+          >
+            Madison Square Garden, NY
+          </span>
+          <p
+            class="emotion-189 emotion-190"
+          >
+            <span>
+              From
+            </span>
+             $
+            183
+          </p>
+          <button
+            class="emotion-191 emotion-192"
+          >
+            Get Tickets
+          </button>
+        </div>
+      </div>
+    </article>
+  </div>
+  <div>
+    Error loading Partnership data
+  </div>
+  <div
+    class="emotion-552 emotion-553 emotion-554 emotion-126"
+  >
+    <header
+      class="emotion-42 emotion-43"
+    >
+      <h1
+        class="emotion-40 emotion-41"
+      >
+        Local NYC Advice
+      </h1>
+      <a
+        class="emotion-486 emotion-487"
+      >
+        More
+      </a>
+    </header>
+    <article
+      class="emotion-122 emotion-123"
+    >
+      <div
+        class="emotion-516 emotion-517"
+      >
+        <div
+          class="emotion-492 emotion-493"
+        >
+          <svg
+            class="emotion-490 emotion-491"
+            color="#000"
+            fill="#000"
+            height="72"
+            width="72"
+          >
+            <defs>
+              <clippath
+                id="ca"
+              >
+                <use
+                  xlink:href="#aa"
+                />
+              </clippath>
+              <clippath
+                id="da"
+              >
+                <use
+                  xlink:href="#ba"
+                />
+              </clippath>
+              <path
+                d="M36 72c19.882 0 36-16.118 36-36S55.882 0 36 0 0 16.118 0 36s16.118 36 36 36z"
+                id="aa"
+              />
+              <path
+                d="M18 0l18 29.647H0L18 0z"
+                id="ba"
+                transform="rotate(90 19.059 37.059)"
+              />
+            </defs>
+            <use
+              fill-opacity=".2"
+              xlink:href="#aa"
+            />
+            <g
+              clip-path="url(#ca)"
+            >
+              <use
+                fill="#2891FF"
+                stroke="#2891FF"
+                stroke-width="4"
+                xlink:href="#aa"
+              />
+            </g>
+            <g>
+              <use
+                fill="#FFF"
+                xlink:href="#ba"
+              />
+              <g
+                clip-path="url(#da)"
+              >
+                <use
+                  fill="none"
+                  stroke="#FFF"
+                  stroke-width="2"
+                  xlink:href="#ba"
+                />
+              </g>
+            </g>
+          </svg>
+        </div>
+        <div
+          class="emotion-514 emotion-515"
+        >
+          <div
+            class="emotion-502 emotion-503"
+          >
+            <a
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <img
+                class="emotion-494 emotion-495"
+                src="https://content.r9cdn.net/rimg/kimg/f1/0b/34800236-58e51e7e.jpg?width=1004&crop=true&caller=HotelDetailsPhoto.jpeg"
+              />
+              <div
+                class="emotion-500 emotion-501"
+              >
+                <h1
+                  class="emotion-496 emotion-497"
+                >
+                  Restaurants near Madison Square Garden
+                </h1>
+                <p
+                  class="emotion-498 emotion-499"
+                >
+                  For years the area around Manhattan’s premier entertainment venue has been criticised for a lack of decent food options.
+                </p>
+              </div>
+            </a>
+          </div>
+          <div
+            class="emotion-502 emotion-503"
+          >
+            <a
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <img
+                class="emotion-494 emotion-495"
+                src="https://content.r9cdn.net/rimg/kimg/f1/0b/34800236-58e51e7e.jpg?width=1004&crop=true&caller=HotelDetailsPhoto.jpeg"
+              />
+              <div
+                class="emotion-500 emotion-501"
+              >
+                <h1
+                  class="emotion-496 emotion-497"
+                >
+                  Hotels near Madison Square Garden
+                </h1>
+                <p
+                  class="emotion-498 emotion-499"
+                >
+                  Now, you might have heard that Manhattan isn’t exactly the cheapest place in the world, and a night or two in a hotel could ..
+                </p>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div
+        class="emotion-548 emotion-549"
+      >
+        <div
+          class="emotion-526 emotion-527"
+        >
+          <svg
+            class="emotion-518 emotion-4870"
+            color="#000"
+            fill="#000"
+            height="43"
+            viewBox="0 0 43 43"
+            width="43"
+          >
+            <defs>
+              <clippath
+                id="h"
+              >
+                <use
+                  xlink:href="#g"
+                />
+              </clippath>
+              <path
+                d="M21.499 0h.002q.528 0 1.055.026.527.026 1.052.078.526.051 1.048.129.522.077 1.04.18.517.103 1.029.231.512.129 1.017.282.505.153 1.002.33.497.179.984.38.488.202.965.428.477.226.943.475.465.248.918.52.452.271.891.564.439.293.863.608.424.314.832.649t.799.69q.39.354.764.727.373.373.728.764.354.391.689.8.335.407.65.831.313.424.607.863.293.439.564.891.272.453.52.918.25.466.475.943.225.477.428.965.202.487.38.984.177.497.33 1.002.154.505.282 1.017.128.512.23 1.03.104.517.181 1.04.078.521.13 1.047.051.525.077 1.052.026.527.026 1.055v.002q0 .528-.026 1.055-.026.527-.077 1.052-.052.526-.13 1.048-.077.522-.18 1.04-.103.517-.231 1.029-.129.512-.282 1.017-.153.505-.33 1.002-.178.497-.38.984-.203.488-.428.965-.226.477-.475.943-.248.465-.52.918-.271.452-.564.891-.294.439-.608.863t-.649.832q-.335.408-.69.799-.354.39-.727.764-.373.373-.764.728-.391.354-.8.689-.407.335-.831.65-.424.313-.863.607-.439.293-.891.564-.453.272-.918.52-.466.25-.943.475-.477.225-.965.428-.487.202-.984.38-.497.177-1.002.33-.505.154-1.017.282-.512.128-1.03.23-.517.104-1.04.181-.521.078-1.047.13-.525.051-1.052.077Q22.029 43 21.5 43h-.002q-.528 0-1.055-.026-.527-.026-1.052-.077-.526-.052-1.048-.13-.522-.077-1.04-.18-.517-.103-1.029-.231-.512-.129-1.017-.282-.505-.153-1.002-.33-.497-.178-.984-.38-.488-.203-.965-.428-.477-.226-.943-.475-.465-.248-.918-.52-.452-.271-.891-.564-.439-.294-.863-.608t-.832-.649q-.408-.335-.799-.69-.39-.354-.764-.727-.373-.373-.728-.764-.354-.391-.689-.8-.335-.407-.65-.831-.314-.424-.607-.863t-.564-.891q-.272-.453-.52-.918-.25-.466-.475-.943-.226-.477-.427-.965-.202-.487-.38-.984t-.331-1.002q-.153-.505-.282-1.017-.128-.512-.23-1.03-.104-.517-.181-1.04-.078-.521-.13-1.047-.051-.525-.077-1.052Q0 22.029 0 21.5v-.002q0-.528.026-1.055.026-.527.078-1.052.051-.526.129-1.048.077-.522.18-1.04.103-.517.231-1.029.129-.512.282-1.017.153-.505.33-1.002.179-.497.38-.984.202-.488.428-.965.226-.477.475-.943.248-.465.52-.918.271-.452.564-.891.293-.439.608-.863.314-.424.649-.832t.69-.799q.354-.39.727-.764.373-.373.764-.728.391-.354.8-.689.407-.335.831-.65.424-.314.863-.607t.891-.564q.453-.272.918-.52.466-.25.943-.475.477-.226.965-.427.487-.202.984-.38t1.002-.331q.505-.153 1.017-.282.512-.128 1.03-.23.517-.104 1.04-.181.521-.078 1.047-.13.525-.051 1.052-.077Q20.971 0 21.5 0z"
+                id="g"
+              />
+            </defs>
+            <use
+              fill="#FFF"
+              xlink:href="#g"
+            />
+            <g
+              clip-path="url(#h)"
+            >
+              <use
+                fill="none"
+                stroke="#2891FF"
+                stroke-width="4"
+                xlink:href="#g"
+              />
+            </g>
+            <g
+              fill="#2891FF"
+            >
+              <path
+                d="M18.686 25.564v7.939h-2.461V12.497h5.771q3.37 0 5.223 1.64 1.853 1.641 1.853 4.63 0 2.988-2.059 4.892-2.058 1.904-5.559 1.904h-2.768zm0-10.84v8.613h2.578q2.549 0 3.889-1.165 1.34-1.164 1.34-3.288 0-4.16-4.921-4.16h-2.886z"
+              />
+            </g>
+          </svg>
+          <div
+            class="emotion-524 emotion-525"
+          >
+            <p
+              class="emotion-520 emotion-521"
+            >
+              Arthur Ashe Stadium parking?
+            </p>
+            <span
+              class="emotion-522 emotion-4871"
+            >
+              222
+               Views • 
+              2
+               Replies
+            </span>
+          </div>
+        </div>
+        <div
+          class="emotion-526 emotion-527"
+        >
+          <svg
+            class="emotion-518 emotion-4870"
+            color="#000"
+            fill="#000"
+            height="43"
+            viewBox="0 0 43 43"
+            width="43"
+          >
+            <defs>
+              <clippath
+                id="h"
+              >
+                <use
+                  xlink:href="#g"
+                />
+              </clippath>
+              <path
+                d="M21.499 0h.002q.528 0 1.055.026.527.026 1.052.078.526.051 1.048.129.522.077 1.04.18.517.103 1.029.231.512.129 1.017.282.505.153 1.002.33.497.179.984.38.488.202.965.428.477.226.943.475.465.248.918.52.452.271.891.564.439.293.863.608.424.314.832.649t.799.69q.39.354.764.727.373.373.728.764.354.391.689.8.335.407.65.831.313.424.607.863.293.439.564.891.272.453.52.918.25.466.475.943.225.477.428.965.202.487.38.984.177.497.33 1.002.154.505.282 1.017.128.512.23 1.03.104.517.181 1.04.078.521.13 1.047.051.525.077 1.052.026.527.026 1.055v.002q0 .528-.026 1.055-.026.527-.077 1.052-.052.526-.13 1.048-.077.522-.18 1.04-.103.517-.231 1.029-.129.512-.282 1.017-.153.505-.33 1.002-.178.497-.38.984-.203.488-.428.965-.226.477-.475.943-.248.465-.52.918-.271.452-.564.891-.294.439-.608.863t-.649.832q-.335.408-.69.799-.354.39-.727.764-.373.373-.764.728-.391.354-.8.689-.407.335-.831.65-.424.313-.863.607-.439.293-.891.564-.453.272-.918.52-.466.25-.943.475-.477.225-.965.428-.487.202-.984.38-.497.177-1.002.33-.505.154-1.017.282-.512.128-1.03.23-.517.104-1.04.181-.521.078-1.047.13-.525.051-1.052.077Q22.029 43 21.5 43h-.002q-.528 0-1.055-.026-.527-.026-1.052-.077-.526-.052-1.048-.13-.522-.077-1.04-.18-.517-.103-1.029-.231-.512-.129-1.017-.282-.505-.153-1.002-.33-.497-.178-.984-.38-.488-.203-.965-.428-.477-.226-.943-.475-.465-.248-.918-.52-.452-.271-.891-.564-.439-.294-.863-.608t-.832-.649q-.408-.335-.799-.69-.39-.354-.764-.727-.373-.373-.728-.764-.354-.391-.689-.8-.335-.407-.65-.831-.314-.424-.607-.863t-.564-.891q-.272-.453-.52-.918-.25-.466-.475-.943-.226-.477-.427-.965-.202-.487-.38-.984t-.331-1.002q-.153-.505-.282-1.017-.128-.512-.23-1.03-.104-.517-.181-1.04-.078-.521-.13-1.047-.051-.525-.077-1.052Q0 22.029 0 21.5v-.002q0-.528.026-1.055.026-.527.078-1.052.051-.526.129-1.048.077-.522.18-1.04.103-.517.231-1.029.129-.512.282-1.017.153-.505.33-1.002.179-.497.38-.984.202-.488.428-.965.226-.477.475-.943.248-.465.52-.918.271-.452.564-.891.293-.439.608-.863.314-.424.649-.832t.69-.799q.354-.39.727-.764.373-.373.764-.728.391-.354.8-.689.407-.335.831-.65.424-.314.863-.607t.891-.564q.453-.272.918-.52.466-.25.943-.475.477-.226.965-.427.487-.202.984-.38t1.002-.331q.505-.153 1.017-.282.512-.128 1.03-.23.517-.104 1.04-.181.521-.078 1.047-.13.525-.051 1.052-.077Q20.971 0 21.5 0z"
+                id="g"
+              />
+            </defs>
+            <use
+              fill="#FFF"
+              xlink:href="#g"
+            />
+            <g
+              clip-path="url(#h)"
+            >
+              <use
+                fill="none"
+                stroke="#2891FF"
+                stroke-width="4"
+                xlink:href="#g"
+              />
+            </g>
+            <g
+              fill="#2891FF"
+            >
+              <path
+                d="M18.686 25.564v7.939h-2.461V12.497h5.771q3.37 0 5.223 1.64 1.853 1.641 1.853 4.63 0 2.988-2.059 4.892-2.058 1.904-5.559 1.904h-2.768zm0-10.84v8.613h2.578q2.549 0 3.889-1.165 1.34-1.164 1.34-3.288 0-4.16-4.921-4.16h-2.886z"
+              />
+            </g>
+          </svg>
+          <div
+            class="emotion-524 emotion-525"
+          >
+            <p
+              class="emotion-520 emotion-521"
+            >
+              Best bars near Metlife Stadium?
+            </p>
+            <span
+              class="emotion-522 emotion-4871"
+            >
+              123
+               Views • 
+              13
+               Replies
+            </span>
+          </div>
+        </div>
+        <div
+          class="emotion-526 emotion-527"
+        >
+          <svg
+            class="emotion-518 emotion-4870"
+            color="#000"
+            fill="#000"
+            height="43"
+            viewBox="0 0 43 43"
+            width="43"
+          >
+            <defs>
+              <clippath
+                id="h"
+              >
+                <use
+                  xlink:href="#g"
+                />
+              </clippath>
+              <path
+                d="M21.499 0h.002q.528 0 1.055.026.527.026 1.052.078.526.051 1.048.129.522.077 1.04.18.517.103 1.029.231.512.129 1.017.282.505.153 1.002.33.497.179.984.38.488.202.965.428.477.226.943.475.465.248.918.52.452.271.891.564.439.293.863.608.424.314.832.649t.799.69q.39.354.764.727.373.373.728.764.354.391.689.8.335.407.65.831.313.424.607.863.293.439.564.891.272.453.52.918.25.466.475.943.225.477.428.965.202.487.38.984.177.497.33 1.002.154.505.282 1.017.128.512.23 1.03.104.517.181 1.04.078.521.13 1.047.051.525.077 1.052.026.527.026 1.055v.002q0 .528-.026 1.055-.026.527-.077 1.052-.052.526-.13 1.048-.077.522-.18 1.04-.103.517-.231 1.029-.129.512-.282 1.017-.153.505-.33 1.002-.178.497-.38.984-.203.488-.428.965-.226.477-.475.943-.248.465-.52.918-.271.452-.564.891-.294.439-.608.863t-.649.832q-.335.408-.69.799-.354.39-.727.764-.373.373-.764.728-.391.354-.8.689-.407.335-.831.65-.424.313-.863.607-.439.293-.891.564-.453.272-.918.52-.466.25-.943.475-.477.225-.965.428-.487.202-.984.38-.497.177-1.002.33-.505.154-1.017.282-.512.128-1.03.23-.517.104-1.04.181-.521.078-1.047.13-.525.051-1.052.077Q22.029 43 21.5 43h-.002q-.528 0-1.055-.026-.527-.026-1.052-.077-.526-.052-1.048-.13-.522-.077-1.04-.18-.517-.103-1.029-.231-.512-.129-1.017-.282-.505-.153-1.002-.33-.497-.178-.984-.38-.488-.203-.965-.428-.477-.226-.943-.475-.465-.248-.918-.52-.452-.271-.891-.564-.439-.294-.863-.608t-.832-.649q-.408-.335-.799-.69-.39-.354-.764-.727-.373-.373-.728-.764-.354-.391-.689-.8-.335-.407-.65-.831-.314-.424-.607-.863t-.564-.891q-.272-.453-.52-.918-.25-.466-.475-.943-.226-.477-.427-.965-.202-.487-.38-.984t-.331-1.002q-.153-.505-.282-1.017-.128-.512-.23-1.03-.104-.517-.181-1.04-.078-.521-.13-1.047-.051-.525-.077-1.052Q0 22.029 0 21.5v-.002q0-.528.026-1.055.026-.527.078-1.052.051-.526.129-1.048.077-.522.18-1.04.103-.517.231-1.029.129-.512.282-1.017.153-.505.33-1.002.179-.497.38-.984.202-.488.428-.965.226-.477.475-.943.248-.465.52-.918.271-.452.564-.891.293-.439.608-.863.314-.424.649-.832t.69-.799q.354-.39.727-.764.373-.373.764-.728.391-.354.8-.689.407-.335.831-.65.424-.314.863-.607t.891-.564q.453-.272.918-.52.466-.25.943-.475.477-.226.965-.427.487-.202.984-.38t1.002-.331q.505-.153 1.017-.282.512-.128 1.03-.23.517-.104 1.04-.181.521-.078 1.047-.13.525-.051 1.052-.077Q20.971 0 21.5 0z"
+                id="g"
+              />
+            </defs>
+            <use
+              fill="#FFF"
+              xlink:href="#g"
+            />
+            <g
+              clip-path="url(#h)"
+            >
+              <use
+                fill="none"
+                stroke="#2891FF"
+                stroke-width="4"
+                xlink:href="#g"
+              />
+            </g>
+            <g
+              fill="#2891FF"
+            >
+              <path
+                d="M18.686 25.564v7.939h-2.461V12.497h5.771q3.37 0 5.223 1.64 1.853 1.641 1.853 4.63 0 2.988-2.059 4.892-2.058 1.904-5.559 1.904h-2.768zm0-10.84v8.613h2.578q2.549 0 3.889-1.165 1.34-1.164 1.34-3.288 0-4.16-4.921-4.16h-2.886z"
+              />
+            </g>
+          </svg>
+          <div
+            class="emotion-524 emotion-525"
+          >
+            <p
+              class="emotion-520 emotion-521"
+            >
+              Traffic around Citi Field?
+            </p>
+            <span
+              class="emotion-522 emotion-4871"
+            >
+              3087
+               Views • 
+              1
+               Replies
+            </span>
+          </div>
+        </div>
+      </div>
+    </article>
+  </div>
+  <div
+    class="emotion-572 emotion-573"
+  >
+    <div
+      class="emotion-570 emotion-571"
+    >
+      <span
+        class="emotion-556 emotion-557"
+      >
+        Subscribe
+      </span>
+      <span
+        class="emotion-558 emotion-559"
+      >
+        Subscribe to receive important announcements and deals
+      </span>
+      <form>
+        <div
+          class="emotion-562 emotion-563"
+        >
+          <input
+            class="emotion-560 emotion-561"
+            placeholder="Full Name"
+            value=""
+          />
+        </div>
+        <div
+          class="emotion-562 emotion-563"
+        >
+          <input
+            class="emotion-560 emotion-561"
+            placeholder="Email"
+            value=""
+          />
+        </div>
+        <button
+          class="emotion-568 emotion-192"
+        >
+          Go
+        </button>
+      </form>
+    </div>
+  </div>
+</div>
+`;

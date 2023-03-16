@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Input /> Renders the Input unchanged 1`] = `
+.emotion-2 {
+  width: 22rem;
+}
+
+.emotion-0 {
+  border: 2px solid #ffffff;
+  border-radius: 25px;
+  font-family: Inter,sans-serif;
+  color: #ffffff;
+  display: block;
+  font-size: 13px;
+  outline: none;
+  font-weight: 400;
+  width: 100%;
+  line-height: 20px;
+  padding-left: 2.5rem;
+  padding-right: 0.8rem;
+  font-weight: 400;
+  height: 45px;
+}
+
+.emotion-0::-webkit-input-placeholder {
+  color: #ffffff;
+  opacity: 1;
+}
+
+.emotion-0::-moz-placeholder {
+  color: #ffffff;
+  opacity: 1;
+}
+
+.emotion-0:-ms-input-placeholder {
+  color: #ffffff;
+  opacity: 1;
+}
+
+.emotion-0::placeholder {
+  color: #ffffff;
+  opacity: 1;
+}
+
+@media (max-width:48em) {
+  .emotion-0 {
+    padding: 0 2.4rem;
+  }
+}
+
+<div>
+  <div
+    class="emotion-2 emotion-3"
+  >
+    <input
+      class="emotion-0 emotion-1"
+      value=""
+    />
+  </div>
+</div>
+`;

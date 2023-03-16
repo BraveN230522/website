@@ -1,0 +1,193 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Modal /> Renders the Modal unchanged 1`] = `<DocumentFragment />`;
+
+exports[`<Modal /> Show modal when 'isInitiallyOpened' is true 1`] = `
+<DocumentFragment>
+  @keyframes animation-0 {
+  0%, 3% {
+    opacity: 0;
+  }
+
+  4%, 30% {
+    opacity: 0.3;
+  }
+
+  60% {
+    opacity: 0.8;
+  }
+
+  90% {
+    opacity: 1;
+  }
+}
+
+.emotion-6 {
+  position: fixed;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0,0,0,0.5);
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.emotion-4 {
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  position: relative;
+  z-index: 99;
+  width: 800px;
+  min-height: 472px;
+  background: #ffffff;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border-radius: 16px;
+  box-shadow: 0px 1px 16px rgba(0,0,0,0.2);
+  -webkit-animation: animation-0 0.4s ease;
+  animation: animation-0 0.4s ease;
+}
+
+@media (max-width:48em) {
+  .emotion-4 {
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    border-radius: 0;
+    box-shadow: none;
+    max-height: unset;
+  }
+}
+
+.emotion-2 {
+  position: relative;
+  height: 93px;
+  width: 100vw;
+  display: none;
+  background-color: #2891ff;
+}
+
+@media (max-width:48em) {
+  .emotion-2 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-align-items: flex-end;
+    -webkit-box-align: flex-end;
+    -ms-flex-align: flex-end;
+    align-items: flex-end;
+    padding-bottom: 12px;
+  }
+}
+
+.emotion-0 {
+  position: absolute;
+  bottom: 21px;
+  left: 17px;
+}
+
+.emotion-0:hover,
+.emotion-0:focus {
+  cursor: pointer;
+}
+
+<div
+    aria-modal="true"
+    class="emotion-6 emotion-7"
+    data-testid="modal-component"
+    id="dismiss-modal"
+    role="dialog"
+  >
+    <div
+      class="emotion-4 emotion-5"
+    >
+      <div
+        class="emotion-2 emotion-3"
+        data-testid="modal-header-mobile"
+      >
+        <a
+          class="emotion-0 emotion-1"
+          data-testid="modal-close-button"
+        >
+          <svg
+            color="#FFFFFF"
+            height="24"
+            width="24"
+          >
+            <defs>
+              <path
+                d="M.293.293c.39-.39 1.024-.39 1.414 0L7 5.585 12.293.293c.36-.36.928-.388 1.32-.083l.094.083c.39.39.39 1.024 0 1.414L8.415 7l5.292 5.293c.36.36.388.928.083 1.32l-.083.094c-.39.39-1.024.39-1.414 0L7 8.415l-5.293 5.292c-.36.36-.928.388-1.32.083l-.094-.083c-.39-.39-.39-1.024 0-1.414L5.585 7 .293 1.707C-.067 1.347-.095.78.21.387z"
+                id="prefix__a"
+              />
+            </defs>
+            <g
+              fill="none"
+              fill-rule="evenodd"
+              transform="translate(5 5)"
+            >
+              <mask
+                fill="#FFFFFF"
+                id="prefix__b"
+              >
+                <use
+                  xlink:href="#prefix__a"
+                />
+              </mask>
+              <use
+                fill="#FFFFFF"
+                fill-rule="nonzero"
+                xlink:href="#prefix__a"
+              />
+              <g
+                fill="#FFFFFF"
+                mask="url(#prefix__b)"
+              >
+                <path
+                  d="M0 0H24V24H0z"
+                  transform="translate(-5 -5)"
+                />
+              </g>
+            </g>
+          </svg>
+        </a>
+        <img
+          alt="Sports where I am"
+          src="mocked-file"
+        />
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

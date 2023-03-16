@@ -1,0 +1,355 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<MobileMenu /> Renders the MobileMenu unchanged 1`] = `
+<DocumentFragment>
+  .emotion-28 {
+  position: fixed;
+  top: 0;
+  right: -100rem;
+  visibility: hidden;
+  opacity: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 500;
+  -webkit-transition: all 0.32s ease-in-out;
+  transition: all 0.32s ease-in-out;
+}
+
+.emotion-28:after {
+  content: '';
+  background-color: rgba(0,0,0,0.7);
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.emotion-26 {
+  background-color: #ffffff;
+  position: absolute;
+  width: 80%;
+  height: 100%;
+  top: 0;
+  right: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  z-index: 502;
+  padding-bottom: 24px;
+  border-radius: 12px 0 0 12px;
+}
+
+@media (max-width:48em) {
+  .emotion-26 {
+    max-width: 338px;
+  }
+}
+
+.emotion-2 {
+  background-color: #2891ff;
+  min-height: 93px;
+  padding: 12px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: flex-end;
+  -webkit-box-align: flex-end;
+  -ms-flex-align: flex-end;
+  align-items: flex-end;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+  border-top-left-radius: 12px;
+  -webkit-letter-spacing: -0.17px;
+  -moz-letter-spacing: -0.17px;
+  -ms-letter-spacing: -0.17px;
+  letter-spacing: -0.17px;
+  color: #ffffff;
+  position: relative;
+}
+
+.emotion-2 > span {
+  font-family: DINAlternateRegular,sans-serif;
+  font-size: 24px;
+}
+
+.emotion-0 {
+  border: 0;
+  background-color: transparent;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  position: absolute;
+  left: -41px;
+  top: 57px;
+  outline: 0;
+}
+
+.emotion-0:focus {
+  outline: 0;
+}
+
+.emotion-24 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  padding: 12px;
+  text-align: right;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  height: 100%;
+  overflow-y: auto;
+}
+
+.emotion-4 {
+  font-family: DINAlternateBold,sans-serif;
+  font-size: 24px;
+  margin-top: 24px;
+  margin-bottom: 24px;
+  color: #000000;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.emotion-4:hover,
+.emotion-4:visited,
+.emotion-4:focus {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.emotion-4 > svg {
+  margin-left: 25px;
+}
+
+.emotion-18 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  margin-bottom: 60px;
+}
+
+.emotion-6 {
+  font-family: DINAlternateBold,sans-serif;
+  font-size: 24px;
+  margin-top: 24px;
+  color: #000000;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.emotion-6:hover,
+.emotion-6:visited,
+.emotion-6:focus {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.emotion-6 > svg {
+  margin-left: 25px;
+}
+
+<div
+    aria-hidden="true"
+    class="emotion-28 emotion-29"
+    data-testid="menu-mobile"
+  >
+    <aside
+      class="emotion-26 emotion-27"
+    >
+      <div
+        class="emotion-2 emotion-3"
+      >
+        <span>
+          Menu
+        </span>
+        <button
+          class="emotion-0 emotion-1"
+        >
+          <svg
+            color="#fff"
+            height="24"
+            width="24"
+          >
+            <defs>
+              <path
+                d="M.293.293c.39-.39 1.024-.39 1.414 0L7 5.585 12.293.293c.36-.36.928-.388 1.32-.083l.094.083c.39.39.39 1.024 0 1.414L8.415 7l5.292 5.293c.36.36.388.928.083 1.32l-.083.094c-.39.39-1.024.39-1.414 0L7 8.415l-5.293 5.292c-.36.36-.928.388-1.32.083l-.094-.083c-.39-.39-.39-1.024 0-1.414L5.585 7 .293 1.707C-.067 1.347-.095.78.21.387z"
+                id="prefix__a"
+              />
+            </defs>
+            <g
+              fill="none"
+              fill-rule="evenodd"
+              transform="translate(5 5)"
+            >
+              <mask
+                fill="#fff"
+                id="prefix__b"
+              >
+                <use
+                  xlink:href="#prefix__a"
+                />
+              </mask>
+              <use
+                fill="#fff"
+                fill-rule="nonzero"
+                xlink:href="#prefix__a"
+              />
+              <g
+                fill="#fff"
+                mask="url(#prefix__b)"
+              >
+                <path
+                  d="M0 0H24V24H0z"
+                  transform="translate(-5 -5)"
+                />
+              </g>
+            </g>
+          </svg>
+        </button>
+      </div>
+      <div
+        class="emotion-24 emotion-25"
+      >
+        <a
+          class="emotion-4 emotion-5"
+          href="/"
+        >
+          Login / Register 
+          <svg
+            color="#000"
+            fill="#000"
+            height="24"
+            viewBox="0 0 19.001 24"
+            width="19.001"
+          >
+            <g
+              transform="translate(-0.999)"
+            >
+              <path
+                d="M5,12c2.761,0,5-2.686,5-6S9.265,0,5,0,0,2.686,0,6,2.239,12,5,12Z"
+                transform="translate(5)"
+              />
+              <path
+                d="M.051.1c0-.2,0-.056,0,0Z"
+                transform="translate(0.95 20.949)"
+              />
+              <path
+                d="M.049.18c0-.054,0-.375,0,0Z"
+                transform="translate(18.95 20.91)"
+              />
+              <path
+                d="M18.989,8.405C18.9,2.669,18.129,1.035,12.254,0A3.558,3.558,0,0,1,9.5,1.028,3.559,3.559,0,0,1,6.746,0C.936,1.023.121,2.634.014,8.219.006,8.675,0,8.7,0,8.646c0,.1,0,.283,0,.6C0,9.249,1.4,12,9.5,12S19,9.249,19,9.249c0-.206,0-.349,0-.446A3.6,3.6,0,0,1,18.989,8.405Z"
+                transform="translate(1 12)"
+              />
+            </g>
+          </svg>
+        </a>
+        <nav
+          class="emotion-18 emotion-19"
+        >
+          <a
+            class="emotion-6 emotion-5"
+            href="/"
+          >
+            Home
+          </a>
+          <a
+            class="emotion-6 emotion-5"
+            href="/"
+          >
+            Events
+          </a>
+          <a
+            class="emotion-6 emotion-5"
+            href="/"
+          >
+            Cities
+          </a>
+          <a
+            class="emotion-6 emotion-5"
+            href="/"
+          >
+            Hotels
+          </a>
+          <a
+            class="emotion-6 emotion-5"
+            href="/"
+          >
+            Experiences
+          </a>
+          <a
+            class="emotion-6 emotion-5"
+            href="/"
+          >
+            About
+          </a>
+        </nav>
+        <a
+          class="emotion-6 emotion-5"
+          href="/"
+        >
+          Contact
+        </a>
+        <a
+          class="emotion-6 emotion-5"
+          href="/"
+        >
+          Download App for iOS
+        </a>
+      </div>
+    </aside>
+  </div>
+</DocumentFragment>
+`;

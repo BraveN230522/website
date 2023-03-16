@@ -1,0 +1,241 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<FormAuthentication /> Renders the Authentication unchanged 1`] = `
+<DocumentFragment>
+  .emotion-17 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.emotion-15 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  width: 100%;
+}
+
+.emotion-8 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.emotion-8 div {
+  width: 100%;
+}
+
+@media (max-width:48em) {
+  .emotion-8 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-flex-wrap: nowrap;
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+  }
+
+  .emotion-8 div {
+    width: 100%;
+  }
+}
+
+.emotion-2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.emotion-0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 50px;
+  width: 100%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  font-family: Inter,sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  padding: 12px 24px;
+  margin: 0;
+  margin-bottom: 10px;
+  border: 2px solid #9c9c9c;
+  box-sizing: border-box;
+  border-radius: 30px;
+}
+
+@media (max-width:48em) {
+  .emotion-0 {
+    border-width: 1px;
+    box-sizing: border-box;
+    border-radius: 25px;
+  }
+}
+
+.emotion-13 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding-top: 24px;
+}
+
+@media (max-width:48em) {
+  .emotion-13 {
+    padding-top: 20%;
+  }
+}
+
+.emotion-11 {
+  border: solid 2px #2891ff;
+  color: #ffffff;
+  background: #2891ff;
+  height: 45px;
+  font-weight: 600;
+  font-size: 16px;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-transition: all 0.3s ease-in;
+  transition: all 0.3s ease-in;
+  cursor: pointer;
+  font-family: Inter,sans-serif;
+  border-radius: 25px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  outline: none;
+  vertical-align: middle;
+  text-align: center;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  width: 103px;
+  width: 33.33%;
+}
+
+.emotion-11:hover {
+  border-color: #2891ff;
+  background: #ffffff;
+  color: #2891ff;
+}
+
+.emotion-11 svg {
+  margin-right: 6px;
+}
+
+.emotion-11:hover path {
+  stroke: #000000;
+}
+
+@media (max-width:48em) {
+  .emotion-11 {
+    width: 100%;
+  }
+}
+
+<section
+    class="emotion-17 emotion-18"
+    data-testid="form-authentication-component"
+  >
+    <form
+      class="emotion-15 emotion-16"
+    >
+      <div
+        class="emotion-8 emotion-9"
+      >
+        <div
+          class="emotion-2 emotion-3"
+        >
+          <input
+            aria-label="email-address-input"
+            class="emotion-0 emotion-1"
+            name="email"
+            placeholder="Email Address"
+            type="text"
+          />
+        </div>
+        <div
+          class="emotion-2 emotion-3"
+        >
+          <input
+            aria-label="password-input"
+            class="emotion-0 emotion-1"
+            name="password"
+            placeholder="Password"
+            type="password"
+          />
+        </div>
+      </div>
+      <div
+        class="emotion-13 emotion-14"
+      >
+        <button
+          class="emotion-10 emotion-11 emotion-12"
+        >
+          Login
+        </button>
+      </div>
+    </form>
+  </section>
+</DocumentFragment>
+`;
